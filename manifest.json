@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "id": "3dm-catalog-asset",
+  "version": "1.0.0",
+  "author": "Catalog maintainer",
+  "source": "https://github.com/reynalivan/3dm-catalog-asset",
+  "license": "UNVERIFIED - publisher-declared rights required",
+  "catalogs": {
+    "efmi": {
+      "path": "catalog/efmi.json",
+      "sha256": "b6cc3529c4bed695201bd014d9751edaaa64de3ef62b73a3820c6a22bcd87a3c"
+    },
+    "gimi": {
+      "path": "catalog/gimi.json",
+      "sha256": "ea4498e67fe8f8143065749eb60a78cd3498887e807b0f00fe57c4e29b979801"
+    },
+    "srmi": {
+      "path": "catalog/srmi.json",
+      "sha256": "69568fc273b77db8a1c95f4f33ef923a159e966626204b118c1f8c12ebb2109c"
+    },
+    "wwmi": {
+      "path": "catalog/wwmi.json",
+      "sha256": "40db42fa139ab1dc31d4f2e3c505424cd557474d3c56610fd4c45a92e0be9f8b"
+    },
+    "zzmi": {
+      "path": "catalog/zzmi.json",
+      "sha256": "5a10f57c7cbfe863e5075fc2497b7dc0fd71b9e5d11c01d70b647799dcf333fc"
+    }
+  }
+}

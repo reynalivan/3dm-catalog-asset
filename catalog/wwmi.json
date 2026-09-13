@@ -1,0 +1,820 @@
+{
+  "entries": [
+    {
+      "name": "Aalto",
+      "hash_db": {
+        "Default": ["93bbbdc0"]
+      },
+      "tags": [
+        "Black Shores",
+        "Congenital",
+        "Information Broker",
+        "阿尔托",
+        "Ā'ěrtuō",
+        "アルト",
+        "Aruto",
+        "알토",
+        "Alto"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/aalto.png",
+      "metadata": {
+        "release_date": "2024-05-22",
+        "rarity": "4-Star",
+        "element": "Aero",
+        "weapon": "Pistols",
+        "region": "The Black Shores"
+      }
+    },
+    {
+      "name": "Baizhi",
+      "hash_db": {
+        "Default": ["4a2b2eca"]
+      },
+      "tags": [
+        "Huaxu Academy",
+        "Mutant",
+        "Remnant Resercher",
+        "白芷",
+        "Báizhǐ",
+        "びゃくし",
+        "Byakushi",
+        "백지",
+        "Baekji"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Ethereal Frost",
+          "aliases": ["BaizhiFrost", "Baizhi2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/baizhi.png",
+      "metadata": {
+        "release_date": "2024-05-22",
+        "rarity": "4-Star",
+        "element": "Glacio",
+        "weapon": "Rectifier",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Brant",
+      "hash_db": {
+        "Default": ["5943f99a"]
+      },
+      "tags": ["Troupe of Fools", "Natural"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/brant.png",
+      "metadata": {
+        "release_date": "2025-03-06",
+        "rarity": "5-Star",
+        "element": "Fusion",
+        "weapon": "Sword",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Calcharo",
+      "hash_db": {
+        "Default": ["63e02559"]
+      },
+      "tags": [
+        "Ghost Hounds",
+        "Natural",
+        "卡卡罗",
+        "Kǎkǎluó",
+        "カカロ",
+        "Kakaro",
+        "카카루",
+        "Kakaru"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/calcharo.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "weapon": "Broadblade",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Camellya",
+      "hash_db": {
+        "Default": ["7748c1d8"]
+      },
+      "tags": ["Black Shores", "Artificial"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/camellya.png",
+      "metadata": {
+        "release_date": "2024-11-14",
+        "rarity": "5-Star",
+        "element": "Havoc",
+        "weapon": "Sword",
+        "region": "The Black Shores"
+      }
+    },
+    {
+      "name": "Cantarella",
+      "hash_db": {},
+      "tags": ["Fisalia Family", "Unknown"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/cantarella.png",
+      "metadata": {
+        "release_date": "2025-03-27",
+        "rarity": "5-Star",
+        "element": "Havoc",
+        "weapon": "Rectifier",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Carlotta",
+      "hash_db": {
+        "Default": ["4ba716ae"]
+      },
+      "tags": ["Montelli Family", "Mutant"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/carlotta.png",
+      "metadata": {
+        "release_date": "2025-01-02",
+        "rarity": "5-Star",
+        "element": "Glacio",
+        "weapon": "Pistols",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Cartethyia",
+      "hash_db": {},
+      "tags": ["Order of the Deep", "Congenital"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/cartethyia.png",
+      "metadata": {
+        "release_date": "2025-06-12",
+        "rarity": "5-Star",
+        "element": "Aero",
+        "weapon": "Sword",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Changli",
+      "hash_db": {
+        "Default": ["d14bed8b"]
+      },
+      "tags": ["City Hall", "Natural", "长离", "Chánglí", "長離", "Chōri", "장리", "Jangli"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Vermillion Feathers",
+          "aliases": ["ChangliFeathers", "Changli2", "ChangliRed"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/changli.png",
+      "metadata": {
+        "release_date": "2024-07-22",
+        "rarity": "5-Star",
+        "element": "Fusion",
+        "weapon": "Sword",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Chixia",
+      "hash_db": {
+        "Default": ["1606ae41"]
+      },
+      "tags": [
+        "Public Security Bureau",
+        "Mutant",
+        "炽霞",
+        "Chìxiá",
+        "キカ",
+        "Kika",
+        "치샤",
+        "Chisya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Blazing Heroine",
+          "aliases": ["ChixiaHero", "Chixia2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/chixia.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Fusion",
+        "weapon": "Pistols",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Ciaccona",
+      "hash_db": {},
+      "tags": ["Fisalia Family"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/ciaccona.png",
+      "metadata": {
+        "release_date": "2025-05-22",
+        "rarity": "5-Star",
+        "element": "Aero",
+        "weapon": "Pistols",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Danjin",
+      "hash_db": {
+        "Default": ["6aefd9b3"]
+      },
+      "tags": ["Midnight Rangers", "Mutant", "丹瑾", "Dānjǐn", "丹瑾", "Tankin", "단근", "Dangeun"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/danjin.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Havoc",
+        "weapon": "Sword",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Encore",
+      "hash_db": {
+        "Default": ["592add5c"]
+      },
+      "tags": ["Black Shores", "Congenital", "安可", "Ānkě", "アンコ", "Anko", "앙코", "Angko"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/encore.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Fusion",
+        "weapon": "Rectifier",
+        "region": "The Black Shores"
+      }
+    },
+    {
+      "name": "Jianxin",
+      "hash_db": {
+        "Default": ["9b60ec42"]
+      },
+      "tags": ["Fengyiquan", "Natural", "鉴心", "Jiànxīn", "鑑心", "Kanshin", "감심", "Gamsim"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/jianxin.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Aero",
+        "weapon": "Gauntlets",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Jinhsi",
+      "hash_db": {
+        "Default": ["243b7e59"],
+        "Jinhsi2": ["493ff3b9"]
+      },
+      "tags": ["City Hall", "Congenital", "今汐", "Jīnxī", "今汐", "Konshi", "금희", "Geumhui"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Resplendent Moon",
+          "aliases": ["JinshiMoon", "Jinshi2", "JinshiPremium"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/jinhsi.png",
+      "metadata": {
+        "release_date": "2024-06-28",
+        "rarity": "5-Star",
+        "element": "Spectro",
+        "weapon": "Broadblade",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Jiyan",
+      "hash_db": {
+        "Default": ["31b50c1d"]
+      },
+      "tags": ["Midnight Rangers", "Mutant", "忌炎", "Jìyán", "忌炎", "Kien", "기염", "Giyeom"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/jiyan.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Aero",
+        "weapon": "Broadblade",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Lingyang",
+      "hash_db": {
+        "Default": ["8b3c13f9"]
+      },
+      "tags": [
+        "Liondance Troupe",
+        "Natural",
+        "凌阳",
+        "Língyáng",
+        "リンヨウ",
+        "Rinyō",
+        "능양",
+        "Neung-yang"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/lingyang.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Glacio",
+        "weapon": "Gauntlets",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Lumi",
+      "hash_db": {
+        "Default": ["78b79747"]
+      },
+      "tags": ["Lollo Logistics", "Congenital"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/lumi.png",
+      "metadata": {
+        "release_date": "2024-12-12",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "weapon": "Broadblade",
+        "region": "Yuezhou, Huanglong"
+      }
+    },
+    {
+      "name": "Mortefi",
+      "hash_db": {
+        "Default": ["7b29fedf"]
+      },
+      "tags": [
+        "Huaxu Academy",
+        "Mutant",
+        "莫特斐",
+        "Mòtèfěi",
+        "モルトフィ",
+        "Morutofi",
+        "모르테피",
+        "Moreutepi"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/mortefi.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Fusion",
+        "weapon": "Pistols",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Phoebe",
+      "hash_db": {
+        "Default": ["8ee2fb7c"]
+      },
+      "tags": ["Order of the Deep", "Unknown"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/phoebe.png",
+      "metadata": {
+        "release_date": "2025-02-13",
+        "rarity": "5-Star",
+        "element": "Spectro",
+        "weapon": "Rectifier",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Roccia",
+      "hash_db": {
+        "Default": ["8d97c1bd"]
+      },
+      "tags": ["Troupe of Fools", "Acquired"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/roccia.png",
+      "metadata": {
+        "release_date": "2025-03-06",
+        "rarity": "5-Star",
+        "element": "Havoc",
+        "weapon": "Gauntlets",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Rover Male",
+      "hash_db": {
+        "Default": ["c9db8418"]
+      },
+      "tags": [
+        "Black Shores",
+        "Arbiters",
+        "Spectro",
+        "Aero",
+        "Havoc",
+        "漂泊者",
+        "Piāobózhě",
+        "漂泊者",
+        "Hyōhakusha",
+        "방랑자",
+        "Bangrangja"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Tides of Destiny",
+          "aliases": ["RoverTides", "Rover2", "MCRover2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/rover_male.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Adaptive",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Unknown"
+      }
+    },
+    {
+      "name": "Rover Female",
+      "hash_db": {
+        "Default": ["e8b5a730"]
+      },
+      "tags": [
+        "Black Shores",
+        "Arbiters",
+        "Spectro",
+        "Aero",
+        "Havoc",
+        "漂泊者",
+        "Piāobózhě",
+        "漂泊者",
+        "Hyōhakusha",
+        "방랑자",
+        "Bangrangja"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Tides of Destiny",
+          "aliases": ["RoverTides", "Rover2", "MCRover2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/rover_female.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Adaptive",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Unknown"
+      }
+    },
+    {
+      "name": "Sanhua",
+      "hash_db": {
+        "Default": ["33e4890f"],
+        "Glacial Grace": ["b101dcf3"],
+        "Sanhua2": ["b101dcf3"]
+      },
+      "tags": ["City Hall", "Mutant", "散华", "Sànhuà", "サンカ", "Sanka", "산화", "Sanhwa"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Glacial Grace",
+          "aliases": ["SanhuaGrace", "Sanhua2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/sanhua.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Glacio",
+        "weapon": "Sword",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Shorekeeper",
+      "hash_db": {
+        "Default": ["0266ab77"]
+      },
+      "tags": ["Black Shores"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Abyssal Echo",
+          "aliases": ["ShorekeeperEcho", "Shorekeeper2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/shorekeeper.png",
+      "metadata": {
+        "release_date": "2024-11-14",
+        "rarity": "5-Star",
+        "element": "Spectro",
+        "weapon": "Rectifier",
+        "region": "The Black Shores"
+      }
+    },
+    {
+      "name": "Taoqi",
+      "hash_db": {
+        "Default": ["e2685889"]
+      },
+      "tags": [
+        "Ministry of Development",
+        "Natural",
+        "桃祈",
+        "Táoqí",
+        "タオキ",
+        "Taoki",
+        "도기",
+        "Dogi"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/taoqi.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Havoc",
+        "weapon": "Broadblade",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Verina",
+      "hash_db": {
+        "Default": ["82aa82e1"]
+      },
+      "tags": [
+        "Pioneer Association",
+        "Congenital",
+        "维里奈",
+        "Wéilǐnài",
+        "ヴェリーナ",
+        "Verīna",
+        "벨리나",
+        "Bellina"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/verina.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "5-Star",
+        "element": "Spectro",
+        "weapon": "Rectifier",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Xiangli Yao",
+      "hash_db": {},
+      "tags": ["Huaxu Academy", "Mutant"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/xiangli_yao.png",
+      "metadata": {
+        "release_date": "2024-09-07",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "weapon": "Gauntlets",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Yangyang",
+      "hash_db": {
+        "Default": ["249200ff"]
+      },
+      "tags": [
+        "Midnight Rangers",
+        "Natural",
+        "秧秧",
+        "Yāngyāng",
+        "ヤンヤン",
+        "Yanyan",
+        "양양",
+        "Yang-yang"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/yangyang.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Aero",
+        "weapon": "Sword",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Yinlin",
+      "hash_db": {
+        "Default": ["42702199"]
+      },
+      "tags": [
+        "Public Security Bureau",
+        "Congenital",
+        "吟霖",
+        "Yínlín",
+        "吟霖",
+        "Inrin",
+        "음림",
+        "Eumrim"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Nightshade Bloom",
+          "aliases": ["YinlinNight", "Yinlin2", "YinlinBloom"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/wwmi/char/yinlin.png",
+      "metadata": {
+        "release_date": "2024-06-06",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "weapon": "Rectifier",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Youhu",
+      "hash_db": {
+        "Default": ["03eea2d0"]
+      },
+      "tags": ["Mutant"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/youhu.png",
+      "metadata": {
+        "release_date": "2024-10-24",
+        "rarity": "4-Star",
+        "element": "Glacio",
+        "weapon": "Gauntlets",
+        "region": "Chongzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Yuanwu",
+      "hash_db": {
+        "Default": ["51c230c2"]
+      },
+      "tags": ["Natural", "渊武", "Yuānwǔ", "エンブ", "Enbu", "원무", "Wonmu"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/yuanwu.png",
+      "metadata": {
+        "release_date": "2024-05-23",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "weapon": "Gauntlets",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Zani",
+      "hash_db": {},
+      "tags": ["Montelli Family", "Mutant"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/zani.png",
+      "metadata": {
+        "release_date": "2025-04-29",
+        "rarity": "5-Star",
+        "element": "Spectro",
+        "weapon": "Gauntlets",
+        "region": "Ragunna, Rinascita"
+      }
+    },
+    {
+      "name": "Zhezhi",
+      "hash_db": {
+        "Default": ["c8b08afd"]
+      },
+      "tags": ["Congenital"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/wwmi/char/zhezhi.png",
+      "metadata": {
+        "release_date": "2024-08-15",
+        "rarity": "5-Star",
+        "element": "Glacio",
+        "weapon": "Rectifier",
+        "region": "Jinzhou, Huanglong"
+      }
+    },
+    {
+      "name": "Weapon",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "User Interface",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "UI",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Enemy",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "NPC",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Collectibles",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "World Objects",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "VFX",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    }
+  ],
+  "hash_db": {}
+}

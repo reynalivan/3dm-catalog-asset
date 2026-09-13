@@ -1,0 +1,988 @@
+{
+  "entries": [
+    {
+      "name": "Alexandrina Sebastiane",
+      "hash_db": {},
+      "tags": [
+        "Support",
+        "Strike",
+        "亚历山德丽娜•谢苗诺夫娜",
+        "Yàlìshāndélìnuó•Xièmiáonuòfūnà",
+        "アレクサンドリナ・セバスティアン",
+        "Arekusandorina Sebasutian",
+        "알렉산드리나 세바스티아네",
+        "Alleksandeurina Sebasetiane"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/alexandrina_sebastiane.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Dual Pistols",
+        "region": "Victoria Housekeeping Co.",
+        "specialty": "Support"
+      }
+    },
+    {
+      "name": "Anby Demara",
+      "hash_db": {},
+      "tags": [
+        "Stun",
+        "Slash",
+        "安比•德玛拉",
+        "Ānbǐ•Démǎlā",
+        "アンビー・デマラ",
+        "Anbī Demara",
+        "앤비 더마라",
+        "Aenbi Deomara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Cunning Streetwear",
+          "aliases": ["AnbyStreet", "Anby2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/anby_demara.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Electric Blade",
+        "region": "Cunning Hares",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Anton Ivanov",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Pierce",
+        "安东•伊万诺夫",
+        "Āndōng•Yīwànnuòfū",
+        "アントン・イワノフ",
+        "Anton Iwanofu",
+        "안톤 이바노프",
+        "Anton Ibanopeu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/anton_ivanov.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Electric",
+        "gender": "Male",
+        "weapon": "Drill Lance",
+        "region": "Belobog Heavy Industries",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Asaba Harumasa",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Pierce",
+        "Slash",
+        "浅羽悠真",
+        "Qiǎnyǔ Yōuzhēn",
+        "浅羽悠真",
+        "Asaba Harumasa",
+        "아사바 하루마사",
+        "Asaba Harumasa"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/asaba_harumasa.png",
+      "metadata": {
+        "release_date": "2024-12-18",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Male",
+        "weapon": "Katana",
+        "region": "Hollow Special Operations Section 6",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Astra Yao",
+      "hash_db": {
+        "Default": ["9b17301d"],
+        "Astra Yao2": ["b72fadfc"]
+      },
+      "tags": [
+        "Support",
+        "Strike",
+        "姚•阿斯特",
+        "Yáo•Āsītè",
+        "姚・アストラ",
+        "Yao Asutora",
+        "야오 아스트라",
+        "Yao Aseuteura"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/astra_yao.png",
+      "metadata": {
+        "release_date": "2025-01-22",
+        "rarity": "S-Rank",
+        "element": "Ether",
+        "gender": "Female",
+        "weapon": "Rifle",
+        "region": "Stars of Lyra",
+        "specialty": "Support"
+      }
+    },
+    {
+      "name": "Ben Bigger",
+      "hash_db": {},
+      "tags": [
+        "Defense",
+        "Strike",
+        "本•比格",
+        "Běn•Bǐgé",
+        "ベン・ビガー",
+        "Ben Bigā",
+        "벤 비거",
+        "Ben Bigeo"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/ben_bigger.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Fire",
+        "gender": "Male",
+        "weapon": "Pillars",
+        "region": "Belobog Heavy Industries",
+        "specialty": "Defense"
+      }
+    },
+    {
+      "name": "Billy Kid",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Pierce",
+        "比利•奇德",
+        "Bǐlì•Qídé",
+        "ビリー・キッド",
+        "Birī Kiddo",
+        "빌리 키드",
+        "Billi Kideu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Starlight Chrome",
+          "aliases": ["BillyChrome", "Billy2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/billy_kid.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Physical",
+        "gender": "Male",
+        "weapon": "Dual Pistols",
+        "region": "Cunning Hares",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Burnice White",
+      "hash_db": {},
+      "tags": ["Anomaly", "Pierce", "バーニス・ホワイト", "Bānisu Howaito", "白祇", "Báizhi"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/burnice_white.png",
+      "metadata": {
+        "release_date": "2024-10-16",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Rocket Hammer",
+        "region": "Sons of Calydon",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Caesar King",
+      "hash_db": {},
+      "tags": [
+        "Defense",
+        "Slash",
+        "Strike",
+        "凯撒•金",
+        "Kǎisā•Jīn",
+        "キング・シーザー",
+        "Kingu Shīzā",
+        "시저 킹",
+        "Sijeo King"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/caesar_king.png",
+      "metadata": {
+        "release_date": "2024-09-25",
+        "rarity": "S-Rank",
+        "element": "Physical",
+        "gender": "Male",
+        "weapon": "Greatsword",
+        "region": "Sons of Calydon",
+        "specialty": "Defense"
+      }
+    },
+    {
+      "name": "Corin Wickes",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Slash",
+        "可琳•威克斯",
+        "Kělín•Wēikèsī",
+        "カリン・ウィクス",
+        "Karin Wikusu",
+        "코린 위크스",
+        "Korin Wikseu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/corin_wickes.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Physical",
+        "gender": "Female",
+        "weapon": "Chainsaw",
+        "region": "Victoria Housekeeping Co.",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Ellen Joe",
+      "hash_db": {
+        "Midnight Service": ["9e8e3811"]
+      },
+      "tags": [
+        "Attack",
+        "Slash",
+        "艾莲•乔",
+        "Àilián•Qiáo",
+        "エレン・ジョー",
+        "Eren Jō",
+        "엘렌 조",
+        "Ellen Jo"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Midnight Service",
+          "aliases": ["EllenService", "Ellen2", "EllenNight"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/ellen_joe.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Ice",
+        "gender": "Female",
+        "weapon": "Sword & Shield",
+        "region": "Victoria Housekeeping Co.",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Evelyn Chevalier",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Slash",
+        "伊芙琳•雪佛莱",
+        "Yīfúlín•Xuěfúlái",
+        "エブリン・シュヴァリエ",
+        "Eburin Shuvuarie",
+        "에블린 슈발리에",
+        "Ebeullin Syuballie"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/evelyn_chevalier.png",
+      "metadata": {
+        "release_date": "2025-02-12",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Whip",
+        "region": "Stars of Lyra",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Grace Howard",
+      "hash_db": {},
+      "tags": [
+        "Anomaly",
+        "Pierce",
+        "格蕾丝•霍华德",
+        "Géléisī•Huòhuádé",
+        "グレース・ハワード",
+        "Gurēsu Hawādo",
+        "그레이스 하워드",
+        "Geureiseu Hawodeu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/grace_howard.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Gun & Blade",
+        "region": "Belobog Heavy Industries",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Hoshimi Miyabi",
+      "hash_db": {},
+      "tags": [
+        "Anomaly",
+        "星见雅",
+        "Xīngjiàn Yǎ",
+        "星見雅",
+        "Hoshimi Miyabi",
+        "호시미 미야비",
+        "Hosimi Miyabi"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/hoshimi_miyabi.png",
+      "metadata": {
+        "rarity": "S-Rank",
+        "element": "Ice",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Hollow Special Operations Section 6",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Hugo Vlad",
+      "hash_db": {},
+      "tags": ["Attack", "Slash"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/hugo_vlad.png",
+      "metadata": {
+        "release_date": "2025-05-14",
+        "rarity": "S-Rank",
+        "element": "Ice",
+        "gender": "Male",
+        "weapon": "Greatsword",
+        "region": "Mockingbird",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Jane Doe",
+      "hash_db": {
+        "Default": ["24323bf9"]
+      },
+      "tags": [
+        "Anomaly",
+        "Slash",
+        "简•多伊",
+        "Jiǎn•Duōyī",
+        "ジェーン・ドウ",
+        "Jēn Dō",
+        "제인 도",
+        "Jein Do"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/jane_doe.png",
+      "metadata": {
+        "release_date": "2024-09-04",
+        "rarity": "S-Rank",
+        "element": "Physical",
+        "gender": "Female",
+        "weapon": "Whip Blade",
+        "region": "Criminal Investigation Special Response Team",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Ju Fufu",
+      "hash_db": {
+        "Default": ["512615d6"]
+      },
+      "tags": ["Stun", "Strike"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/ju_fufu.png",
+      "metadata": {
+        "release_date": "2025-06-25",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Fists",
+        "region": "Yunkui Summit",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Koleda Belobog",
+      "hash_db": {},
+      "tags": [
+        "Stun",
+        "Strike",
+        "可乐妲•贝洛伯格",
+        "Kělèdá•Bèiluòbógé",
+        "カレドン・ベロボーグ",
+        "Karedon Berobōgu",
+        "콜레다 벨로보그",
+        "Koleda Bellobogeu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/koleda_belobog.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Hammer",
+        "region": "Belobog Heavy Industries",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Lighter",
+      "hash_db": {
+        "Default": ["037b6287"]
+      },
+      "tags": ["Stun", "Strike", "莱特", "Láitè", "ライト", "Raito", "라이터", "Raiteo"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/lighter.png",
+      "metadata": {
+        "release_date": "2024-11-27",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Male",
+        "weapon": "Fists",
+        "region": "Sons of Calydon",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Luciana de Montefio",
+      "hash_db": {},
+      "tags": [
+        "Support",
+        "Strike",
+        "露西亞娜•德•蒙蒂菲奧",
+        "Lùxīyànà•Dé•Méngdìfēi'ào",
+        "ルチアナ・デ・モンテフィオ",
+        "Ruchiana De Montefio",
+        "루치아나 데 몬테피오",
+        "Ruchiana De Montepio"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/luciana_de_montefio.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Rifle",
+        "region": "Sons of Calydon",
+        "specialty": "Support"
+      }
+    },
+    {
+      "name": "Nekomiya Mana",
+      "hash_db": {},
+      "tags": [
+        "Attack",
+        "Slash",
+        "Nekomiya",
+        "猫宫又奈",
+        "Māogōng Yòunài",
+        "猫宮又奈",
+        "Nekomiya Mana",
+        "네코미야 마나",
+        "Nekomiya Mana"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/nekomiya_mana.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Physical",
+        "gender": "Female",
+        "weapon": "Dual Blades",
+        "region": "Cunning Hares",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Nicole Demara",
+      "hash_db": {
+        "Golden Tycoon": ["7b4b4f06"]
+      },
+      "tags": [
+        "Support",
+        "Strike",
+        "妮可•德玛拉",
+        "Nīkě•Démǎlā",
+        "ニコ・デマラ",
+        "Niko Demara",
+        "니코 더마라",
+        "Niko Deomara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Golden Tycoon",
+          "aliases": ["NicoleGold", "Nicole2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/nicole_demara.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Ether",
+        "gender": "Female",
+        "weapon": "Briefcase Cannon",
+        "region": "Cunning Hares",
+        "specialty": "Support"
+      }
+    },
+    {
+      "name": "Pan Yinhu",
+      "hash_db": {
+        "Default": ["2e2d67ae"]
+      },
+      "tags": ["Defense", "Strike"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/pan_yinhu.png",
+      "metadata": {
+        "release_date": "2025-06-06",
+        "rarity": "A-Rank",
+        "element": "Physical",
+        "gender": "Male",
+        "weapon": "Gauntlets",
+        "region": "Yunkui Summit",
+        "specialty": "Defense"
+      }
+    },
+    {
+      "name": "Piper Wheel",
+      "hash_db": {},
+      "tags": [
+        "Anomaly",
+        "Slash",
+        "派珀•维尔",
+        "Pàipò•Wéi'ěr",
+        "パイパー・ウィール",
+        "Paipā Wīru",
+        "파이퍼 휠",
+        "Paipeo Hwil"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/piper_wheel.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Physical",
+        "gender": "Female",
+        "weapon": "Multi-tool Gauntlet",
+        "region": "Sons of Calydon",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Pulchra Fellini",
+      "hash_db": {},
+      "tags": ["Stun", "Slash"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/pulchra_fellini.png",
+      "metadata": {
+        "release_date": "2025-03-12",
+        "rarity": "A-Rank",
+        "element": "Physical",
+        "gender": "Female",
+        "weapon": "Greatsword",
+        "region": "Sons of Calydon",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Qingyi",
+      "hash_db": {
+        "Default": ["dd08951b"]
+      },
+      "tags": ["Stun", "Strike", "青衣", "Qīngyī", "青衣", "Seii", "청의", "Cheong-ui"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/qingyi.png",
+      "metadata": {
+        "release_date": "2024-08-14",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Fan",
+        "region": "Criminal Investigation Special Response Team",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Seth Lowell",
+      "hash_db": {},
+      "tags": [
+        "Defense",
+        "Slash",
+        "塞斯•洛威尔",
+        "Sāisī•Luòwēi'ěr",
+        "セス・ローウェル",
+        "Sesu Rōweru",
+        "세스 로웰",
+        "Seseu Rowel"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/seth_lowell.png",
+      "metadata": {
+        "release_date": "2024-09-04",
+        "rarity": "A-Rank",
+        "element": "Electric",
+        "gender": "Male",
+        "weapon": "Shield",
+        "region": "Criminal Investigation Special Response Team",
+        "specialty": "Defense"
+      }
+    },
+    {
+      "name": "Soldier 0 Anby",
+      "hash_db": {},
+      "tags": ["Attack", "Slash"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/soldier_0_anby.png",
+      "metadata": {
+        "release_date": "2025-03-12",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Electric Blade",
+        "region": "Defense Force - Silver Squad",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Soldier 11",
+      "hash_db": {},
+      "tags": ["Attack", "Slash", "11号", "Shíyī Hào", "11号", "Jūichigō", "11호", "Sibil-ho"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/soldier_11.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Fire",
+        "gender": "Female",
+        "weapon": "Dual Blades",
+        "region": "Obol Squad",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Soukaku",
+      "hash_db": {
+        "Default": ["beac45e4"]
+      },
+      "tags": ["Support", "Slash", "苍角", "Cāngjiǎo", "蒼角", "Sōkaku", "창각", "Changgak"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/soukaku.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "A-Rank",
+        "element": "Ice",
+        "gender": "Female",
+        "weapon": "Katana",
+        "region": "Hollow Special Operations Section 6",
+        "specialty": "Support"
+      }
+    },
+    {
+      "name": "Trigger",
+      "hash_db": {
+        "Default": ["1a9a858c"]
+      },
+      "tags": ["Stun", "Pierce"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/trigger.png",
+      "metadata": {
+        "release_date": "2025-04-02",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Male",
+        "weapon": "Dual Pistols",
+        "region": "Obol Squad",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Tsukishiro Yanagi",
+      "hash_db": {},
+      "tags": ["Anomaly", "Slash", "月城やなぎ", "Tsukishiro Yanagi"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/tsukishiro_yanagi.png",
+      "metadata": {
+        "release_date": "2024-11-06",
+        "rarity": "S-Rank",
+        "element": "Electric",
+        "gender": "Female",
+        "weapon": "Katana",
+        "region": "Hollow Special Operations Section 6",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Vivian Banshee",
+      "hash_db": {},
+      "tags": ["Anomaly", "Slash"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/vivian_banshee.png",
+      "metadata": {
+        "release_date": "2025-04-23",
+        "rarity": "S-Rank",
+        "element": "Ether",
+        "gender": "Female",
+        "weapon": "Whip",
+        "region": "Mockingbird",
+        "specialty": "Anomaly"
+      }
+    },
+    {
+      "name": "Von Lycaon",
+      "hash_db": {},
+      "tags": [
+        "Stun",
+        "Strike",
+        "冯•莱卡恩",
+        "Féng•Láikǎ'ēn",
+        "フォン・ライカンス",
+        "Fon Raikansu",
+        "폰 리카온",
+        "Pon Rikaon"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/von_lycaon.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "rarity": "S-Rank",
+        "element": "Ice",
+        "gender": "Male",
+        "weapon": "Gauntlets",
+        "region": "Victoria Housekeeping Co.",
+        "specialty": "Stun"
+      }
+    },
+    {
+      "name": "Yixuan",
+      "hash_db": {
+        "Default": ["36a68b27"],
+        "Yixuan2": ["4e321bef"]
+      },
+      "tags": ["Rupture", "Strike"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/zzmi/char/yixuan.png",
+      "metadata": {
+        "release_date": "2025-06-06",
+        "rarity": "S-Rank",
+        "element": "Auric Ink",
+        "gender": "Male",
+        "weapon": "Calligraphy Brush",
+        "region": "Yunkui Summit"
+      }
+    },
+    {
+      "name": "Zhu Yuan",
+      "hash_db": {
+        "Default": ["d140d2e7"]
+      },
+      "tags": ["Attack", "Pierce", "朱鸢", "Zhūyuān", "シュエン", "Shuen", "주연", "Juyeon"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Off-Duty Azure",
+          "aliases": ["ZhuOffDuty", "Zhu2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/zhu_yuan.png",
+      "metadata": {
+        "release_date": "2024-07-24",
+        "rarity": "S-Rank",
+        "element": "Ether",
+        "gender": "Female",
+        "weapon": "Rifle",
+        "region": "Criminal Investigation Special Response Team",
+        "specialty": "Attack"
+      }
+    },
+    {
+      "name": "Wise",
+      "hash_db": {
+        "Default": ["6235fa7f"],
+        "Wise2": ["ae59eabb"],
+        "Wise3": ["d6c86c1e"]
+      },
+      "tags": ["Proxy", "Protagonist", "Random Play", "哲", "Zhé", "ゼン", "Zen"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "New Eridu Casual",
+          "aliases": ["MCStreet", "MC2", "ProxyCasual"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/wise.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "gender": "Male",
+        "region": "New Eridu"
+      }
+    },
+    {
+      "name": "Belle",
+      "hash_db": {
+        "Default": ["a9673001"],
+        "Belle2": ["0b3c5e7c"],
+        "Belle3": ["c6b1cd55"]
+      },
+      "tags": [
+        "Proxy",
+        "Protagonist",
+        "Random Play",
+        "贝尔",
+        "Bèi'ěr",
+        "ベル",
+        "Beru",
+        "벨",
+        "Bel"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "New Eridu Casual",
+          "aliases": ["MCStreet", "MC2", "ProxyCasual"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/zzmi/char/belle.png",
+      "metadata": {
+        "release_date": "2024-07-04",
+        "gender": "Female",
+        "region": "New Eridu"
+      }
+    },
+    {
+      "name": "Weapon",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "User Interface",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "UI",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Enemy",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "NPC",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Collectibles",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "World Objects",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "VFX",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    }
+  ],
+  "hash_db": {}
+}

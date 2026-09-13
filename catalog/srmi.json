@@ -1,0 +1,1636 @@
+{
+  "entries": [
+    {
+      "name": "Acheron",
+      "hash_db": {
+        "Default": ["9de39691"]
+      },
+      "tags": ["Galaxy Ranger", "黄泉", "Huángquán", "黄泉", "Kōsen", "황천", "Hwangcheon"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/acheron.png",
+      "metadata": {
+        "release_date": "2024-03-27",
+        "rarity": "5-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Self-Annihilators",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Aglaea",
+      "hash_db": {},
+      "tags": ["Cosmic Station", "アグライアー", "Aglaia"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/aglaea.png",
+      "metadata": {
+        "release_date": "2025-02-05",
+        "rarity": "5-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Remembrance"
+      }
+    },
+    {
+      "name": "Anaxa",
+      "hash_db": {
+        "Default": ["468acfca"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/anaxa.png",
+      "metadata": {
+        "release_date": "2025-04-30",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Argenti",
+      "hash_db": {
+        "Default": ["18af7e1c"]
+      },
+      "tags": [
+        "Knights of Beauty",
+        "银枝",
+        "Yínzhī",
+        "アルジェンティ",
+        "Arujenti",
+        "아젠티",
+        "Ajenti"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/argenti.png",
+      "metadata": {
+        "release_date": "2023-12-06",
+        "rarity": "5-Star",
+        "element": "Physical",
+        "gender": "Male",
+        "region": "Jarilo-VI",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Arlan",
+      "hash_db": {
+        "Default": ["40436908"]
+      },
+      "tags": ["Security Department", "阿兰", "Ālán", "アーラン", "Āran", "아를란", "Areullan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/arlan.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Lightning",
+        "gender": "Male",
+        "region": "Herta Space Station",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Asta",
+      "hash_db": {
+        "Default": ["0b10db89"]
+      },
+      "tags": ["Lead Researcher", "艾丝妲", "Àisīdá", "アスター", "Asutā", "아스타", "Aseuta"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/asta.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Herta Space Station",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Aventurine",
+      "hash_db": {
+        "Default": ["53bdb739"]
+      },
+      "tags": [
+        "Strategic Investment Dept.",
+        "Ten Stonehearts",
+        "砂金",
+        "Shājīn",
+        "アベンチュリン",
+        "Abenchurin",
+        "어벤츄린",
+        "Eobenchurin",
+        "Kakavasha"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/aventurine.png",
+      "metadata": {
+        "release_date": "2024-04-17",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "IPC",
+        "path": "Preservation"
+      }
+    },
+    {
+      "name": "Bailu",
+      "hash_db": {
+        "Default": ["7955d970"]
+      },
+      "tags": ["Vidyadhara", "Healer", "白露", "Báilù", "白露", "Hakuro", "백로", "Baekro"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/bailu.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Black Swan",
+      "hash_db": {
+        "Default": ["562fbdb4"]
+      },
+      "tags": [
+        "Memokeeper",
+        "黑天鹅",
+        "Hēi Tiān'é",
+        "ブラックスワン",
+        "Burakku Suwan",
+        "블랙 스완",
+        "Beullaek Seuwan"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/black_swan.png",
+      "metadata": {
+        "release_date": "2024-02-06",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Garden of Recollection",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Blade",
+      "hash_db": {
+        "Default": ["553ae2f8"]
+      },
+      "tags": [
+        "High-Cloud Quintet",
+        "Yingxing",
+        "刃",
+        "Rèn",
+        "刃",
+        "Jin",
+        "블레이드",
+        "Beulleideu",
+        "Bladie"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/blade.png",
+      "metadata": {
+        "release_date": "2023-07-19",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Male",
+        "region": "Stellaron Hunters",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Boothill",
+      "hash_db": {
+        "Default": ["be7282b3"]
+      },
+      "tags": ["Cyborg", "波提欧", "Bōtí'ōu", "ブートヒル", "Būtohiru", "부트힐", "Buteuhil"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/boothill.png",
+      "metadata": {
+        "release_date": "2024-05-29",
+        "rarity": "5-Star",
+        "element": "Physical",
+        "gender": "Male",
+        "region": "Galaxy Rangers",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Bronya",
+      "hash_db": {
+        "Default": ["0d67a9c3"]
+      },
+      "tags": [
+        "Supreme Guardian",
+        "Silvermane Guards",
+        "布洛妮娅",
+        "Bùluònīyà",
+        "ブローニャ",
+        "Burōnya",
+        "브로냐",
+        "Beuronya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/bronya.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Castorice",
+      "hash_db": {
+        "Default": ["e28bb3dd"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/castorice.png",
+      "metadata": {
+        "release_date": "2025-04-08",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Remembrance"
+      }
+    },
+    {
+      "name": "Clara",
+      "hash_db": {
+        "Default": ["6615fbf6"]
+      },
+      "tags": [
+        "Prospectors",
+        "Svarog",
+        "克拉拉",
+        "Kèlālā",
+        "クラーラ",
+        "Kurāra",
+        "클라라",
+        "Keullara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/clara.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Cipher",
+      "hash_db": {
+        "Default": ["739a6c23"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/cipher.png",
+      "metadata": {
+        "release_date": "2025-06-11",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Dan Heng",
+      "hash_db": {
+        "Default": ["2c5a53ab"]
+      },
+      "tags": ["Vidyadhara", "丹恒", "Dānhéng", "丹恒", "Tankō", "단항", "Danhan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/dan_heng.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Wind",
+        "gender": "Male",
+        "region": "Astral Express",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Dan Heng Imbibitor Lunae",
+      "hash_db": {
+        "Default": ["0f8da6ba"]
+      },
+      "tags": [
+        "High Elder of the Luofu",
+        "Vidyadhara King",
+        "丹恒•饮月",
+        "Dānhéng•Yǐnyuè",
+        "丹恒•飲月",
+        "Tankō•Ingetsu",
+        "단항•음월",
+        "Danhan•Eumwol"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/dan_heng_imbibitor_lunae.png",
+      "metadata": {
+        "release_date": "2023-08-30",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Xianzhou Luofu",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Dr. Ratio",
+      "hash_db": {
+        "Default": ["03a0eb05"]
+      },
+      "tags": [
+        "Veritas Ratio",
+        "真理医生",
+        "Zhēnlǐ Yīshēng",
+        "Dr.レイシオ",
+        "Dr.Reishio",
+        "Dr.레이시오",
+        "Dr.Reisio"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/dr_ratio.png",
+      "metadata": {
+        "release_date": "2024-01-17",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Intelligentsia Guild",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Feixiao",
+      "hash_db": {
+        "Default": ["83d2adc9"]
+      },
+      "tags": ["Feixing Quintet", "飞霄", "Fēixiāo", "飛霄", "Hishō", "비소", "Biso"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/feixiao.png",
+      "metadata": {
+        "release_date": "2024-09-09",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Xianzhou Alliance",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Firefly",
+      "hash_db": {
+        "Default": ["87e84993"]
+      },
+      "tags": ["SAM", "Iron Cavalry", "流萤", "Liúyíng", "ホタル", "Hotaru", "반디", "Bandi"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/firefly.png",
+      "metadata": {
+        "release_date": "2024-06-18",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Stellaron Hunters",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Fu Xuan",
+      "hash_db": {
+        "Default": ["45b0663d"]
+      },
+      "tags": [
+        "Divination Commission",
+        "Master Diviner",
+        "符玄",
+        "Fúxuán",
+        "符玄",
+        "Fugen",
+        "부현",
+        "Buhyeon"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/fu_xuan.png",
+      "metadata": {
+        "release_date": "2023-09-20",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Preservation"
+      }
+    },
+    {
+      "name": "Fugue",
+      "hash_db": {
+        "Default": ["7b083f20"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/fugue.png",
+      "metadata": {
+        "release_date": "2024-12-25",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Gallagher",
+      "hash_db": {
+        "Default": ["57c512df"]
+      },
+      "tags": [
+        "Bloodhound Family",
+        "加拉赫",
+        "Jiālāhè",
+        "ギャラガー",
+        "Gyaragā",
+        "갤러거",
+        "Gaelleogeo"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/gallagher.png",
+      "metadata": {
+        "release_date": "2024-03-27",
+        "rarity": "4-Star",
+        "element": "Fire",
+        "gender": "Male",
+        "region": "Penacony",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Gepard",
+      "hash_db": {
+        "Default": ["04094d7e"]
+      },
+      "tags": [
+        "Silvermane Guards",
+        "Landau Family",
+        "杰帕德",
+        "Jiépàdé",
+        "ジェパード",
+        "Jepādo",
+        "게파드",
+        "Gepadeu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/gepard.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Ice",
+        "gender": "Male",
+        "region": "Belobog",
+        "path": "Preservation"
+      }
+    },
+    {
+      "name": "Guinaifen",
+      "hash_db": {
+        "Default": ["2eeff76f"]
+      },
+      "tags": [
+        "Street Performer",
+        "Guinevere",
+        "桂乃芬",
+        "Guìnǎifēn",
+        "桂乃芬",
+        "Keinafun",
+        "계네빈",
+        "Gyenebin"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/guinaifen.png",
+      "metadata": {
+        "release_date": "2023-10-27",
+        "rarity": "4-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Hanya",
+      "hash_db": {
+        "Default": ["69a81bdb"]
+      },
+      "tags": ["Ten-Lords Commission", "Judge", "寒鸦", "Hányā", "寒鴉", "Kan'a", "한아", "Hana"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/hanya.png",
+      "metadata": {
+        "release_date": "2023-12-06",
+        "rarity": "4-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Herta",
+      "hash_db": {
+        "Default": ["91c0cb8e"]
+      },
+      "tags": ["Genius Society #83", "黑塔", "Hēitǎ", "ヘルタ", "Heruta", "헤르타", "Hereuta"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "The Doll's Gala",
+          "aliases": ["HertaGala", "Herta2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/herta.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Herta Space Station",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Himeko",
+      "hash_db": {
+        "Default": ["2bf29f1f"]
+      },
+      "tags": ["Navigator", "Scientist", "姬子", "Jīzǐ", "姫子", "Himeko", "히메코", "Himeko"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/himeko.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Astral Express",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Hook",
+      "hash_db": {
+        "Default": ["20825705"]
+      },
+      "tags": ["The Moles", "虎克", "Hǔkè", "フック", "Fukku", "훅", "Huk"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/hook.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Huohuo",
+      "hash_db": {
+        "Default": ["2a306f9c"]
+      },
+      "tags": [
+        "Ten-Lords Commission",
+        "Judge-in-training",
+        "Mr. Tail",
+        "藿藿",
+        "Huòhuò",
+        "フォフォ",
+        "Fofo",
+        "곽향",
+        "Gwakhyang"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/huohuo.png",
+      "metadata": {
+        "release_date": "2023-11-15",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Hyacine",
+      "hash_db": {
+        "Default": ["ae3b4d8a"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/hyacine.png",
+      "metadata": {
+        "release_date": "2025-05-21",
+        "rarity": "5-Star",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Remembrance"
+      }
+    },
+    {
+      "name": "Jade",
+      "hash_db": {
+        "Default": ["08f5f722"]
+      },
+      "tags": [
+        "Strategic Investment Dept.",
+        "Ten Stonehearts",
+        "翡翠",
+        "Fěicuì",
+        "ジェイド",
+        "Jeido",
+        "제이드",
+        "Jeideu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/jade.png",
+      "metadata": {
+        "release_date": "2024-07-10",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "IPC",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Jiaoqiu",
+      "hash_db": {
+        "Default": ["4554deab"]
+      },
+      "tags": [
+        "Xianzhou Yaoqing",
+        "Feixing Quintet",
+        "椒丘",
+        "Jiāoqiū",
+        "椒丘",
+        "Shōkyū",
+        "초구",
+        "Chogu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/jiaoqiu.png",
+      "metadata": {
+        "release_date": "2024-08-21",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Male",
+        "region": "Xianzhou Alliance",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Jing Yuan",
+      "hash_db": {
+        "Default": ["0b529127"]
+      },
+      "tags": [
+        "Cloud Knights General",
+        "Dozy General",
+        "景元",
+        "Jǐngyuán",
+        "景元",
+        "Keigen",
+        "경원",
+        "Gyeong-won"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/jing_yuan.png",
+      "metadata": {
+        "release_date": "2023-05-17",
+        "rarity": "5-Star",
+        "element": "Lightning",
+        "gender": "Male",
+        "region": "Xianzhou Alliance",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Jingliu",
+      "hash_db": {
+        "Default": ["24c37e04"]
+      },
+      "tags": [
+        "High-Cloud Quintet",
+        "Sword Champion",
+        "镜流",
+        "Jìngliú",
+        "鏡流",
+        "Kyōryū",
+        "경류",
+        "Gyeongnyu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/jingliu.png",
+      "metadata": {
+        "release_date": "2023-10-11",
+        "rarity": "5-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Kafka",
+      "hash_db": {
+        "Default": ["6d45dac8"]
+      },
+      "tags": ["卡芙卡", "Kǎfúkǎ", "カフカ", "Kafuka", "카프카", "Kapeuka"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Night of the Spider",
+          "aliases": ["KafkaNight", "Kafka2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/kafka.png",
+      "metadata": {
+        "release_date": "2023-08-09",
+        "rarity": "5-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Stellaron Hunters",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Lingsha",
+      "hash_db": {
+        "Default": ["05bd3b66"]
+      },
+      "tags": ["Feixing Quintet", "灵砂", "Língshā", "霊砂", "Reisa", "영사", "Yeongsa"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/lingsha.png",
+      "metadata": {
+        "release_date": "2024-10-02",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Luka",
+      "hash_db": {
+        "Default": ["11dd3da1"]
+      },
+      "tags": ["Wildfire", "Fighter", "卢卡", "Lúkǎ", "ルカ", "Ruka", "루카", "Ruka"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/luka.png",
+      "metadata": {
+        "release_date": "2023-08-09",
+        "rarity": "4-Star",
+        "element": "Physical",
+        "gender": "Male",
+        "region": "Belobog",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Luocha",
+      "hash_db": {
+        "Default": ["194a6495"]
+      },
+      "tags": ["Intergalactic Merchant", "罗刹", "Luóchà", "羅刹", "Rasetsu", "나찰", "Nachal"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/luocha.png",
+      "metadata": {
+        "release_date": "2023-06-28",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Xianzhou Luofu",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Lynx",
+      "hash_db": {
+        "Default": ["156d0dec"]
+      },
+      "tags": [
+        "Landau Family",
+        "Explorer",
+        "玲可",
+        "Língkě",
+        "リンクス",
+        "Rinkusu",
+        "링스",
+        "Ringseu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/lynx.png",
+      "metadata": {
+        "release_date": "2023-09-20",
+        "rarity": "4-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "March 7th (Preservation)",
+      "hash_db": {},
+      "tags": [
+        "Girl from the Six-Phased Ice",
+        "三月七",
+        "Sānyuèqī",
+        "三月なのか",
+        "Mikka Nanoka",
+        "삼칠",
+        "Samchil"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Be the Show's Star",
+          "aliases": ["MarchShow", "March2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/march_7th_preservation.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Astral Express",
+        "path": "Preservation"
+      }
+    },
+    {
+      "name": "March 7th (The Hunt)",
+      "hash_db": {},
+      "tags": [
+        "Girl from the Six-Phased Ice",
+        "三月七",
+        "Sānyuèqī",
+        "三月なのか",
+        "Mikka Nanoka",
+        "삼칠",
+        "Samchil"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Be the Show's Star",
+          "aliases": ["MarchShow", "March2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/march_7th_the_hunt.png",
+      "metadata": {
+        "release_date": "2024-07-31",
+        "rarity": "4-Star",
+        "element": "Imaginary",
+        "gender": "Female",
+        "region": "Astral Express",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Misha",
+      "hash_db": {
+        "Default": ["6454786c"]
+      },
+      "tags": [
+        "The Reverie Hotel",
+        "Bellboy",
+        "米沙",
+        "Mǐshā",
+        "ミーシャ",
+        "Mīsha",
+        "미샤",
+        "Misya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/misha.png",
+      "metadata": {
+        "release_date": "2024-02-06",
+        "rarity": "4-Star",
+        "element": "Ice",
+        "gender": "Male",
+        "region": "Penacony",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Moze",
+      "hash_db": {
+        "Default": ["0bcc8d2f"]
+      },
+      "tags": ["墨泽", "Mòzé", "Moze", "모제", "Moje"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/moze.png",
+      "metadata": {
+        "release_date": "2024-09-09",
+        "rarity": "4-Star",
+        "element": "Lightning",
+        "gender": "Male",
+        "region": "Xianzhou Alliance",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Mydei",
+      "hash_db": {
+        "Default": ["b3b22e61"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/mydei.png",
+      "metadata": {
+        "release_date": "2025-03-18",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Female",
+        "region": "Amphoreus",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Natasha",
+      "hash_db": {
+        "Default": ["be164341"]
+      },
+      "tags": [
+        "Wildfire",
+        "Doctor",
+        "娜塔莎",
+        "Nàtāshā",
+        "ナターシャ",
+        "Natāsha",
+        "나타샤",
+        "Natasya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/natasha.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Abundance"
+      }
+    },
+    {
+      "name": "Pela",
+      "hash_db": {
+        "Default": ["5778182b"]
+      },
+      "tags": [
+        "Silvermane Guards",
+        "Intelligence Officer",
+        "Pelageya Sergeyevna",
+        "佩拉",
+        "Pèilā",
+        "ペラ",
+        "Pera",
+        "펠라",
+        "Pella"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/pela.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Qingque",
+      "hash_db": {
+        "Default": ["311daa47"]
+      },
+      "tags": ["Divination Commission", "青雀", "Qīngquè", "青雀", "Seijaku", "청작", "Cheongjak"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/qingque.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Rappa",
+      "hash_db": {
+        "Default": ["22b20c79"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/rappa.png",
+      "metadata": {
+        "release_date": "2024-10-23",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Galaxy Rangers",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Robin",
+      "hash_db": {
+        "Default": ["5cd081cc"]
+      },
+      "tags": [
+        "Halovian",
+        "The Family",
+        "Singer",
+        "知更鸟",
+        "Zhīgēngniǎo",
+        "ロビン",
+        "Robin",
+        "로빈",
+        "Robin"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/robin.png",
+      "metadata": {
+        "release_date": "2024-05-07",
+        "rarity": "5-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Penacony",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Ruan Mei",
+      "hash_db": {
+        "Default": ["18bd4eab"]
+      },
+      "tags": ["Genius Society #81", "阮•梅", "Ruǎn•Méi", "阮•梅", "Gen•Bai", "완•매", "Wan•Mae"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Plumblossom Letter",
+          "aliases": ["RuanPlum", "Ruan2", "RuanLetter"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/ruan_mei.png",
+      "metadata": {
+        "release_date": "2023-12-27",
+        "rarity": "5-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Herta Space Station",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Sampo",
+      "hash_db": {
+        "Default": ["56c66568"]
+      },
+      "tags": ["The Moles", "Masked Fools", "桑博", "Sāngbó", "サンポ", "Sanpo", "삼포", "Sampo"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/sampo.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Wind",
+        "gender": "Male",
+        "region": "Belobog",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Seele",
+      "hash_db": {
+        "Default": ["17cba38d"]
+      },
+      "tags": ["Wildfire", "希儿", "Xī'ér", "ゼーレ", "Zēre", "제레", "Jere"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/seele.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Serval",
+      "hash_db": {
+        "Default": ["4481e0a3"]
+      },
+      "tags": [
+        "Landau Family",
+        "Mechanic",
+        "希露瓦",
+        "Xīlùwǎ",
+        "セーバル",
+        "Sēbaru",
+        "서벌",
+        "Seobeol"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/serval.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Belobog",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Silver Wolf",
+      "hash_db": {
+        "Default": ["6bb20ea8"]
+      },
+      "tags": ["Hacker", "银狼", "Yínláng", "銀狼", "Ginrō", "은랑", "Eunrang"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/silver_wolf.png",
+      "metadata": {
+        "release_date": "2023-06-07",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Stellaron Hunters",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Sparkle",
+      "hash_db": {
+        "Default": ["7e488505"]
+      },
+      "tags": ["Hanabi", "花火", "Huāhuǒ", "花火", "Hanabi", "스파클", "Seupakeul"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/sparkle.png",
+      "metadata": {
+        "release_date": "2024-02-29",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Masked Fools",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Sunday",
+      "hash_db": {
+        "Default": ["1f30e676"]
+      },
+      "tags": ["The Family", "星期日", "Xīngqírì", "サンデー", "Sandē", "선데이", "Seondei"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/sunday.png",
+      "metadata": {
+        "release_date": "2024-12-03",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Cosmos",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Sushang",
+      "hash_db": {
+        "Default": ["1cfe532b"]
+      },
+      "tags": ["Cloud Knights", "素裳", "Sùshāng", "蘇裳", "Sushō", "소상", "Sosang"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/sushang.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "The Herta",
+      "hash_db": {
+        "Default": ["4e369eb5"]
+      },
+      "tags": ["Genius Society"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/the_herta.png",
+      "metadata": {
+        "release_date": "2025-01-15",
+        "rarity": "5-Star",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Herta Space Station",
+        "path": "Erudition"
+      }
+    },
+    {
+      "name": "Tingyun",
+      "hash_db": {
+        "Default": ["6a4333dc"]
+      },
+      "tags": ["Whistling Flames", "停云", "Tíngyún", "停雲", "Teiun", "정운", "Jeong-un"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/tingyun.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "4-Star",
+        "element": "Lightning",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Topaz Numby",
+      "hash_db": {},
+      "tags": [
+        "Ten Stonehearts",
+        "托帕 & 账账",
+        "Tuōpà & Zhàngzhàng",
+        "トパーズ＆カブ",
+        "Topāzu & Kabu",
+        "토파즈 & 복순이",
+        "Topajeu & Boksuni"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/topaz_numby.png",
+      "metadata": {
+        "release_date": "2023-10-27",
+        "rarity": "5-Star",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "IPC",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Caelus",
+      "hash_db": {},
+      "tags": [
+        "trailblazer",
+        "Antimatter Legion",
+        "开拓者",
+        "Kāituòzhě",
+        "開拓者",
+        "Kaitakusha",
+        "개척자",
+        "Gaecheokja"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Vim and Vigor",
+          "aliases": ["TBVigor", "TB2", "Trailblazer2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/caelus.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "gender": "Female",
+        "region": "Astral Express"
+      }
+    },
+    {
+      "name": "Stelle",
+      "hash_db": {},
+      "tags": [
+        "trailblazer",
+        "The Architects",
+        "开拓者",
+        "Kāituòzhě",
+        "開拓者",
+        "Kaitakusha",
+        "개척자",
+        "Gaecheokja"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Vim and Vigor",
+          "aliases": ["TBVigor", "TB2", "Trailblazer2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/stelle.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "gender": "Male",
+        "region": "Astral Express"
+      }
+    },
+    {
+      "name": "Tribbie",
+      "hash_db": {
+        "Default": ["90844efd"]
+      },
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/tribbie.png",
+      "metadata": {
+        "release_date": "2025-02-25",
+        "rarity": "5-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "The Family",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Welt",
+      "hash_db": {
+        "Default": ["381a994e"]
+      },
+      "tags": [
+        "Former Herrscher",
+        "Welt Yang",
+        "瓦尔特",
+        "Wǎ'ěrtè",
+        "ヴェルト",
+        "Veruto",
+        "웰트",
+        "Welteu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Back to the Past",
+          "aliases": ["WeltPast", "Welt2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/srmi/char/welt.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Imaginary",
+        "gender": "Male",
+        "region": "Astral Express",
+        "path": "Nihility"
+      }
+    },
+    {
+      "name": "Xueyi",
+      "hash_db": {
+        "Default": ["03ff3d10"]
+      },
+      "tags": [
+        "Ten-Lords Commission",
+        "Judge",
+        "雪衣",
+        "Xuěyī",
+        "雪衣",
+        "Setsue",
+        "설의",
+        "Seorui"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/xueyi.png",
+      "metadata": {
+        "release_date": "2023-12-27",
+        "rarity": "4-Star",
+        "element": "Quantum",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Yanqing",
+      "hash_db": {
+        "Default": ["9801327a"]
+      },
+      "tags": [
+        "Cloud Knights",
+        "Jing Yuan's Lieutenant",
+        "彦卿",
+        "Yànqīng",
+        "彦卿",
+        "Genkei",
+        "연경",
+        "Yeongyeong"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/yanqing.png",
+      "metadata": {
+        "release_date": "2023-04-26",
+        "rarity": "5-Star",
+        "element": "Ice",
+        "gender": "Male",
+        "region": "Xianzhou Luofu",
+        "path": "The Hunt"
+      }
+    },
+    {
+      "name": "Yukong",
+      "hash_db": {
+        "Default": ["e2d592d3"]
+      },
+      "tags": [
+        "Sky-Faring Commission",
+        "Helm Master",
+        "驭空",
+        "Yùkōng",
+        "御空",
+        "Gyokū",
+        "어공",
+        "Eogong"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/yukong.png",
+      "metadata": {
+        "release_date": "2023-06-28",
+        "rarity": "4-Star",
+        "element": "Imaginary",
+        "gender": "Female",
+        "region": "Xianzhou Luofu",
+        "path": "Harmony"
+      }
+    },
+    {
+      "name": "Yunli",
+      "hash_db": {
+        "Default": ["1c4648ec"]
+      },
+      "tags": ["Sword Hunter", "云璃", "Yúnlí", "雲璃", "Unri", "운리", "Unri"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/srmi/char/yunli.png",
+      "metadata": {
+        "release_date": "2024-07-31",
+        "rarity": "5-Star",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Xianzhou Zhuming",
+        "path": "Destruction"
+      }
+    },
+    {
+      "name": "Weapon",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "User Interface",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "UI",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Enemy",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "NPC",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Collectibles",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "World Objects",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "VFX",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    }
+  ],
+  "hash_db": {}
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "Name": "Aalto",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Aero",
+    "Tag3": "Pistols",
+    "Hash": "93bbbdc0"
+  },
+  {
+    "Name": "Augusta",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electro",
+    "Tag3": "Broadblade",
+    "Hash": ""
+  },
+  {
+    "Name": "Baizhi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Rectifier",
+    "Hash": "4a2b2eca"
+  },
+  {
+    "Name": "Brant",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fusion",
+    "Tag3": "Sword",
+    "Hash": "5943f99a"
+  },
+  {
+    "Name": "Calcharo",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electro",
+    "Tag3": "Broadblade",
+    "Hash": "63e02559"
+  },
+  {
+    "Name": "Camellya",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Sword",
+    "Hash": "7748c1d8"
+  },
+  {
+    "Name": "Cantarella",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Rectifier",
+    "Hash": ""
+  },
+  {
+    "Name": "Carlotta",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Pistols",
+    "Hash": "4ba716ae"
+  },
+  {
+    "Name": "Carlotta2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Pistols",
+    "Hash": ""
+  },
+  {
+    "Name": "Cartethyia",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Sword",
+    "Hash": ""
+  },
+  {
+    "Name": "Changli",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Sword",
+    "Hash": "d14bed8b"
+  },
+  {
+    "Name": "Changli2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Sword",
+    "Hash": ""
+  },
+  {
+    "Name": "Chisa",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Sword",
+    "Hash": ""
+  },
+  {
+    "Name": "Chixia",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Pistols",
+    "Hash": "1606ae41"
+  },
+  {
+    "Name": "Ciaccona",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Pistols",
+    "Hash": ""
+  },
+  {
+    "Name": "Danjin",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Sword",
+    "Hash": "6aefd9b3"
+  },
+  {
+    "Name": "Encore",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Rectifier",
+    "Hash": "592add5c"
+  },
+  {
+    "Name": "Galbrena",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Pistols",
+    "Hash": ""
+  },
+  {
+    "Name": "Iuno",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Gauntlets",
+    "Hash": ""
+  },
+  {
+    "Name": "Jianxin",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Gauntlets",
+    "Hash": "9b60ec42"
+  },
+  {
+    "Name": "Jinhsi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Broadblade",
+    "Hash": "243b7e59"
+  },
+  {
+    "Name": "Jinhsi2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Broadblade",
+    "Hash": "493ff3b9"
+  },
+  {
+    "Name": "Jiyan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Aero",
+    "Tag3": "Broadblade",
+    "Hash": "31b50c1d"
+  },
+  {
+    "Name": "Lingyang",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Glacio",
+    "Tag3": "Gauntlets",
+    "Hash": "8b3c13f9"
+  },
+  {
+    "Name": "Lumi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electro",
+    "Tag3": "Broadblade",
+    "Hash": "78b79747"
+  },
+  {
+    "Name": "Lupa",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fusion",
+    "Tag3": "Broadblade",
+    "Hash": ""
+  },
+  {
+    "Name": "Mortefi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fusion",
+    "Tag3": "Pistols",
+    "Hash": "7b29fedf"
+  },
+  {
+    "Name": "Phoebe",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Rectifier",
+    "Hash": "8ee2fb7c"
+  },
+  {
+    "Name": "Phrolova",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Rectifier",
+    "Hash": ""
+  },
+  {
+    "Name": "Qiuyuan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Glacio",
+    "Tag3": "Sword",
+    "Hash": ""
+  },
+  {
+    "Name": "Roccia",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Gauntlets",
+    "Hash": "8d97c1bd"
+  },
+  {
+    "Name": "Rover Female",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "",
+    "Tag3": "Sword",
+    "Hash": "e8b5a730"
+  },
+  {
+    "Name": "Rover Male",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "",
+    "Tag3": "Sword",
+    "Hash": "c9db8418"
+  },
+  {
+    "Name": "Sanhua",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Sword",
+    "Hash": "33e4890f"
+  },
+  {
+    "Name": "Sanhua2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Sword",
+    "Hash": "b101dcf3"
+  },
+  {
+    "Name": "Shorekeeper",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Rectifier",
+    "Hash": "0266ab77"
+  },
+  {
+    "Name": "Taoqi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Havoc",
+    "Tag3": "Broadblade",
+    "Hash": "e2685889"
+  },
+  {
+    "Name": "Verina",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Rectifier",
+    "Hash": "82aa82e1"
+  },
+  {
+    "Name": "Xiangli",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electro",
+    "Tag3": "Gauntlets",
+    "Hash": "ed536543"
+  },
+  {
+    "Name": "Yangyang",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Aero",
+    "Tag3": "Sword",
+    "Hash": "249200ff"
+  },
+  {
+    "Name": "Yinlin",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electro",
+    "Tag3": "Rectifier",
+    "Hash": "42702199"
+  },
+  {
+    "Name": "Youhu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Gauntlets",
+    "Hash": "03eea2d0"
+  },
+  {
+    "Name": "Yuanwu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electro",
+    "Tag3": "Gauntlets",
+    "Hash": "51c230c2"
+  },
+  {
+    "Name": "Zani",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Spectro",
+    "Tag3": "Broadblade",
+    "Hash": ""
+  },
+  {
+    "Name": "Zhezhi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Glacio",
+    "Tag3": "Rectifier",
+    "Hash": "c8b08afd"
+  }
+]

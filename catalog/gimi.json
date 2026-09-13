@@ -1,0 +1,3144 @@
+{
+  "entries": [
+    {
+      "name": "Albedo",
+      "hash_db": {
+        "Default": ["df65bb00"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Kreideprinz",
+        "阿贝多",
+        "Ābèiduō",
+        "アルベド",
+        "Arubedo",
+        "알베도",
+        "Albedo",
+        "Альбедо",
+        "Al'bedo"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/albedo.png",
+      "metadata": {
+        "release_date": "2020-12-23",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Alhaitham",
+      "hash_db": {
+        "Default": ["3ef08385"]
+      },
+      "tags": [
+        "Sumeru Akademiya",
+        "Haravatat",
+        "艾尔海森",
+        "Ài'ěrhǎisēn",
+        "アルハイゼン",
+        "Aruhaizen",
+        "알하이탐",
+        "Alhaitham",
+        "Аль-Хайтам",
+        "Al-Khaytam"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/alhaitham.png",
+      "metadata": {
+        "release_date": "2023-01-18",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Aloy",
+      "hash_db": {
+        "Default": ["46de82f3"]
+      },
+      "tags": [
+        "Nora Huntress",
+        "Savior From Another World",
+        "Horizon Zero Dawn",
+        "埃洛伊",
+        "Āiluòyī",
+        "アーロイ",
+        "Āroi",
+        "에일로이",
+        "Eiloi",
+        "Элой",
+        "Eloy"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/aloy.png",
+      "metadata": {
+        "release_date": "2021-09-01",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Bow"
+      }
+    },
+    {
+      "name": "Amber",
+      "hash_db": {
+        "Default": ["a2ea4b2d"],
+        "100% Outrider": ["557b2eff"],
+        "Amber2": ["557b2eff"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Outrider",
+        "安柏",
+        "Ānbó",
+        "アンバー",
+        "Anbā",
+        "엠버",
+        "Ember",
+        "Эмбер",
+        "Ember"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "100% Outrider",
+          "aliases": ["AmberCN", "Amber2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/amber.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Arataki Itto",
+      "hash_db": {},
+      "tags": [
+        "Arataki Gang",
+        "荒泷一斗",
+        "Huānglóng Yīdǒu",
+        "荒瀧一斗",
+        "Arataki Itto",
+        "아라타키 이토",
+        "Arataki Ito",
+        "Аратаки Итто",
+        "Arataki Itto"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/arataki_itto.png",
+      "metadata": {
+        "release_date": "2021-12-14",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Arlecchino",
+      "hash_db": {
+        "Default": ["6895f405"]
+      },
+      "tags": [
+        "Fatui Harbingers",
+        "The Knave",
+        "House of the Hearth",
+        "阿蕾奇诺",
+        "Ālěiqínuò",
+        "アルレッキーノ",
+        "Arurekkīno",
+        "아를레키노",
+        "Areullekino",
+        "Арлекино",
+        "Arlekino"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/arlecchino.png",
+      "metadata": {
+        "release_date": "2024-04-24",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Snezhnaya"
+      }
+    },
+    {
+      "name": "Baizhu",
+      "hash_db": {
+        "Default": ["17baa562"]
+      },
+      "tags": [
+        "Bubu Pharmacy",
+        "白术",
+        "Báizhú",
+        "白朮",
+        "Hakujutsu",
+        "백출",
+        "Baekchul",
+        "Бай Чжу",
+        "Bay Chzhu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/baizhu.png",
+      "metadata": {
+        "release_date": "2023-05-02",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Barbara",
+      "hash_db": {
+        "Default": ["85282151"],
+        "Summertime Sparkle": ["8b9e7c22"],
+        "Barbara2": ["8b9e7c22"]
+      },
+      "tags": [
+        "Church of Favonius",
+        "Deaconess",
+        "Shining Idol",
+        "芭芭拉",
+        "Bābālā",
+        "バーバラ",
+        "Bābara",
+        "바바라",
+        "Babara",
+        "Барбара",
+        "Barbara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Summertime Sparkle",
+          "aliases": ["BarbaraSummer", "Barbara2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/barbara.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Beidou",
+      "hash_db": {
+        "Default": ["51197c51"]
+      },
+      "tags": [
+        "Crux Fleet",
+        "Captain",
+        "北斗",
+        "Běidǒu",
+        "北斗",
+        "Hokuto",
+        "북두",
+        "Bukdu",
+        "Бэй Доу",
+        "Bey Dou"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/beidou.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Bennett",
+      "hash_db": {
+        "Default": ["6cff51b4"],
+        "Sunspray Resort": ["09b92379"],
+        "Bennett2": ["09b92379"]
+      },
+      "tags": [
+        "Adventurers' Guild",
+        "Benny's Adventure Team",
+        "班尼特",
+        "Bānnítè",
+        "ベネット",
+        "Benetto",
+        "베넷",
+        "Benet",
+        "Беннет",
+        "Bennet"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Sunspray Resort",
+          "aliases": ["BennettSunspray", "Bennett2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/bennett.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Candace",
+      "hash_db": {
+        "Default": ["9cee8711"]
+      },
+      "tags": [
+        "Aaru Village",
+        "Guardian of Aaru Village",
+        "坎蒂丝",
+        "Kǎndísī",
+        "キャンディス",
+        "Kyandisu",
+        "캔디스",
+        "Kaendiseu",
+        "Кандакия",
+        "Kandakiya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/candace.png",
+      "metadata": {
+        "release_date": "2022-09-28",
+        "rarity": "4-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Charlotte",
+      "hash_db": {
+        "Default": ["c5a6d98e"]
+      },
+      "tags": [
+        "The Steambird",
+        "Journalist",
+        "夏洛蒂",
+        "Xiàluòdì",
+        "シャルロット",
+        "Sharurotto",
+        "샤를로트",
+        "Syareulloteu",
+        "Шарлотта",
+        "Sharlotta"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/charlotte.png",
+      "metadata": {
+        "release_date": "2023-11-08",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Chasca",
+      "hash_db": {
+        "Default": ["b5a29a7d"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/chasca.png",
+      "metadata": {
+        "release_date": "2024-11-20",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Chevreuse",
+      "hash_db": {
+        "Default": ["4d8d965a"]
+      },
+      "tags": [
+        "Special Security and Surveillance Patrol",
+        "Captain",
+        "夏沃蕾",
+        "Xiàwòlěi",
+        "シュヴルーズ",
+        "Shuvurūzu",
+        "슈브르즈",
+        "Syubeureujeu",
+        "Шеврёз",
+        "Shevryoz"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/chevreuse.png",
+      "metadata": {
+        "release_date": "2024-01-09",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Chiori",
+      "hash_db": {
+        "Default": ["c8e25747"]
+      },
+      "tags": [
+        "Chioriya Boutique",
+        "Fashion Designer",
+        "千织",
+        "Qiānzhī",
+        "千織",
+        "Chiori",
+        "치오리",
+        "Chiori",
+        "Тиори",
+        "Tiori"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/chiori.png",
+      "metadata": {
+        "release_date": "2024-03-13",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Chongyun",
+      "hash_db": {
+        "Default": ["489e3621"]
+      },
+      "tags": [
+        "Exorcist",
+        "重云",
+        "Chóngyún",
+        "重雲",
+        "Chōun",
+        "중운",
+        "Jung-un",
+        "Чун Юнь",
+        "Chun Yun'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/chongyun.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Citlali",
+      "hash_db": {
+        "Default": ["362dc30c"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/citlali.png",
+      "metadata": {
+        "release_date": "2025-01-01",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Clorinde",
+      "hash_db": {
+        "Default": ["07f8ad68"]
+      },
+      "tags": [
+        "Champion Duelist",
+        "克洛琳德",
+        "Kèluòlíndé",
+        "クロリンデ",
+        "Kurorinde",
+        "클로린드",
+        "Keullorindeu",
+        "Клоринда",
+        "Klorinda"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/clorinde.png",
+      "metadata": {
+        "release_date": "2024-06-05",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Collei",
+      "hash_db": {
+        "Default": ["348e58c4"]
+      },
+      "tags": [
+        "Gandharva Ville",
+        "Trainee Forest Ranger",
+        "柯莱",
+        "Kēlái",
+        "コレイ",
+        "Korei",
+        "콜레이",
+        "Kollei",
+        "Коллеи",
+        "Kollei"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/collei.png",
+      "metadata": {
+        "release_date": "2022-08-24",
+        "rarity": "4-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Cyno",
+      "hash_db": {
+        "Default": ["226f076e"]
+      },
+      "tags": [
+        "General Mahamatra",
+        "Sumeru Akademiya",
+        "赛诺",
+        "Sàinuò",
+        "セノ",
+        "Seno",
+        "사이노",
+        "Saino",
+        "Сайно",
+        "Sayno"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/cyno.png",
+      "metadata": {
+        "release_date": "2022-09-28",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Dahlia",
+      "hash_db": {
+        "Default": ["39aa79bd"]
+      },
+      "tags": ["Mondstadt"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/dahlia.png",
+      "metadata": {
+        "release_date": "2025-06-18",
+        "rarity": "4-Star",
+        "element": "Hydro",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Dehya",
+      "hash_db": {
+        "Default": ["9aeecbcb"]
+      },
+      "tags": [
+        "Eremites",
+        "Flame-Mane",
+        "迪希雅",
+        "Díxīyǎ",
+        "ディシア",
+        "Dishia",
+        "데히야",
+        "Dehiya",
+        "Дэхья",
+        "Dekh'ya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/dehya.png",
+      "metadata": {
+        "release_date": "2023-03-01",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Diluc",
+      "hash_db": {
+        "Default": ["71625c4d"],
+        "Red Dead of Night": ["a2d909c8"],
+        "Diluc2": ["a2d909c8"]
+      },
+      "tags": [
+        "Dawn Winery",
+        "Darknight Hero",
+        "迪卢克",
+        "Dílúkè",
+        "ディルック",
+        "Dirukku",
+        "다이루크",
+        "Dairukeu",
+        "Дилюк",
+        "Dilyuk"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Red Dead of Night",
+          "aliases": ["DilucRed", "Diluc2", "DilucNight"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/diluc.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Diona",
+      "hash_db": {
+        "Default": ["e8083f19"]
+      },
+      "tags": [
+        "The Cat's Tail",
+        "Kätzlein",
+        "迪奥娜",
+        "Dí'àonà",
+        "ディオナ",
+        "Diona",
+        "디오나",
+        "Diona",
+        "Диона",
+        "Diona"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/diona.png",
+      "metadata": {
+        "release_date": "2020-11-11",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Dori",
+      "hash_db": {
+        "Default": ["2a2a63ab"]
+      },
+      "tags": [
+        "The Palace of Alcazarzaray",
+        "Merchant",
+        "多莉",
+        "Duōlì",
+        "ドリー",
+        "Dorī",
+        "도리",
+        "Dori",
+        "Дори",
+        "Dori"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/dori.png",
+      "metadata": {
+        "release_date": "2022-09-09",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Emilie",
+      "hash_db": {
+        "Default": ["62679081"]
+      },
+      "tags": [
+        "Perfumer",
+        "艾梅莉埃",
+        "Àiméilì'āi",
+        "エミリエ",
+        "Emirie",
+        "에밀리에",
+        "Emillie",
+        "Эмилия",
+        "Emiliya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/emilie.png",
+      "metadata": {
+        "release_date": "2024-07-17",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Escoffier",
+      "hash_db": {
+        "Default": ["1569d000"]
+      },
+      "tags": ["Fontaine", "Chef"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/escoffier.png",
+      "metadata": {
+        "release_date": "2025-05-07",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Eula",
+      "hash_db": {
+        "Default": ["107ba6e7"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Spindrift Knight",
+        "Lawrence Clan",
+        "优菈",
+        "Yōulā",
+        "エウルア",
+        "Eurua",
+        "유라",
+        "Yura",
+        "Эола",
+        "Eola"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/eula.png",
+      "metadata": {
+        "release_date": "2021-05-18",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Faruzan",
+      "hash_db": {
+        "Default": ["6162188c"]
+      },
+      "tags": [
+        "Sumeru Akademiya",
+        "Haravatat",
+        "珐露珊",
+        "Fàlùshān",
+        "ファルザン",
+        "Faruzan",
+        "파루잔",
+        "Parujan",
+        "Фарузан",
+        "Faruzan"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/faruzan.png",
+      "metadata": {
+        "release_date": "2022-12-07",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Fischl",
+      "hash_db": {
+        "Default": ["bf6aef4d"],
+        "Ein Immernachtstraum": ["8f473224"],
+        "Fischl2": ["8f473224"]
+      },
+      "tags": [
+        "Adventurers' Guild",
+        "Prinzessin der Verurteilung",
+        "菲谢尔",
+        "Fēixiè'ěr",
+        "フィッシュル",
+        "Fisshuru",
+        "피슬",
+        "Piseul",
+        "Фишль",
+        "Fishl'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Ein Immernachtstraum",
+          "aliases": ["FischlFantasy", "Fischl2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/fischl.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Freminet",
+      "hash_db": {
+        "Default": ["86559a85"]
+      },
+      "tags": [
+        "House of the Hearth",
+        "Diver",
+        "菲米尼",
+        "Fēimǐní",
+        "フレミネ",
+        "Furemine",
+        "프레미네",
+        "Peuremine",
+        "Фремине",
+        "Fremine"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/freminet.png",
+      "metadata": {
+        "release_date": "2023-09-05",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Furina",
+      "hash_db": {
+        "Default": ["8294fe98"]
+      },
+      "tags": [
+        "Focalors",
+        "Former Hydro Archon",
+        "芙宁娜",
+        "Fúníngnà",
+        "フリーナ",
+        "Furīna",
+        "푸리나",
+        "Purina",
+        "Фурина",
+        "Furina"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/furina.png",
+      "metadata": {
+        "release_date": "2023-11-08",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Gaming",
+      "hash_db": {
+        "Default": ["b94ef036"]
+      },
+      "tags": [
+        "Sword and Strongbox Secure Transport",
+        "Wushou Dance",
+        "嘉明",
+        "Jiāmíng",
+        "嘉明",
+        "Gamin",
+        "가명",
+        "Gamyeong",
+        "Ка Мин",
+        "Ka Min"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/gaming.png",
+      "metadata": {
+        "release_date": "2024-01-31",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Ganyu",
+      "hash_db": {
+        "Default": ["a5169f1d"],
+        "Twilight Blossom": ["9b3f356e"],
+        "Ganyu2": ["9b3f356e"]
+      },
+      "tags": [
+        "Liyue Qixing",
+        "Yuehai Pavilion",
+        "Adeptus",
+        "甘雨",
+        "Gānyǔ",
+        "甘雨",
+        "Kan'u",
+        "감우",
+        "Gamu",
+        "Гань Юй",
+        "Gan' Yuy"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Twilight Blossom",
+          "aliases": ["GanyuTwilight", "Ganyu2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/ganyu.png",
+      "metadata": {
+        "release_date": "2021-01-12",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Gorou",
+      "hash_db": {
+        "Default": ["3ce94cac"]
+      },
+      "tags": [
+        "Watatsumi Army",
+        "General",
+        "五郎",
+        "Wǔláng",
+        "ゴロー",
+        "Gorō",
+        "고로",
+        "Goro",
+        "Горо",
+        "Goro"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/gorou.png",
+      "metadata": {
+        "release_date": "2021-12-14",
+        "rarity": "4-Star",
+        "element": "Geo",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Hu Tao",
+      "hash_db": {
+        "Default": ["dd16576c"],
+        "Hutao2": ["a78db232"]
+      },
+      "tags": [
+        "Wangsheng Funeral Parlor",
+        "77th Director",
+        "胡桃",
+        "Hú Táo",
+        "胡桃",
+        "Hu Tao",
+        "호두",
+        "Hodu",
+        "Ху Тао",
+        "Khu Tao"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/hu_tao.png",
+      "metadata": {
+        "release_date": "2021-03-02",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Iansan",
+      "hash_db": {
+        "Default": ["6891e2e2"]
+      },
+      "tags": ["Natlan", "伊安珊", "Yī'ānshān", "イアンサ", "Iansa"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/iansan.png",
+      "metadata": {
+        "release_date": "2025-03-26",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Ifa",
+      "hash_db": {
+        "Default": ["2f2a744d"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/ifa.png",
+      "metadata": {
+        "release_date": "2025-05-07",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Ineffa",
+      "hash_db": {
+        "Default": ["29fbb239"]
+      },
+      "tags": ["Natlan", "Nod-Krai", "伊涅芙", "イネファ", "이네파", "Инеффа"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/Ineffa.png",
+      "metadata": {
+        "release_date": "2025-07-30",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Nod-Krai"
+      }
+    },
+    {
+      "name": "Jean",
+      "hash_db": {
+        "Default": ["191af650"],
+        "Gunnhildr's Heritage": ["93bb2522"],
+        "Sea Breeze Dandelion": ["16fef1eb"],
+        "Jean2": ["93bb2522"],
+        "Jean3": ["16fef1eb"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Acting Grand Master",
+        "Dandelion Knight",
+        "琴",
+        "Qín",
+        "ジン",
+        "Jin",
+        "진",
+        "Jin",
+        "Джинн",
+        "Dzhinn"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Gunnhildr's Heritage",
+          "aliases": ["JeanCN", "Jean2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        },
+        {
+          "name": "Sea Breeze Dandelion",
+          "aliases": ["JeanSea", "Jean Sea Breeze", "Jean3"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/jean.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Kachina",
+      "hash_db": {
+        "Default": ["888c4b7c"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kachina.png",
+      "metadata": {
+        "release_date": "2024-08-28",
+        "rarity": "4-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Kaedehara Kazuha",
+      "hash_db": {},
+      "tags": [
+        "The Crux",
+        "Wandering Samurai",
+        "枫原万叶",
+        "Fēngyuán Wànyè",
+        "楓原万葉",
+        "Kaedehara Kazuha",
+        "카에데하라 카즈하",
+        "Kaedehara Kajuha",
+        "Каэдэхара Кадзуха",
+        "Kaedekhara Kadzukha"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kaedehara_kazuha.png",
+      "metadata": {
+        "release_date": "2021-06-29",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Kaeya",
+      "hash_db": {
+        "Default": ["8a081f34"],
+        "Sailwind Shadow": ["b9b77eff"],
+        "Kaeya2": ["b9b77eff"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Cavalry Captain",
+        "凯亚",
+        "Kǎiyà",
+        "ガイア",
+        "Gaia",
+        "케이아",
+        "Keia",
+        "Кэйа",
+        "Keya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Sailwind Shadow",
+          "aliases": ["KaeyaSailwind", "Kaeya2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/kaeya.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Kamisato Ayaka",
+      "hash_db": {
+        "Springbloom Missive": ["cf78a1d0"]
+      },
+      "tags": [
+        "Yashiro Commission",
+        "Shirasagi Himegimi",
+        "神里绫华",
+        "Shénlǐ Línghuá",
+        "神里綾華",
+        "Kamisato Ayaka",
+        "카미사토 아야카",
+        "Kamisato Ayaka",
+        "Камисато Аяка",
+        "Kamisato Ayaka"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Springbloom Missive",
+          "aliases": ["AyakaSpringbloom", "Ayaka2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/kamisato_ayaka.png",
+      "metadata": {
+        "release_date": "2021-07-21",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Kamisato Ayato",
+      "hash_db": {},
+      "tags": [
+        "Yashiro Commission",
+        "Kamisato Clan",
+        "神里绫人",
+        "Shénlǐ Língrén",
+        "神里綾人",
+        "Kamisato Ayato",
+        "카미사토 아야토",
+        "Kamisato Ayato",
+        "Камисато Аято",
+        "Kamisato Ayato"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kamisato_ayato.png",
+      "metadata": {
+        "release_date": "2022-03-30",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Kaveh",
+      "hash_db": {
+        "Default": ["b56fd424"]
+      },
+      "tags": [
+        "Sumeru Akademiya",
+        "Kshahrewar",
+        "卡维",
+        "Kǎwéi",
+        "カーヴェ",
+        "Kāve",
+        "카베",
+        "Kabe",
+        "Кавех",
+        "Kavekh"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kaveh.png",
+      "metadata": {
+        "release_date": "2023-05-02",
+        "rarity": "4-Star",
+        "element": "Dendro",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Keqing",
+      "hash_db": {
+        "Default": ["3aaf3e94"],
+        "Opulent Splendor": ["0d7e3cc5"],
+        "Keqing2": ["0d7e3cc5"]
+      },
+      "tags": [
+        "Liyue Qixing",
+        "Yuheng",
+        "刻晴",
+        "Kèqíng",
+        "刻晴",
+        "Kokusei",
+        "각청",
+        "Gakcheong",
+        "Кэ Цин",
+        "Ke Tsin"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Opulent Splendor",
+          "aliases": ["KeqingOpulent", "Keqing2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/keqing.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Kinich",
+      "hash_db": {
+        "Default": ["42796c33"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kinich.png",
+      "metadata": {
+        "release_date": "2024-09-17",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Kirara",
+      "hash_db": {
+        "Default": ["b57d7fe2"],
+        "Phantom in Boots": ["f8013ba9"],
+        "Kirara2": ["f8013ba9"]
+      },
+      "tags": [
+        "Komaniya Express",
+        "Youkai",
+        "绮良良",
+        "Qǐliángliáng",
+        "綺良々",
+        "Kirara",
+        "키라라",
+        "Kirara",
+        "Кирара",
+        "Kirara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Phantom in Boots",
+          "aliases": ["KiraraBoots", "Kirara2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/kirara.png",
+      "metadata": {
+        "release_date": "2023-05-24",
+        "rarity": "4-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Klee",
+      "hash_db": {
+        "Default": ["dcd74904"],
+        "Blossoming Starlight": ["0f5fedb4"],
+        "Klee2": ["0f5fedb4"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Spark Knight",
+        "可莉",
+        "Kělì",
+        "クレー",
+        "Kurē",
+        "클레",
+        "Keulle",
+        "Кли",
+        "Kli"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Blossoming Starlight",
+          "aliases": ["KleeBlossoming", "Klee2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/klee.png",
+      "metadata": {
+        "release_date": "2020-10-20",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Kujou Sara",
+      "hash_db": {},
+      "tags": [
+        "Tenryou Commission",
+        "General",
+        "九条裟罗",
+        "Jiǔtiáo Shāluó",
+        "九条裟羅",
+        "Kujō Sara",
+        "쿠죠 사라",
+        "Kujyo Sara",
+        "Кудзё Сара",
+        "Kudzyo Sara"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kujou_sara.png",
+      "metadata": {
+        "release_date": "2021-09-01",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Kuki Shinobu",
+      "hash_db": {},
+      "tags": [
+        "Arataki Gang",
+        "Deputy",
+        "久岐忍",
+        "Jiǔqí Rěn",
+        "久岐忍",
+        "Kuki Shinobu",
+        "쿠키 시노부",
+        "Kuki Sinobu",
+        "Куки Синобу",
+        "Kuki Sinobu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/kuki_shinobu.png",
+      "metadata": {
+        "release_date": "2022-06-21",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Lan Yan",
+      "hash_db": {
+        "Default": ["ee60b28c"]
+      },
+      "tags": ["Liyue"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/lan_yan.png",
+      "metadata": {
+        "release_date": "2025-01-21",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Layla",
+      "hash_db": {
+        "Default": ["2656ccca"]
+      },
+      "tags": [
+        "Sumeru Akademiya",
+        "Rtawahist",
+        "莱依拉",
+        "Láiyīlā",
+        "レイラ",
+        "Reira",
+        "레일라",
+        "Reilla",
+        "Лайла",
+        "Layla"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/layla.png",
+      "metadata": {
+        "release_date": "2022-11-18",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Lisa",
+      "hash_db": {
+        "Default": ["2a557add"],
+        "A Sobriquet Under Shade": ["37c70461"],
+        "Lisa2": ["37c70461"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Librarian",
+        "Sumeru Akademiya",
+        "丽莎",
+        "Lìshā",
+        "リサ",
+        "Risa",
+        "리사",
+        "Risa",
+        "Лиза",
+        "Liza"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "A Sobriquet Under Shade",
+          "aliases": ["LisaScholar", "Lisa2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/lisa.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Lynette",
+      "hash_db": {
+        "Default": ["98eb2db4"]
+      },
+      "tags": [
+        "House of the Hearth",
+        "Magician's Assistant",
+        "琳妮特",
+        "Línnītè",
+        "リネット",
+        "Rinetto",
+        "리넷",
+        "Rinet",
+        "Линетт",
+        "Linett"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/lynette.png",
+      "metadata": {
+        "release_date": "2023-08-16",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Lyney",
+      "hash_db": {
+        "Default": ["6f7b7740"]
+      },
+      "tags": [
+        "House of the Hearth",
+        "Magician",
+        "林尼",
+        "Línní",
+        "リネ",
+        "Rine",
+        "리니",
+        "Rini",
+        "Лини",
+        "Lini"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/lyney.png",
+      "metadata": {
+        "release_date": "2023-08-16",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Mavuika",
+      "hash_db": {
+        "Default": ["039618b0"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/mavuika.png",
+      "metadata": {
+        "release_date": "2025-01-01",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Mika",
+      "hash_db": {
+        "Default": ["1876e82e"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Reconnaissance Company",
+        "米卡",
+        "Mǐkǎ",
+        "ミカ",
+        "Mika",
+        "미카",
+        "Mika",
+        "Мика",
+        "Mika"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/mika.png",
+      "metadata": {
+        "release_date": "2023-03-21",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Mona",
+      "hash_db": {
+        "Default": ["7a1dc890"],
+        "Pact of Stars and Moon": ["515f3ce6"],
+        "Mona2": ["515f3ce6"]
+      },
+      "tags": ["Astrologist", "莫娜", "Mònà", "モナ", "Mona", "모나", "Mona", "Мона", "Mona"],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Pact of Stars and Moon",
+          "aliases": ["MonaCN", "Mona2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/mona.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Mualani",
+      "hash_db": {
+        "Default": ["03872d46"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/mualani.png",
+      "metadata": {
+        "release_date": "2024-08-28",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Nahida",
+      "hash_db": {
+        "Default": ["7106f05d"]
+      },
+      "tags": [
+        "Lesser Lord Kusanali",
+        "Dendro Archon",
+        "纳西妲",
+        "Nàxīdá",
+        "ナヒーダ",
+        "Nahīda",
+        "나히다",
+        "Nahida",
+        "Нахида",
+        "Nakhida"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/nahida.png",
+      "metadata": {
+        "release_date": "2022-11-02",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Navia",
+      "hash_db": {
+        "Default": ["f4e09bd7"]
+      },
+      "tags": [
+        "Spina di Rosula",
+        "娜维娅",
+        "Nàwéiyà",
+        "ナヴィア",
+        "Navia",
+        "나비아",
+        "Nabia",
+        "Навия",
+        "Naviya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/navia.png",
+      "metadata": {
+        "release_date": "2023-12-20",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Neuvillette",
+      "hash_db": {
+        "Default": ["cad3a022"]
+      },
+      "tags": [
+        "Iudex of Fontaine",
+        "那维莱特",
+        "Nàwéiláitè",
+        "ヌヴィレット",
+        "Nuviretto",
+        "느비예트",
+        "Neubiyeteu",
+        "Нёвиллет",
+        "Nyovillet"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Lunar Splendor",
+          "aliases": ["NeuvilletteLunar", "Neuvillette2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/neuvillette.png",
+      "metadata": {
+        "release_date": "2023-09-27",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Nilou",
+      "hash_db": {
+        "Default": ["b2acc1df"],
+        "Breeze of Sabaa": ["7d53d78f"],
+        "Nilou2": ["7d53d78f"]
+      },
+      "tags": [
+        "Zubayr Theater",
+        "妮露",
+        "Nīlù",
+        "ニィロウ",
+        "Nīrou",
+        "닐루",
+        "Nilru",
+        "Нилу",
+        "Nilu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Breeze of Sabaa",
+          "aliases": ["NilouBreeze", "Nilou2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/nilou.png",
+      "metadata": {
+        "release_date": "2022-10-14",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Ningguang",
+      "hash_db": {
+        "Default": ["f9e1b52b"],
+        "Orchid's Evening Gown": ["db37b198"],
+        "Ningguang2": ["db37b198"]
+      },
+      "tags": [
+        "Liyue Qixing",
+        "Tianquan",
+        "凝光",
+        "Níngguāng",
+        "凝光",
+        "Gyōkō",
+        "응광",
+        "Eunggwang",
+        "Нин Гуан",
+        "Nin Guan"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Orchid's Evening Gown",
+          "aliases": ["NingguangOrchid", "Ningguang2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/ningguang.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Noelle",
+      "hash_db": {
+        "Default": ["d1384d15"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Maid",
+        "诺艾尔",
+        "Nuò'ài'ěr",
+        "ノエル",
+        "Noeru",
+        "노엘",
+        "Noel",
+        "Ноэлль",
+        "Noell'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/noelle.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Ororon",
+      "hash_db": {
+        "Default": ["effae185"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/ororon.png",
+      "metadata": {
+        "release_date": "2024-11-20",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Qiqi",
+      "hash_db": {
+        "Default": ["cad5bebb"]
+      },
+      "tags": [
+        "Bubu Pharmacy",
+        "Zombie",
+        "七七",
+        "Qīqī",
+        "七々",
+        "Nana",
+        "치치",
+        "Chichi",
+        "Ци Ци",
+        "Tsi Tsi"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/qiqi.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Raiden Shogun",
+      "hash_db": {},
+      "tags": [
+        "Electro Archon",
+        "Ei",
+        "Beelzebul",
+        "雷电将军",
+        "Léidiàn Jiāngjūn",
+        "雷電将軍",
+        "Raiden Shōgun",
+        "라이덴 쇼군",
+        "Raiden Syogun",
+        "Райдэн",
+        "Rayden"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/raiden_shogun.png",
+      "metadata": {
+        "release_date": "2021-09-01",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Razor",
+      "hash_db": {
+        "Default": ["4662c505"]
+      },
+      "tags": [
+        "Wolvendom",
+        "雷泽",
+        "Léizé",
+        "レザー",
+        "Rezā",
+        "레이저",
+        "Reijeo",
+        "Рэйзор",
+        "Reyzor"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/razor.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Male",
+        "weapon": "Claymore",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Rosaria",
+      "hash_db": {
+        "Default": ["748f40a5"],
+        "To the Church's Free Spirit": ["59a1f8b1"],
+        "Rosaria2": ["59a1f8b1"]
+      },
+      "tags": [
+        "Church of Favonius",
+        "罗莎莉亚",
+        "Luóshālìyà",
+        "ロサリア",
+        "Rosaria",
+        "로자리아",
+        "Rojaria",
+        "Розария",
+        "Rozariya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "To the Church's Free Spirit",
+          "aliases": ["RosariaCN", "Rosaria2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/rosaria.png",
+      "metadata": {
+        "release_date": "2021-04-06",
+        "rarity": "4-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Sangonomiya Kokomi",
+      "hash_db": {},
+      "tags": [
+        "Watatsumi Island",
+        "Divine Priestess",
+        "珊瑚宫心海",
+        "Shānhúgōng Xīnhǎi",
+        "珊瑚宮心海",
+        "Sangonomiya Kokomi",
+        "산고노미야 코코미",
+        "Sangonomiya Kokomi",
+        "Сангономия Кокоми",
+        "Sangonomiya Kokomi"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/sangonomiya_kokomi.png",
+      "metadata": {
+        "release_date": "2021-09-21",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Sayu",
+      "hash_db": {
+        "Default": ["c70b7fce"]
+      },
+      "tags": [
+        "Shuumatsuban",
+        "Ninja",
+        "早柚",
+        "Zǎoyòu",
+        "早柚",
+        "Sayu",
+        "사유",
+        "Sayu",
+        "Саю",
+        "Sayu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/sayu.png",
+      "metadata": {
+        "release_date": "2021-08-10",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Sethos",
+      "hash_db": {
+        "Default": ["60d33d25"]
+      },
+      "tags": [
+        "Temple of Silence",
+        "赛索斯",
+        "Sàisuǒsī",
+        "セトス",
+        "Setosu",
+        "세토스",
+        "Setoseu",
+        "Сетос",
+        "Setos"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/sethos.png",
+      "metadata": {
+        "release_date": "2024-06-05",
+        "rarity": "4-Star",
+        "element": "Electro",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Shenhe",
+      "hash_db": {
+        "Default": ["e44b58b5"],
+        "Frostflower Dew": ["ee0980eb"],
+        "Shenhe2": ["ee0980eb"]
+      },
+      "tags": [
+        "Cloud Retainer's disciple",
+        "Adeptus",
+        "申鹤",
+        "Shēnhè",
+        "申鶴",
+        "Shinkaku",
+        "신학",
+        "Sinhak",
+        "Шэнь Хэ",
+        "Shen' Khe"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Frostflower Dew",
+          "aliases": ["ShenheFrostflower", "Shenhe2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/shenhe.png",
+      "metadata": {
+        "release_date": "2022-01-05",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Shikanoin Heizou",
+      "hash_db": {},
+      "tags": [
+        "Tenryou Commission",
+        "Detective",
+        "鹿野院平藏",
+        "Lùyěyuàn Píngzàng",
+        "鹿野院平蔵",
+        "Shikanoin Heizou",
+        "시카노인 헤이조",
+        "Sikanoin Heijo",
+        "Сиканоин Хэйдзо",
+        "Sikanoin Kheydzo"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/shikanoin_heizou.png",
+      "metadata": {
+        "release_date": "2022-07-13",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Sigewinne",
+      "hash_db": {
+        "Default": ["c883a144"]
+      },
+      "tags": [
+        "Fortress of Meropide",
+        "Head Nurse",
+        "希格雯",
+        "Xīgéwén",
+        "シグウィン",
+        "Shiguwin",
+        "시그윈",
+        "Sigeuwin",
+        "Сиджвин",
+        "Sidzhvin"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/sigewinne.png",
+      "metadata": {
+        "release_date": "2024-06-25",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Skirk",
+      "hash_db": {
+        "Default": ["9ce8105a"]
+      },
+      "tags": ["Abyss"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/skirk.png",
+      "metadata": {
+        "release_date": "2025-06-18",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Female",
+        "weapon": "Sword"
+      }
+    },
+    {
+      "name": "Sucrose",
+      "hash_db": {
+        "Default": ["b655c335"]
+      },
+      "tags": [
+        "Knights of Favonius",
+        "Alchemist",
+        "砂糖",
+        "Shātáng",
+        "スクロース",
+        "Sukurōsu",
+        "설탕",
+        "Seoltang",
+        "Сахароза",
+        "Sakharoza"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/sucrose.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Tartaglia",
+      "hash_db": {
+        "Default": ["186eac84"]
+      },
+      "tags": [
+        "Fatui Harbingers",
+        "Childe",
+        "达达利亚",
+        "Dádálìyà",
+        "タルタリヤ",
+        "Tarutariya",
+        "타르탈리아",
+        "Tartallia",
+        "Тарталья",
+        "Tartal'ya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/tartaglia.png",
+      "metadata": {
+        "release_date": "2020-11-11",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Snezhnaya"
+      }
+    },
+    {
+      "name": "Thoma",
+      "hash_db": {
+        "Default": ["24ecd71a"]
+      },
+      "tags": [
+        "Yashiro Commission",
+        "Housekeeper",
+        "Kamisato Clan",
+        "托马",
+        "Tuōmǎ",
+        "トーマ",
+        "Tōma",
+        "토마",
+        "Toma",
+        "Тома",
+        "Toma"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/thoma.png",
+      "metadata": {
+        "release_date": "2021-11-02",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Tighnari",
+      "hash_db": {
+        "Default": ["ed2e7d59"]
+      },
+      "tags": [
+        "Gandharva Ville",
+        "Forest Watcher",
+        "提纳里",
+        "Tínàlǐ",
+        "ティナリ",
+        "Tinari",
+        "타이나리",
+        "Tainari",
+        "Тигнари",
+        "Tignari"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/tighnari.png",
+      "metadata": {
+        "release_date": "2022-08-24",
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Aether",
+      "hash_db": {
+        "Default": ["c77e380b"]
+      },
+      "tags": [
+        "Aether",
+        "Traveler",
+        "Traveler Sibling",
+        "Kōng",
+        "空",
+        "空",
+        "Sora",
+        "아이테르",
+        "Aitereu",
+        "Éter"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Origin of the Stars",
+          "aliases": ["TravelerOrigin", "Traveler2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/aether.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "gender": "Male",
+        "weapon": "Sword"
+      }
+    },
+    {
+      "name": "Lumine",
+      "hash_db": {
+        "Default": ["8239be13"]
+      },
+      "tags": [
+        "Traveler",
+        "Traveler Sibling",
+        "princess of abyss",
+        "Hotaru",
+        "荧",
+        "Líng",
+        "ルミネ",
+        "Rumine",
+        "루미네",
+        "Rumine",
+        "Люминэ",
+        "Lyumine"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Origin of the Stars",
+          "aliases": ["TravelerOrigin", "Traveler2"],
+          "thumbnail_skin_path": null,
+          "rarity": "5"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/lumine.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "gender": "Female",
+        "weapon": "Sword"
+      }
+    },
+    {
+      "name": "Varesa",
+      "hash_db": {
+        "Default": ["9784dbe3"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/varesa.png",
+      "metadata": {
+        "release_date": "2025-03-26",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Venti",
+      "hash_db": {
+        "Default": ["09a91a5c"]
+      },
+      "tags": [
+        "Anemo Archon",
+        "Barbatos",
+        "温迪",
+        "Wēndí",
+        "ウェンティ",
+        "Wenti",
+        "벤티",
+        "Benti",
+        "Венти",
+        "Venti"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/venti.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Bow",
+        "region": "Mondstadt"
+      }
+    },
+    {
+      "name": "Wanderer",
+      "hash_db": {
+        "Default": ["0110e1c7"]
+      },
+      "tags": [
+        "Scaramouche",
+        "The Balladeer",
+        "Kunikuzushi",
+        "流浪者",
+        "Liúlàngzhě",
+        "放浪者",
+        "Hōrōsha",
+        "방랑자",
+        "Bangrangja",
+        "Странник",
+        "Strannik"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/wanderer.png",
+      "metadata": {
+        "release_date": "2022-12-07",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Sumeru"
+      }
+    },
+    {
+      "name": "Wriothesley",
+      "hash_db": {
+        "Default": ["aa6f1268"]
+      },
+      "tags": [
+        "Fortress of Meropide",
+        "Administrator",
+        "莱欧斯利",
+        "Lái'ōusīlì",
+        "リオセスリ",
+        "Riosesuri",
+        "라이오슬리",
+        "Raioseulli",
+        "Ризли",
+        "Rizli"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/wriothesley.png",
+      "metadata": {
+        "release_date": "2023-10-17",
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Catalyst",
+        "region": "Fontaine"
+      }
+    },
+    {
+      "name": "Xiangling",
+      "hash_db": {
+        "Default": ["9427917d"],
+        "Xiangling2": ["05a65c3f"]
+      },
+      "tags": [
+        "Wanmin Restaurant",
+        "Chef",
+        "香菱",
+        "Xiānglíng",
+        "香菱",
+        "Shanrin",
+        "향릉",
+        "Hyangneung",
+        "Сян Лин",
+        "Syan Lin"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/xiangling.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Xianyun",
+      "hash_db": {
+        "Default": ["39838e8f"]
+      },
+      "tags": [
+        "Cloud Retainer",
+        "Adeptus",
+        "闲云",
+        "Xiányún",
+        "閑雲",
+        "Kan'un",
+        "한운",
+        "Hanun",
+        "Сянь Юнь",
+        "Syan' Yun'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/xianyun.png",
+      "metadata": {
+        "release_date": "2024-01-31",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Xiao",
+      "hash_db": {
+        "Default": ["9464bf2d"]
+      },
+      "tags": ["Yaksha", "Adeptus", "Alatus", "魈", "Xiāo", "魈", "Shō", "소", "So", "Сяо", "Syao"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/xiao.png",
+      "metadata": {
+        "release_date": "2021-02-03",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Xilonen",
+      "hash_db": {
+        "Default": ["a4571ede"]
+      },
+      "tags": ["Natlan"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/xilonen.png",
+      "metadata": {
+        "release_date": "2024-10-09",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Sword",
+        "region": "Natlan"
+      }
+    },
+    {
+      "name": "Xingqiu",
+      "hash_db": {
+        "Default": ["25aed172"],
+        "Bamboo Rain": ["cc158a1e"],
+        "Xingqiu2": ["cc158a1e"]
+      },
+      "tags": [
+        "Feiyun Commerce Guild",
+        "Guhua Clan",
+        "行秋",
+        "Xíngqiū",
+        "行秋",
+        "Yukuaki",
+        "행추",
+        "Haengchu",
+        "Син Цю",
+        "Sin Tsyu"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Bamboo Rain",
+          "aliases": ["XingqiuBamboo", "Xingqiu2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/xingqiu.png",
+      "metadata": {
+        "release_date": "2020-09-28",
+        "rarity": "4-Star",
+        "element": "Hydro",
+        "gender": "Male",
+        "weapon": "Sword",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Xinyan",
+      "hash_db": {
+        "Default": ["76ed85f0"]
+      },
+      "tags": [
+        "Rock 'n' Roll Musician",
+        "辛焱",
+        "Xīnyàn",
+        "辛炎",
+        "Shin'en",
+        "신염",
+        "Sinyeom",
+        "Синь Янь",
+        "Sin' Yan'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/xinyan.png",
+      "metadata": {
+        "release_date": "2020-12-01",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Yae Miko",
+      "hash_db": {},
+      "tags": [
+        "Grand Narukami Shrine",
+        "Yae Publishing House",
+        "Guuji Yae",
+        "八重神子",
+        "Bāchóng Shénzǐ",
+        "八重神子",
+        "Yae Miko",
+        "야에 미코",
+        "Yae Miko",
+        "Яэ Мико",
+        "Yae Miko"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yae_miko.png",
+      "metadata": {
+        "release_date": "2022-02-16",
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Yanfei",
+      "hash_db": {
+        "Default": ["eb8b62d3"]
+      },
+      "tags": [
+        "Legal Advisor",
+        "烟绯",
+        "Yānfēi",
+        "煙緋",
+        "Enhi",
+        "연비",
+        "Yeonbi",
+        "Янь Фэй",
+        "Yan' Fey"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yanfei.png",
+      "metadata": {
+        "release_date": "2021-04-28",
+        "rarity": "4-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Yaoyao",
+      "hash_db": {
+        "Default": ["293449d6"]
+      },
+      "tags": [
+        "Streetward Rambler's disciple",
+        "瑶瑶",
+        "Yáoyao",
+        "ヨォーヨ",
+        "Yōyo",
+        "요요",
+        "Yoyo",
+        "Яо Яо",
+        "Yao Yao"
+      ],
+      "object_type": "Character",
+      "custom_skins": [
+        {
+          "name": "Spring Celebration",
+          "aliases": ["YaoyaoSpring", "Yaoyao2"],
+          "thumbnail_skin_path": null,
+          "rarity": "4"
+        }
+      ],
+      "thumbnail_path": "images/gimi/char/yaoyao.png",
+      "metadata": {
+        "release_date": "2023-01-18",
+        "rarity": "4-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Yelan",
+      "hash_db": {
+        "Default": ["c58c76f9"],
+        "Yelan2": ["02c325ef"]
+      },
+      "tags": [
+        "Yanshang Teahouse",
+        "夜兰",
+        "Yè lán",
+        "夜蘭",
+        "Yaran",
+        "야란",
+        "Yaran",
+        "Е Лань",
+        "Ye Lan'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yelan.png",
+      "metadata": {
+        "release_date": "2022-05-31",
+        "rarity": "5-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Yoimiya",
+      "hash_db": {
+        "Default": ["65618289"]
+      },
+      "tags": [
+        "Naganohara Fireworks",
+        "宵宫",
+        "Xiāogōng",
+        "宵宮",
+        "Yoimiya",
+        "요이미야",
+        "Yoimiya",
+        "Ёимия",
+        "Yoimiya"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yoimiya.png",
+      "metadata": {
+        "release_date": "2021-08-10",
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Bow",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Yumemizuki Mizuki",
+      "hash_db": {},
+      "tags": ["Inazuma"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yumemizuki_mizuki.png",
+      "metadata": {
+        "release_date": "2025-02-12",
+        "rarity": "5-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "region": "Inazuma"
+      }
+    },
+    {
+      "name": "Yun Jin",
+      "hash_db": {
+        "Default": ["221f052e"]
+      },
+      "tags": [
+        "Yun-Han Opera Troupe",
+        "云堇",
+        "Yún Jǐn",
+        "雲菫",
+        "Unkin",
+        "운근",
+        "Un-geun",
+        "Юнь Цзинь",
+        "Yun' Tszin'"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/yun_jin.png",
+      "metadata": {
+        "release_date": "2022-01-05",
+        "rarity": "4-Star",
+        "element": "Geo",
+        "gender": "Female",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Zhongli",
+      "hash_db": {
+        "Default": ["a75ba32e"]
+      },
+      "tags": [
+        "Geo Archon",
+        "Rex Lapis",
+        "Morax",
+        "Wangsheng Funeral Parlor",
+        "钟离",
+        "Zhōnglí",
+        "鍾離",
+        "Shōri",
+        "종려",
+        "Jongryeo",
+        "Чжун Ли",
+        "Chzhun Li"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": "images/gimi/char/zhongli.png",
+      "metadata": {
+        "release_date": "2020-12-01",
+        "rarity": "5-Star",
+        "element": "Geo",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "region": "Liyue"
+      }
+    },
+    {
+      "name": "Aino",
+      "hash_db": {
+        "Default": ["d94c8962"]
+      },
+      "tags": ["Aino", "爱诺", "アイノ", "아이노"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "4-Star",
+        "element": "Hydro",
+        "gender": "Female",
+        "weapon": "Claymore",
+        "catalog_provenance": "references/GIMI_Characters.json",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Flins",
+      "hash_db": {
+        "Default": ["da9f1463"]
+      },
+      "tags": ["Flins", "菲林斯", "フリンズ", "플린스"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "5-Star",
+        "element": "Electro",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "catalog_provenance": "references/GIMI_Characters.json",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Lauma",
+      "hash_db": {
+        "Default": ["8226cf84"]
+      },
+      "tags": ["Lauma", "菈乌玛", "ラウマ", "라우마"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "catalog_provenance": "references/GIMI_Characters.json",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Nefer",
+      "hash_db": {},
+      "tags": ["Nefer", "奈芙尔", "ネフェル", "네페르"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "5-Star",
+        "element": "Dendro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "catalog_provenance": "references/GIMI_Characters.json",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Nicole Reeyn",
+      "hash_db": {},
+      "tags": ["Nicole Reeyn", "Nicole", "N"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "5-Star",
+        "element": "Pyro",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "catalog_provenance": "https://blog.playstation.com/?p=418331",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Prune",
+      "hash_db": {},
+      "tags": ["Prune", "Witch Hunter"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "4-Star",
+        "element": "Anemo",
+        "gender": "Female",
+        "weapon": "Catalyst",
+        "catalog_provenance": "https://blog.playstation.com/?p=418331",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Lohen",
+      "hash_db": {},
+      "tags": ["Lohen", "Knights of Favonius", "Fifth Company"],
+      "object_type": "Character",
+      "custom_skins": [],
+      "thumbnail_path": null,
+      "metadata": {
+        "rarity": "5-Star",
+        "element": "Cryo",
+        "gender": "Male",
+        "weapon": "Polearm",
+        "catalog_provenance": "https://blog.playstation.com/?p=418331",
+        "catalog_verified_at": "2026-09-12"
+      }
+    },
+    {
+      "name": "Weapon",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "User Interface",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "UI",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Enemy",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "NPC",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "Collectibles",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "World Objects",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    },
+    {
+      "name": "VFX",
+      "entry_kind": "taxonomy",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Other",
+      "custom_skins": [],
+      "thumbnail_path": null
+    }
+  ],
+  "hash_db": {}
+}

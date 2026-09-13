@@ -1,0 +1,762 @@
+[
+  {
+    "Name": "Acheron",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Nihility",
+    "Hash": "9de39691"
+  },
+  {
+    "Name": "Aglacea",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Remembrance",
+    "Hash": "3d641b44"
+  },
+  {
+    "Name": "Anaxa",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Wind",
+    "Tag3": "Erudition",
+    "Hash": "468acfca"
+  },
+  {
+    "Name": "Archer",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Quantum",
+    "Tag3": "Hunt",
+    "Hash": "29d954e1"
+  },
+  {
+    "Name": "Argenti",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Erudition",
+    "Hash": "18af7e1c"
+  },
+  {
+    "Name": "Arlan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Lightning",
+    "Tag3": "Destruction",
+    "Hash": "40436908"
+  },
+  {
+    "Name": "Asta",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Harmony",
+    "Hash": "0b10db89"
+  },
+  {
+    "Name": "Aventurine",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Preservation",
+    "Hash": "53bdb739"
+  },
+  {
+    "Name": "Bailu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Abundance",
+    "Hash": "7955d970"
+  },
+  {
+    "Name": "Black Swan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Nihility",
+    "Hash": "562fbdb4"
+  },
+  {
+    "Name": "Blade",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Wind",
+    "Tag3": "Destruction",
+    "Hash": "553ae2f8"
+  },
+  {
+    "Name": "Boothill",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Hunt",
+    "Hash": "be7282b3"
+  },
+  {
+    "Name": "Bronya",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Harmony",
+    "Hash": "0d67a9c3"
+  },
+  {
+    "Name": "Castorice",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Remembrance",
+    "Hash": "e28bb3dd"
+  },
+  {
+    "Name": "Cerydra",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Harmony",
+    "Hash": "cd5e837d"
+  },
+  {
+    "Name": "Cipher",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Nihility",
+    "Hash": "739a6c23"
+  },
+  {
+    "Name": "Clara",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Destruction",
+    "Hash": "6615fbf6"
+  },
+  {
+    "Name": "Dan Heng",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Wind",
+    "Tag3": "Hunt",
+    "Hash": "2c5a53ab"
+  },
+  {
+    "Name": "Dan Heng Imbibitor Lunae",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Destruction",
+    "Hash": "0f8da6ba"
+  },
+  {
+    "Name": "Dan Heng Permansor Terrae",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Preservation",
+    "Hash": ""
+  },
+  {
+    "Name": "Dr. Ratio",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Hunt",
+    "Hash": "03a0eb05"
+  },
+  {
+    "Name": "Evernight",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Remembrance",
+    "Hash": "073c9756"
+  },
+  {
+    "Name": "Feixiao",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Hunt",
+    "Hash": "83d2adc9"
+  },
+  {
+    "Name": "Firefly",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Destruction",
+    "Hash": "87e84993"
+  },
+  {
+    "Name": "Fu Xuan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Preservation",
+    "Hash": "45b0663d"
+  },
+  {
+    "Name": "Fugue",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Nihility",
+    "Hash": "7b083f20"
+  },
+  {
+    "Name": "Gallagher",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fire",
+    "Tag3": "Abundance",
+    "Hash": "57c512df"
+  },
+  {
+    "Name": "Gepard",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Ice",
+    "Tag3": "Preservation",
+    "Hash": "04094d7e"
+  },
+  {
+    "Name": "Guinaifen",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Nihility",
+    "Hash": "2eeff76f"
+  },
+  {
+    "Name": "Hanya",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Harmony",
+    "Hash": "69a81bdb"
+  },
+  {
+    "Name": "Herta",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Erudition",
+    "Hash": "91c0cb8e"
+  },
+  {
+    "Name": "Himeko",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Erudition",
+    "Hash": "2bf29f1f"
+  },
+  {
+    "Name": "Hook",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Destruction",
+    "Hash": "20825705"
+  },
+  {
+    "Name": "Huohuo",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Abundance",
+    "Hash": "2a306f9c"
+  },
+  {
+    "Name": "Hyacine",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Remembrance",
+    "Hash": "ae3b4d8a"
+  },
+  {
+    "Name": "Hysilens",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Nihility",
+    "Hash": "f650b68d"
+  },
+  {
+    "Name": "Jade",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Erudition",
+    "Hash": "08f5f722"
+  },
+  {
+    "Name": "Jiaoqiu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fire",
+    "Tag3": "Nihility",
+    "Hash": "4554deab"
+  },
+  {
+    "Name": "Jing Yuan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Lightning",
+    "Tag3": "Erudition",
+    "Hash": "0b529127"
+  },
+  {
+    "Name": "Jingliu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Destruction",
+    "Hash": "24c37e04"
+  },
+  {
+    "Name": "Kafka",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Nihility",
+    "Hash": "6d45dac8"
+  },
+  {
+    "Name": "Lingsha",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Abundance",
+    "Hash": "05bd3b66"
+  },
+  {
+    "Name": "Luka",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Nihility",
+    "Hash": "11dd3da1"
+  },
+  {
+    "Name": "Luocha",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Abundance",
+    "Hash": "194a6495"
+  },
+  {
+    "Name": "Lynx",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Abundance",
+    "Hash": "156d0dec"
+  },
+  {
+    "Name": "March",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Preservation",
+    "Hash": "555fd4a4"
+  },
+  {
+    "Name": "March Hunt",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Imaginary",
+    "Tag3": "Hunt",
+    "Hash": "36cd2c2b"
+  },
+  {
+    "Name": "Misha",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Ice",
+    "Tag3": "Destruction",
+    "Hash": "6454786c"
+  },
+  {
+    "Name": "Moze",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Lightning",
+    "Tag3": "Hunt",
+    "Hash": "0bcc8d2f"
+  },
+  {
+    "Name": "Mydei",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Destruction",
+    "Hash": "b3b22e61"
+  },
+  {
+    "Name": "Natasha",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Abundance",
+    "Hash": "be164341"
+  },
+  {
+    "Name": "Pela",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Nihility",
+    "Hash": "5778182b"
+  },
+  {
+    "Name": "Phainon",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Destruction",
+    "Hash": "1b420236"
+  },
+  {
+    "Name": "Qingque",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Erudition",
+    "Hash": "311daa47"
+  },
+  {
+    "Name": "Rappa",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Imaginary",
+    "Tag3": "Erudition",
+    "Hash": "22b20c79"
+  },
+  {
+    "Name": "Robin",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Harmony",
+    "Hash": "5cd081cc"
+  },
+  {
+    "Name": "Ruan Mei",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Harmony",
+    "Hash": "18bd4eab"
+  },
+  {
+    "Name": "Saber",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Wind",
+    "Tag3": "Destruction",
+    "Hash": "fdb54ca9"
+  },
+  {
+    "Name": "Sampo",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Wind",
+    "Tag3": "Nihility",
+    "Hash": "56c66568"
+  },
+  {
+    "Name": "Seele",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Hunt",
+    "Hash": "17cba38d"
+  },
+  {
+    "Name": "Serval",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Erudition",
+    "Hash": "4481e0a3"
+  },
+  {
+    "Name": "Silver Wolf",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Nihility",
+    "Hash": "6bb20ea8"
+  },
+  {
+    "Name": "Sparkle",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Harmony",
+    "Hash": "7e488505"
+  },
+  {
+    "Name": "Sunday",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Harmony",
+    "Hash": "1f30e676"
+  },
+  {
+    "Name": "Sushang",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Hunt",
+    "Hash": "1cfe532b"
+  },
+  {
+    "Name": "The Herta",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Erudition",
+    "Hash": "4e369eb5"
+  },
+  {
+    "Name": "Tingyun",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Lightning",
+    "Tag3": "Harmony",
+    "Hash": "6a4333dc"
+  },
+  {
+    "Name": "Topaz",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Hunt",
+    "Hash": "4be08333"
+  },
+  {
+    "Name": "Trailblazer Female",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "b55c8431"
+  },
+  {
+    "Name": "Trailblazer Male",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "15be9519"
+  },
+  {
+    "Name": "Tribbie",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Harmony",
+    "Hash": "90844efd"
+  },
+  {
+    "Name": "Welt",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Imaginary",
+    "Tag3": "Nihility",
+    "Hash": "381a994e"
+  },
+  {
+    "Name": "Xueyi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Quantum",
+    "Tag3": "Destruction",
+    "Hash": "03ff3d10"
+  },
+  {
+    "Name": "Yanqing",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Ice",
+    "Tag3": "Hunt",
+    "Hash": "9801327a"
+  },
+  {
+    "Name": "Yukong",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Imaginary",
+    "Tag3": "Harmony",
+    "Hash": "e2d592d3"
+  },
+  {
+    "Name": "Yunli",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Destruction",
+    "Hash": "1c4648ec"
+  }
+]

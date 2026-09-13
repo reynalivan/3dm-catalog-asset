@@ -1,0 +1,552 @@
+[
+  {
+    "Name": "Alice",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Anomaly",
+    "Hash": "ad686c31"
+  },
+  {
+    "Name": "Alice2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Anomaly",
+    "Hash": "75218916"
+  },
+  {
+    "Name": "Anby",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Stun",
+    "Hash": "9af848eb"
+  },
+  {
+    "Name": "Anton",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electric",
+    "Tag3": "Attack",
+    "Hash": "8ab64867"
+  },
+  {
+    "Name": "Astra Yao",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Support",
+    "Hash": "9b17301d"
+  },
+  {
+    "Name": "Astra Yao2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Support",
+    "Hash": "b72fadfc"
+  },
+  {
+    "Name": "Belle",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "a9673001"
+  },
+  {
+    "Name": "Belle2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "0b3c5e7c"
+  },
+  {
+    "Name": "Belle3",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "c6b1cd55"
+  },
+  {
+    "Name": "Ben",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fire",
+    "Tag3": "Defense",
+    "Hash": "b4db1979"
+  },
+  {
+    "Name": "Billy",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Attack",
+    "Hash": "5783253e"
+  },
+  {
+    "Name": "Burnice",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Anomaly",
+    "Hash": "208d5e15"
+  },
+  {
+    "Name": "Caesar",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Defense",
+    "Hash": "6de24342"
+  },
+  {
+    "Name": "Corin",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Attack",
+    "Hash": "7e7eee0d"
+  },
+  {
+    "Name": "Ellen",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Attack",
+    "Hash": "ba0fe600"
+  },
+  {
+    "Name": "Ellen2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Attack",
+    "Hash": "9e8e3811"
+  },
+  {
+    "Name": "Evelyn",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Attack",
+    "Hash": "c2fe4e27"
+  },
+  {
+    "Name": "Grace",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Anomaly",
+    "Hash": "1126fd58"
+  },
+  {
+    "Name": "Harumasa",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electric",
+    "Tag3": "Attack",
+    "Hash": "eddb9012"
+  },
+  {
+    "Name": "Hugo",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Ice",
+    "Tag3": "Attack",
+    "Hash": "192f512e"
+  },
+  {
+    "Name": "Jane Doe",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Anomaly",
+    "Hash": "24323bf9"
+  },
+  {
+    "Name": "Ju Fufu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Stun",
+    "Hash": "512615d6"
+  },
+  {
+    "Name": "Koleda",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Stun",
+    "Hash": "e5de61e4"
+  },
+  {
+    "Name": "Komano",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fire",
+    "Tag3": "Rupture",
+    "Hash": ""
+  },
+  {
+    "Name": "Lighter",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Fire",
+    "Tag3": "Stun",
+    "Hash": "037b6287"
+  },
+  {
+    "Name": "Lucia",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Support",
+    "Hash": ""
+  },
+  {
+    "Name": "Lucy",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Support",
+    "Hash": "6c733c84"
+  },
+  {
+    "Name": "Lycaon",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Ice",
+    "Tag3": "Stun",
+    "Hash": "31eda4d5"
+  },
+  {
+    "Name": "Miyabi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Anomaly",
+    "Hash": "f9b9b064"
+  },
+  {
+    "Name": "Nekomata",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Attack",
+    "Hash": "35439aa6"
+  },
+  {
+    "Name": "Nicole",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Support",
+    "Hash": "199853eb"
+  },
+  {
+    "Name": "Nicole2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Support",
+    "Hash": "7b4b4f06"
+  },
+  {
+    "Name": "Orphie",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Attack",
+    "Hash": "83c4fcaf"
+  },
+  {
+    "Name": "Pan Yinhu",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Physical",
+    "Tag3": "Defense",
+    "Hash": "2e2d67ae"
+  },
+  {
+    "Name": "Piper",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Anomaly",
+    "Hash": "c4619559"
+  },
+  {
+    "Name": "Pulchra",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Stun",
+    "Hash": "a74c8d89"
+  },
+  {
+    "Name": "Qingyi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Stun",
+    "Hash": "dd08951b"
+  },
+  {
+    "Name": "Rina",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Support",
+    "Hash": "06c78cb0"
+  },
+  {
+    "Name": "Seed",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Attack",
+    "Hash": "25a8bde2"
+  },
+  {
+    "Name": "Seth",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "Electric",
+    "Tag3": "Defense",
+    "Hash": "9b358a6b"
+  },
+  {
+    "Name": "Soldier",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Fire",
+    "Tag3": "Attack",
+    "Hash": "cf814b3c"
+  },
+  {
+    "Name": "Soldier Anby",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Attack",
+    "Hash": "7aa2035c"
+  },
+  {
+    "Name": "Soukaku",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Support",
+    "Hash": "beac45e4"
+  },
+  {
+    "Name": "Trigger",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Stun",
+    "Hash": "1a9a858c"
+  },
+  {
+    "Name": "Vivian",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Anomaly",
+    "Hash": "2e01f7f7"
+  },
+  {
+    "Name": "Wise",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Male",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "6235fa7f"
+  },
+  {
+    "Name": "Wise2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Male",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "ae59eabb"
+  },
+  {
+    "Name": "Wise3",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Male",
+    "Tag2": "",
+    "Tag3": "",
+    "Hash": "d6c86c1e"
+  },
+  {
+    "Name": "Yanagi",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Electric",
+    "Tag3": "Anomaly",
+    "Hash": "7ff000de"
+  },
+  {
+    "Name": "Yidhari",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ice",
+    "Tag3": "Rupture",
+    "Hash": ""
+  },
+  {
+    "Name": "Yixuan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Rupture",
+    "Hash": "36a68b27"
+  },
+  {
+    "Name": "Yixuan2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Rupture",
+    "Hash": "4e321bef"
+  },
+  {
+    "Name": "Yuzuha",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Support",
+    "Hash": ""
+  },
+  {
+    "Name": "Yuzuha2",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "True",
+    "Tag1": "Female",
+    "Tag2": "Physical",
+    "Tag3": "Support",
+    "Hash": ""
+  },
+  {
+    "Name": "Zhu Yuan",
+    "Favorite": "",
+    "Type": "Character",
+    "Skin": "False",
+    "Tag1": "Female",
+    "Tag2": "Ether",
+    "Tag3": "Attack",
+    "Hash": "d140d2e7"
+  }
+]
