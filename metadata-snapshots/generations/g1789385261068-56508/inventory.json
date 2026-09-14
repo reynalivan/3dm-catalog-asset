@@ -1,0 +1,1834 @@
+{
+  "gimi": {
+    "repository": "SilentNightSound/GI-Model-Importer-Assets",
+    "commit": "2039d16",
+    "files": [
+      {
+        "path": "PlayerCharacterData/Aino/hash.json",
+        "sha": "8e07eb16e63e580660b339d3bec921f7e81ee64d"
+      },
+      {
+        "path": "PlayerCharacterData/Albedo/hash.json",
+        "sha": "8a68ae4b0c65bafbc95717504ee7c8953d2c02fc"
+      },
+      {
+        "path": "PlayerCharacterData/Alhaitham/hash.json",
+        "sha": "cec531391dcd146a5271392b7629f39859c9adfd"
+      },
+      {
+        "path": "PlayerCharacterData/Aloy/hash.json",
+        "sha": "3e802e56b9776f4af46b1422c3f383347ee0d6ce"
+      },
+      {
+        "path": "PlayerCharacterData/Amber/hash.json",
+        "sha": "d2411fa75dbb8d617704fdfe665e2b8d80717603"
+      },
+      {
+        "path": "PlayerCharacterData/AmberCN/hash.json",
+        "sha": "9fa940035ae08a11b7ec488627fb2da695a21ccf"
+      },
+      {
+        "path": "PlayerCharacterData/AratakiItto/hash.json",
+        "sha": "ada8c8c68ed04c4fd60c6c24956b54f16216d7aa"
+      },
+      {
+        "path": "PlayerCharacterData/Arlecchino/hash.json",
+        "sha": "92f1e28f8cb2c2cf31b969345bfc995fb9321c64"
+      },
+      {
+        "path": "PlayerCharacterData/AyakaSpringbloom/hash.json",
+        "sha": "db6c8484e3b1d2fff2cfa73c98b77ae587a66cf9"
+      },
+      {
+        "path": "PlayerCharacterData/Baizhu/hash.json",
+        "sha": "269a1b4f63df578ff35987e7d9915739dc1ebab2"
+      },
+      {
+        "path": "PlayerCharacterData/Barbara/hash.json",
+        "sha": "ac18bacb597962ee272ad28ef3fe92e34c4e330b"
+      },
+      {
+        "path": "PlayerCharacterData/BarbaraSummertime/hash.json",
+        "sha": "7e90b0f4c479bda22c590c1ec0846143959db9fd"
+      },
+      {
+        "path": "PlayerCharacterData/Beidou/hash.json",
+        "sha": "3d75d69f83c918f651755ff66a52bf1bb44220fb"
+      },
+      {
+        "path": "PlayerCharacterData/Bennett/hash.json",
+        "sha": "bfb4ee0b6f4a3c7ad794a1ddfde754b7d631738f"
+      },
+      {
+        "path": "PlayerCharacterData/Candace/hash.json",
+        "sha": "68ed15785d872aaf613b395c2c08329c35c0b4be"
+      },
+      {
+        "path": "PlayerCharacterData/Charlotte/hash.json",
+        "sha": "5284ba1befa3af4c0e9743b52804716dd7c60b5a"
+      },
+      {
+        "path": "PlayerCharacterData/Chasca/hash.json",
+        "sha": "7f5eb4f2bd30915295c1b81b3e20056765e51c43"
+      },
+      {
+        "path": "PlayerCharacterData/Chevreuse/hash.json",
+        "sha": "59be318d8547dcd9f0724776f41cfa88460a6bfa"
+      },
+      {
+        "path": "PlayerCharacterData/Chiori/hash.json",
+        "sha": "8eec4b2cc04b85793a705b5df25aceedf4770d4a"
+      },
+      {
+        "path": "PlayerCharacterData/Chongyun/hash.json",
+        "sha": "756ed63073cb46ce88767c34c9e6f08342f9412a"
+      },
+      {
+        "path": "PlayerCharacterData/Citlali/hash.json",
+        "sha": "a8ca577b5e0a8ae2dfb891ba8f135d5fe98720a9"
+      },
+      {
+        "path": "PlayerCharacterData/Clorinde/hash.json",
+        "sha": "fb9106b1da940820a820314abb7b8efbeb4bc251"
+      },
+      {
+        "path": "PlayerCharacterData/Collei/hash.json",
+        "sha": "609f977d31dd94d81ba6c070f038a347ba0177c3"
+      },
+      {
+        "path": "PlayerCharacterData/Columbina/hash.json",
+        "sha": "421ffb46abb9702ef22c96e4b7f31f76a03dcaaf"
+      },
+      {
+        "path": "PlayerCharacterData/Cyno/hash.json",
+        "sha": "6c1b6a16b9b38c60473847c293c2f6ed4aad0794"
+      },
+      {
+        "path": "PlayerCharacterData/Dahlia/hash.json",
+        "sha": "327f1ff870d87ea674a943fdc55b609507974141"
+      },
+      {
+        "path": "PlayerCharacterData/Dehya/hash.json",
+        "sha": "afa7af9302259c2165df0189fc33e107607971d2"
+      },
+      {
+        "path": "PlayerCharacterData/Diluc/hash.json",
+        "sha": "1a111a836660e0a9e3a14cc8e1980ce8cff0620d"
+      },
+      {
+        "path": "PlayerCharacterData/DilucFlamme/hash.json",
+        "sha": "13d16eef080b080a1f4dff63c632f85b2b27928d"
+      },
+      {
+        "path": "PlayerCharacterData/Diona/hash.json",
+        "sha": "c6d9eef40a3181520638ba7983430d9c2af8d064"
+      },
+      {
+        "path": "PlayerCharacterData/Dori/hash.json",
+        "sha": "7e65d03e0828677082310f4427f9a130c0eddae8"
+      },
+      {
+        "path": "PlayerCharacterData/Durin/hash.json",
+        "sha": "3c6f2f0c2b032680826d565f1a6fd11f9b568949"
+      },
+      {
+        "path": "PlayerCharacterData/Emilie/hash.json",
+        "sha": "c17f75c308e9198991af7499275e12f65b556606"
+      },
+      {
+        "path": "PlayerCharacterData/Escoffier/hash.json",
+        "sha": "f4f198c58b59dd9eba4398352f60f98bd010aa57"
+      },
+      {
+        "path": "PlayerCharacterData/Eula/hash.json",
+        "sha": "a510bd10a2aa643b4e6215955853a2648a6a2e79"
+      },
+      {
+        "path": "PlayerCharacterData/Faruzan/hash.json",
+        "sha": "8ce6a8a2b5f78ece2435a6514965d29402d128ad"
+      },
+      {
+        "path": "PlayerCharacterData/Fischl/hash.json",
+        "sha": "f4a747b90ffc68b1ca79176048f79abb149aabe8"
+      },
+      {
+        "path": "PlayerCharacterData/FischlHighness/hash.json",
+        "sha": "64b4adb7e9925fe09d0b1b3dc2fda1e60b1f859a"
+      },
+      {
+        "path": "PlayerCharacterData/Flins/hash.json",
+        "sha": "bceb468b88799d2ea3ebbbce48af18e20bcecd06"
+      },
+      {
+        "path": "PlayerCharacterData/Freminet/hash.json",
+        "sha": "8a0e0ae9f2de2bcee1c9c7ad91ca0bd732d1bc79"
+      },
+      {
+        "path": "PlayerCharacterData/Furina/hash.json",
+        "sha": "aaa4cfcb69ddfb950e341bf41ec07450a6ab73a4"
+      },
+      {
+        "path": "PlayerCharacterData/GaMing/hash.json",
+        "sha": "750f2c45558c71133d3bfcf32f2b63b4cb473f85"
+      },
+      {
+        "path": "PlayerCharacterData/Ganyu/hash.json",
+        "sha": "e99d29face4b9761778114d702857d1ccb66b0e5"
+      },
+      {
+        "path": "PlayerCharacterData/GanyuTwilight/hash.json",
+        "sha": "534999188a7a1bc98f87b4380219a52771ef35e0"
+      },
+      {
+        "path": "PlayerCharacterData/Gorou/hash.json",
+        "sha": "867e577bf94174c59d0af897eb5c39454fcef6a3"
+      },
+      {
+        "path": "PlayerCharacterData/Heizou/hash.json",
+        "sha": "e7876d353a0b6964fae193f1692b1266db301eb1"
+      },
+      {
+        "path": "PlayerCharacterData/HuTao/hash.json",
+        "sha": "cc5838c12f44a43e097fdce73c525417c0d91b91"
+      },
+      {
+        "path": "PlayerCharacterData/Iansan/hash.json",
+        "sha": "7aa4ab49e4e25a86a4b8d8eecdc992b7f773a8c7"
+      },
+      {
+        "path": "PlayerCharacterData/Ifa/hash.json",
+        "sha": "ceabcb7adc8363b448702e2e75b4709afad7001d"
+      },
+      {
+        "path": "PlayerCharacterData/Illuga/hash.json",
+        "sha": "4582696644503f0213a5d755dd59a6693f49fc65"
+      },
+      {
+        "path": "PlayerCharacterData/Ineffa/hash.json",
+        "sha": "2c67d1135b352e04bbf2bb039e5498a8409472cd"
+      },
+      {
+        "path": "PlayerCharacterData/Jahoda/hash.json",
+        "sha": "f711c9eff500e98b90f636d6371959fbec48257c"
+      },
+      {
+        "path": "PlayerCharacterData/Jean/hash.json",
+        "sha": "805a1e15761f4154dd6b5c60a582c0164570c602"
+      },
+      {
+        "path": "PlayerCharacterData/JeanCN/hash.json",
+        "sha": "805a1e15761f4154dd6b5c60a582c0164570c602"
+      },
+      {
+        "path": "PlayerCharacterData/Kachina/hash.json",
+        "sha": "284a17d887acba0bb4c3df3356bba753646449cf"
+      },
+      {
+        "path": "PlayerCharacterData/KaedeharaKazuha/hash.json",
+        "sha": "49fd01d5d0cfc953dddc4dc752f88336e9889e7b"
+      },
+      {
+        "path": "PlayerCharacterData/Kaeya/hash.json",
+        "sha": "44929cf6fbf32236c8d3994fe320564253ceae2d"
+      },
+      {
+        "path": "PlayerCharacterData/KaeyaSailwind/hash.json",
+        "sha": "1e1b4440479eb5c5f7c5b139e598dd45bd6402bb"
+      },
+      {
+        "path": "PlayerCharacterData/KamisatoAyaka/hash.json",
+        "sha": "fe5a80b72c06a8da15c5557e469c77982d5a10e4"
+      },
+      {
+        "path": "PlayerCharacterData/KamisatoAyato/hash.json",
+        "sha": "b8991ee3e2f22d695e2501d9745a336b8e04bf5c"
+      },
+      {
+        "path": "PlayerCharacterData/Kaveh/hash.json",
+        "sha": "70dccf74585faa126b5d6ab7176495f8bf6bfc47"
+      },
+      {
+        "path": "PlayerCharacterData/Keqing/hash.json",
+        "sha": "3f0fa92adc546531bce7a49a00d17a8773ff2f36"
+      },
+      {
+        "path": "PlayerCharacterData/KeqingOpulent/hash.json",
+        "sha": "69b8193c7b2725d90c92f17672d7e9f0a61fdd43"
+      },
+      {
+        "path": "PlayerCharacterData/Kinich/hash.json",
+        "sha": "664ee860820183b81224e9d5ade37490922f2dbc"
+      },
+      {
+        "path": "PlayerCharacterData/Kirara/hash.json",
+        "sha": "f99a5da5b535d11a6f4fc6cf73855766b8c41c52"
+      },
+      {
+        "path": "PlayerCharacterData/Klee/hash.json",
+        "sha": "a5eaba59d94479c51ae93ab183c4246a4b566107"
+      },
+      {
+        "path": "PlayerCharacterData/KleeBlossomingStarlight/hash.json",
+        "sha": "629d4b71ad09e8a8ed58bd4896a2337b88e3f4f7"
+      },
+      {
+        "path": "PlayerCharacterData/KujouSara/hash.json",
+        "sha": "6d82f97c17330ed19039a999dd043667b2a0c6e5"
+      },
+      {
+        "path": "PlayerCharacterData/KukiShinobu/hash.json",
+        "sha": "d424684cc92cc3e5836da163adbfd9c3293a98e6"
+      },
+      {
+        "path": "PlayerCharacterData/Lauma/hash.json",
+        "sha": "644727a9b0c8167b4bab603170c47f5ec593b628"
+      },
+      {
+        "path": "PlayerCharacterData/Layla/hash.json",
+        "sha": "67ed751fd12e02c6664f8209ba1d0183c15ba12f"
+      },
+      {
+        "path": "PlayerCharacterData/Linnea/hash.json",
+        "sha": "e88f46ea8a2d6f489c7e850ceac7de130c5973e5"
+      },
+      {
+        "path": "PlayerCharacterData/Lisa/hash.json",
+        "sha": "80e90104c05c1dfc64244486d73cba6ab5927d6c"
+      },
+      {
+        "path": "PlayerCharacterData/LisaStudent/hash.json",
+        "sha": "4738c5956f7816649c9a97fee53b5049fc2ffceb"
+      },
+      {
+        "path": "PlayerCharacterData/Lohen/hash.json",
+        "sha": "218ccd9c5d85304563777f88a950c740e360a875"
+      },
+      {
+        "path": "PlayerCharacterData/Lynette/hash.json",
+        "sha": "5197f7d7018404d17df9b442d5b27576cdc1454e"
+      },
+      {
+        "path": "PlayerCharacterData/Lyney/hash.json",
+        "sha": "c66e8fd49d2edc921f55a2ecd55d83e07390d0ad"
+      },
+      {
+        "path": "PlayerCharacterData/Mavuika/hash.json",
+        "sha": "d4aec2b2390a9117733202cf409264b41116ef0b"
+      },
+      {
+        "path": "PlayerCharacterData/Mika/hash.json",
+        "sha": "0a2855b44747df0c7d2e757719af0d903fc12851"
+      },
+      {
+        "path": "PlayerCharacterData/Mizuki/hash.json",
+        "sha": "8ea68da52d5dc8d927f12883807a045d4ad75d8a"
+      },
+      {
+        "path": "PlayerCharacterData/Mona/hash.json",
+        "sha": "13f2815d4bb5244ff7668dcc3db25a2fac298cc4"
+      },
+      {
+        "path": "PlayerCharacterData/MonaCN/hash.json",
+        "sha": "322fb4df6100dd01b9caf6e5a2782c5486621f7f"
+      },
+      {
+        "path": "PlayerCharacterData/Mualani/hash.json",
+        "sha": "37c938a461e35c7ca69f737d56729fb8ecbd0cc0"
+      },
+      {
+        "path": "PlayerCharacterData/Nahida/hash.json",
+        "sha": "45c9efd68f6226c98e29982664af4684fbaaf55b"
+      },
+      {
+        "path": "PlayerCharacterData/Navia/hash.json",
+        "sha": "b188ddcf463c64eac489d35bc570acd34ae55aee"
+      },
+      {
+        "path": "PlayerCharacterData/Nefer/hash.json",
+        "sha": "f793e32c83c8b1d3f44433ccff62f04157b75a6a"
+      },
+      {
+        "path": "PlayerCharacterData/Neuvillette/hash.json",
+        "sha": "eea31880d47abe5c4324a5ad7e37e5b374274ba2"
+      },
+      {
+        "path": "PlayerCharacterData/Nicole/hash.json",
+        "sha": "74f32c198f9acca3f35300a9b1a765f5be3835e2"
+      },
+      {
+        "path": "PlayerCharacterData/Nilou/hash.json",
+        "sha": "b889702d3b0d509e93903e096a1d036156f536d2"
+      },
+      {
+        "path": "PlayerCharacterData/Ningguang/hash.json",
+        "sha": "bf98fe09b57b215bd74389369c34028ba98aaa88"
+      },
+      {
+        "path": "PlayerCharacterData/NingguangOrchid/hash.json",
+        "sha": "18b2a23b07593a086ca36a23ed3972fc5beb7f44"
+      },
+      {
+        "path": "PlayerCharacterData/Noelle/hash.json",
+        "sha": "8912b849ffdbf6df228782ad31b27f07afc01bf9"
+      },
+      {
+        "path": "PlayerCharacterData/Ororon/hash.json",
+        "sha": "194c99f9c92e2af6bdd3c81f589058c375baca3d"
+      },
+      {
+        "path": "PlayerCharacterData/Prune/hash.json",
+        "sha": "93923aadceb50cbe99a86e57e30ab7ecc52e638a"
+      },
+      {
+        "path": "PlayerCharacterData/Qiqi/hash.json",
+        "sha": "40c495aa2fa2754ac8de1f034a4fcf66a50f7e6d"
+      },
+      {
+        "path": "PlayerCharacterData/RaidenShogun/hash.json",
+        "sha": "e0eb12b7b5c5e6f0ea65818cf62ad23a560345ad"
+      },
+      {
+        "path": "PlayerCharacterData/Razor/hash.json",
+        "sha": "9890dcee045347e2888bcd4e46dd269ba9d917c3"
+      },
+      {
+        "path": "PlayerCharacterData/Rosaria/hash.json",
+        "sha": "f7adb5ddc1b317b73e520cf16e7fa089a435164e"
+      },
+      {
+        "path": "PlayerCharacterData/RosariaCN/hash.json",
+        "sha": "b419b017990b2bf678d0fca689b27f8de6cac3e4"
+      },
+      {
+        "path": "PlayerCharacterData/Sandrone/hash.json",
+        "sha": "984ae455833669d870cd22a481ad8434ec033f92"
+      },
+      {
+        "path": "PlayerCharacterData/SangonomiyaKokomi/hash.json",
+        "sha": "4488e8fc9bbc01a0a06fae04d9bf851c8877b85e"
+      },
+      {
+        "path": "PlayerCharacterData/Sayu/hash.json",
+        "sha": "4cac5d530db15df8e07bcfaef782169a38aec41f"
+      },
+      {
+        "path": "PlayerCharacterData/Sethos/hash.json",
+        "sha": "58463010569077e7a9ca9770457140eaaaa48f39"
+      },
+      {
+        "path": "PlayerCharacterData/Shenhe/hash.json",
+        "sha": "8fb4536d66f832482dcf7715873f7dc099747006"
+      },
+      {
+        "path": "PlayerCharacterData/ShenheFrostFlower/hash.json",
+        "sha": "3759761f2bd7d11075938794fa70f1cc72ea0134"
+      },
+      {
+        "path": "PlayerCharacterData/Sigewinne/hash.json",
+        "sha": "cf446010a6ba1a26df2a2c3711acba41bdee7da6"
+      },
+      {
+        "path": "PlayerCharacterData/Skirk/hash.json",
+        "sha": "529d4a1bf1830c7e2a82e3f8fc993ff03e79d176"
+      },
+      {
+        "path": "PlayerCharacterData/Sucrose/hash.json",
+        "sha": "9119ad3943f7dd34faff8276d1802d63d139eb56"
+      },
+      {
+        "path": "PlayerCharacterData/Tartaglia/hash.json",
+        "sha": "8ad6071b658e5d1bb2864d466de8888dfd467964"
+      },
+      {
+        "path": "PlayerCharacterData/Thoma/hash.json",
+        "sha": "6899202266b61deada5225f013eadddd3bbe69ca"
+      },
+      {
+        "path": "PlayerCharacterData/Tighnari/hash.json",
+        "sha": "da142a54abafb47941345d3aeb42a7b6cb226519"
+      },
+      {
+        "path": "PlayerCharacterData/TravelerBoy/hash.json",
+        "sha": "f81b718d645072da5aad41fa6603b37ce42b53a6"
+      },
+      {
+        "path": "PlayerCharacterData/TravelerGirl/hash.json",
+        "sha": "c4b99ec4a590a94ca0b75513692eba66f996866e"
+      },
+      {
+        "path": "PlayerCharacterData/Varesa/hash.json",
+        "sha": "180017d7f7e4687a041d48844cdedbae6c183619"
+      },
+      {
+        "path": "PlayerCharacterData/Varka/hash.json",
+        "sha": "5206d604815f02e7b0c51e84d8810859682ade68"
+      },
+      {
+        "path": "PlayerCharacterData/Venti/hash.json",
+        "sha": "192e0eeb160d8db84fe5b7c26eca3de90ad1f811"
+      },
+      {
+        "path": "PlayerCharacterData/Wanderer/hash.json",
+        "sha": "992c6373133e50d1c1bcf5607ca07f95f31eb3cf"
+      },
+      {
+        "path": "PlayerCharacterData/Wriothesley/hash.json",
+        "sha": "90fe6cabdf28430c3ae8f266f01d9580adfe4988"
+      },
+      {
+        "path": "PlayerCharacterData/Xiangling/hash.json",
+        "sha": "8c460041fe24a866f519f88af55dbc8ba917f508"
+      },
+      {
+        "path": "PlayerCharacterData/Xianyun/hash.json",
+        "sha": "75e26b2540cdb28a5d40591621eb537e0af41b36"
+      },
+      {
+        "path": "PlayerCharacterData/Xiao/hash.json",
+        "sha": "8d5e6e5f2cbb0e3cfde900ca9276cd546bba0802"
+      },
+      {
+        "path": "PlayerCharacterData/Xilonen/hash.json",
+        "sha": "bb675aa3c66855c76f3c90c119389a99174d3924"
+      },
+      {
+        "path": "PlayerCharacterData/Xilonen/XilonenCoat/hash.json",
+        "sha": "488dc1fbd5354007ef52fc594adaa020431ce376"
+      },
+      {
+        "path": "PlayerCharacterData/Xilonen/XilonenSkates/hash.json",
+        "sha": "cb0d172c3a117aeccf9202707941209f0ce867f9"
+      },
+      {
+        "path": "PlayerCharacterData/Xingqiu/hash.json",
+        "sha": "8c27025a1b190823a0c0f2b321139d8ee32e076d"
+      },
+      {
+        "path": "PlayerCharacterData/XingqiuBamboo/hash.json",
+        "sha": "0d1b085ef638ebafdfcfd7c02b9fb20701bbdcb2"
+      },
+      {
+        "path": "PlayerCharacterData/Xinyan/hash.json",
+        "sha": "cad2422a162ecfd22d47528936279dd22e14e1bf"
+      },
+      {
+        "path": "PlayerCharacterData/YaeMiko/hash.json",
+        "sha": "bc17d563de0c7883f86a90ad5e5ffb0623017337"
+      },
+      {
+        "path": "PlayerCharacterData/Yanfei/hash.json",
+        "sha": "4fdb280147fa2c088440341037f92fea4d72d50e"
+      },
+      {
+        "path": "PlayerCharacterData/YaoYao/hash.json",
+        "sha": "8ee460c82a25853b259e6ab4af524ab6420e3041"
+      },
+      {
+        "path": "PlayerCharacterData/Yelan/hash.json",
+        "sha": "e1ea17ff6acf7cc6ff600e6a6be7eef1257f95a6"
+      },
+      {
+        "path": "PlayerCharacterData/Yoimiya/hash.json",
+        "sha": "697bb2c24e41146456e9ed4476a5a6fe540f0ad2"
+      },
+      {
+        "path": "PlayerCharacterData/YunJin/hash.json",
+        "sha": "4fe49b553458bf3241923413ce079484b8b383ef"
+      },
+      {
+        "path": "PlayerCharacterData/Zhongli/hash.json",
+        "sha": "d8d09ece8674fa091d162a9a5158e91a1a6edc60"
+      },
+      {
+        "path": "PlayerCharacterData/Zibai/hash.json",
+        "sha": "c6b991b504689e919a7c8ff5ef8c40dfee1e5251"
+      }
+    ]
+  },
+  "srmi": {
+    "repository": "SilentNightSound/SR-Model-Importer-Assets",
+    "commit": "eff6cdf",
+    "files": [
+      {
+        "path": "PlayerCharacterData/Acheron/hash.json",
+        "sha": "9aba912a63df93035580e9cb451c290fb6dd88f1"
+      },
+      {
+        "path": "PlayerCharacterData/Aglaea/hash.json",
+        "sha": "a96b687475f5f209760c9de716674f52b6e35f85"
+      },
+      {
+        "path": "PlayerCharacterData/Anaxa/hash.json",
+        "sha": "da60bad1edd643807c98536d1cee636ccb81210a"
+      },
+      {
+        "path": "PlayerCharacterData/Archer/hash.json",
+        "sha": "69d3be2d403cfe010306901a6be523e1219acb04"
+      },
+      {
+        "path": "PlayerCharacterData/Argenti/hash.json",
+        "sha": "a0a43b9231a527bcddb4c7c0ed5f35fd9c0e33ba"
+      },
+      {
+        "path": "PlayerCharacterData/Arlan/hash.json",
+        "sha": "35729dc82671b18b366a77425335f2fdaeee3b18"
+      },
+      {
+        "path": "PlayerCharacterData/Asta/hash.json",
+        "sha": "b9e186c333134753c19d0591018a6082f5d8751e"
+      },
+      {
+        "path": "PlayerCharacterData/Aventurine/hash.json",
+        "sha": "2e9526d7dfc18de0ff75142c3e711e6646681056"
+      },
+      {
+        "path": "PlayerCharacterData/Bailu/hash.json",
+        "sha": "c2455748b2c6d968cdc58de6a14893225767b55d"
+      },
+      {
+        "path": "PlayerCharacterData/BlackSwan/hash.json",
+        "sha": "83e0656c97b081bd9be20b957e7f1c53f9c3c4c1"
+      },
+      {
+        "path": "PlayerCharacterData/Blade/hash.json",
+        "sha": "5273967c7092bab562bf5f057fbc0e010b1e20dd"
+      },
+      {
+        "path": "PlayerCharacterData/Boothill/hash.json",
+        "sha": "0aa7eeef675bf9a8751ea4a405a0104ced5ce82a"
+      },
+      {
+        "path": "PlayerCharacterData/Bronya/hash.json",
+        "sha": "129167b2944046ebb978ee7a6703e98bb5aea341"
+      },
+      {
+        "path": "PlayerCharacterData/CaelusDestruction/hash.json",
+        "sha": "e8630cc3f085e1bb160d8f0b4dad71b166e4f97a"
+      },
+      {
+        "path": "PlayerCharacterData/CaelusHarmony/hash.json",
+        "sha": "fa6934ebe81cc8560e5533852cfcc10a7ef8a6c8"
+      },
+      {
+        "path": "PlayerCharacterData/CaelusPreservation/hash.json",
+        "sha": "e0453314b1b70f09258334b312d8edd75c4d3dd9"
+      },
+      {
+        "path": "PlayerCharacterData/CaelusRemembrance/hash.json",
+        "sha": "e0453314b1b70f09258334b312d8edd75c4d3dd9"
+      },
+      {
+        "path": "PlayerCharacterData/Castorice/hash.json",
+        "sha": "43449d130a8a28139a5a15a9f7f2eeae4c445ea7"
+      },
+      {
+        "path": "PlayerCharacterData/Cerydra/hash.json",
+        "sha": "38099a4617ae3e092f608c31413f27252f486d24"
+      },
+      {
+        "path": "PlayerCharacterData/Cipher/hash.json",
+        "sha": "95c0507ac0e964389efdd310b0eba7925d771815"
+      },
+      {
+        "path": "PlayerCharacterData/Clara/hash.json",
+        "sha": "d9efd19e247500f87161c363358154f25330d001"
+      },
+      {
+        "path": "PlayerCharacterData/Cyrene/hash.json",
+        "sha": "56cd7f9cac79bfc40b87d0b1d6009ce563c1d127"
+      },
+      {
+        "path": "PlayerCharacterData/DanHeng/hash.json",
+        "sha": "5572cc67ae4b94a7b14351a6ed025c1e4e305b35"
+      },
+      {
+        "path": "PlayerCharacterData/DanHengIL/hash.json",
+        "sha": "ece19a86c9f91494aae4ec1eac97c86fbd798f78"
+      },
+      {
+        "path": "PlayerCharacterData/DanHengPT/hash.json",
+        "sha": "03f2a79a8685ff4c2f39bfe74bb666d6695575c4"
+      },
+      {
+        "path": "PlayerCharacterData/DrRatio/hash.json",
+        "sha": "4f593ac20da0fc458ba2c0d3812240f516ecf449"
+      },
+      {
+        "path": "PlayerCharacterData/Evernight/hash.json",
+        "sha": "c62a3a08f37c7b1a8f7cc6efb3f5614c4a65e79b"
+      },
+      {
+        "path": "PlayerCharacterData/Feixiao/hash.json",
+        "sha": "4db8e90f1fd507e3f1eceab4d9fb01274350d02d"
+      },
+      {
+        "path": "PlayerCharacterData/Firefly/hash.json",
+        "sha": "66dba2c2eaab0dac67bba7a89c6313cba51c9557"
+      },
+      {
+        "path": "PlayerCharacterData/FireflySpring/hash.json",
+        "sha": "2b2a0e9801b4796e3c1e035ca71eb94a9ff8c1d5"
+      },
+      {
+        "path": "PlayerCharacterData/Fugue/hash.json",
+        "sha": "0704cadb28b676842e2243c784d4fae12866988d"
+      },
+      {
+        "path": "PlayerCharacterData/FuXuan/hash.json",
+        "sha": "6db70739c932ca7a20066be67f6b9b1b9b382189"
+      },
+      {
+        "path": "PlayerCharacterData/Gallagher/hash.json",
+        "sha": "b4749e7a146c886ac0d6e4a3dd69989c08e928ec"
+      },
+      {
+        "path": "PlayerCharacterData/Gepard/hash.json",
+        "sha": "85251b198d48f55056bacbf441b2118fa87cf02e"
+      },
+      {
+        "path": "PlayerCharacterData/Guinaifen/hash.json",
+        "sha": "6a321e291b841df592d9d2b75524aa39a5719db2"
+      },
+      {
+        "path": "PlayerCharacterData/Hanya/hash.json",
+        "sha": "e1a997e3a666ddf3432357f5d5815c088bf45dfe"
+      },
+      {
+        "path": "PlayerCharacterData/Herta/hash.json",
+        "sha": "c65cfe4f4728c9ef0a416316c9c00d7489bfab7b"
+      },
+      {
+        "path": "PlayerCharacterData/Himeko/hash.json",
+        "sha": "95bba75d643f76ab2f953576b08a739eb1ac5f1e"
+      },
+      {
+        "path": "PlayerCharacterData/Hook/hash.json",
+        "sha": "71793af2bca2c043c5ad9de374bb7f86c609261e"
+      },
+      {
+        "path": "PlayerCharacterData/Huohuo/hash.json",
+        "sha": "92293ac2c4d4f16e7a306f6f8b933adfd8e2ccee"
+      },
+      {
+        "path": "PlayerCharacterData/Hyacine/hash.json",
+        "sha": "21c7f4bcc66a34e94304d96a50ee01c0d0b8e72c"
+      },
+      {
+        "path": "PlayerCharacterData/Hysilens/hash.json",
+        "sha": "da103c8a129051c629229377161508eb32db42c9"
+      },
+      {
+        "path": "PlayerCharacterData/Jade/hash.json",
+        "sha": "e959c8b0e799246df879bf3a5602d99e743266b0"
+      },
+      {
+        "path": "PlayerCharacterData/Jiaoqiu/hash.json",
+        "sha": "215039165d7242b8ddbf13a5b57bdad8cf2848f9"
+      },
+      {
+        "path": "PlayerCharacterData/Jingliu/hash.json",
+        "sha": "0584443e2c696426df89b85fb73df5960ff454a9"
+      },
+      {
+        "path": "PlayerCharacterData/JingYuan/hash.json",
+        "sha": "0e03bc2c818983a2c31edaeecfde217ceed878c1"
+      },
+      {
+        "path": "PlayerCharacterData/Kafka/hash.json",
+        "sha": "e7592fdc56c98be14c9df1b2d79ad74e0af9c2f2"
+      },
+      {
+        "path": "PlayerCharacterData/Lingsha/hash.json",
+        "sha": "6ec454863be3a5aaeb4e3fbcacf4c4088cd63464"
+      },
+      {
+        "path": "PlayerCharacterData/Luka/hash.json",
+        "sha": "b0c6eaf64ea2def27da160456b7c8f921d94623e"
+      },
+      {
+        "path": "PlayerCharacterData/Luocha/hash.json",
+        "sha": "d6b5cb785bbb35863993f630951f6688767c5146"
+      },
+      {
+        "path": "PlayerCharacterData/Lynx/hash.json",
+        "sha": "45c2b5fd2d38e3afcc467a3c6143c10c67a3604f"
+      },
+      {
+        "path": "PlayerCharacterData/March7thHunt/hash.json",
+        "sha": "ea29a4e7c6900a0396c988f2c7d96557dc156b87"
+      },
+      {
+        "path": "PlayerCharacterData/March7thPreservation/hash.json",
+        "sha": "006592a0d99eb10699f885797ad6901c7aedb08a"
+      },
+      {
+        "path": "PlayerCharacterData/March7thPreservationSpring/hash.json",
+        "sha": "8a767f7ffb123b20df0ba3189e4a2cebea6175bb"
+      },
+      {
+        "path": "PlayerCharacterData/Misha/hash.json",
+        "sha": "2b2908071006cb461850a705c97d3eacfb2b260c"
+      },
+      {
+        "path": "PlayerCharacterData/Moze/hash.json",
+        "sha": "fbb58ef8a27cbf5670411e08eb0097a0375a3609"
+      },
+      {
+        "path": "PlayerCharacterData/Mydei/hash.json",
+        "sha": "60c7a8ee8b208b2bad9d29a45a63e16ffa08fbdf"
+      },
+      {
+        "path": "PlayerCharacterData/Natasha/hash.json",
+        "sha": "95cc00c2309315961cb4e4814f001f02f32ae565"
+      },
+      {
+        "path": "PlayerCharacterData/Pela/hash.json",
+        "sha": "8f450e65638a81893dbe88aa4cc69bc78eba4ce0"
+      },
+      {
+        "path": "PlayerCharacterData/Phainon/hash.json",
+        "sha": "b4eaf909dec8feee84605f0a1ccb6a63fb947643"
+      },
+      {
+        "path": "PlayerCharacterData/PhainonKhaslana/hash.json",
+        "sha": "d318fbaf1a3f5c3c02373dce49093014fad68f78"
+      },
+      {
+        "path": "PlayerCharacterData/Qingque/hash.json",
+        "sha": "3fe02f76411429fe4ec8950aa495d971e2fd9cd8"
+      },
+      {
+        "path": "PlayerCharacterData/Rappa/hash.json",
+        "sha": "47c67b829347b71461f2b7d8e85e2a485dc44704"
+      },
+      {
+        "path": "PlayerCharacterData/Robin/hash.json",
+        "sha": "8149f1d21d650576d1dee83f7bd37d1f48bf062c"
+      },
+      {
+        "path": "PlayerCharacterData/RuanMei/hash.json",
+        "sha": "57173ce59593fcea5e370397baffb54718b96809"
+      },
+      {
+        "path": "PlayerCharacterData/Saber/hash.json",
+        "sha": "af0f579e15ea8a12345eea94857e02405f4a3b13"
+      },
+      {
+        "path": "PlayerCharacterData/SAM/hash.json",
+        "sha": "d435ad1556f3f07400c94703ba9e26786747344f"
+      },
+      {
+        "path": "PlayerCharacterData/Sampo/hash.json",
+        "sha": "6cc2ba495e2923dc807127161f2092a286040cb5"
+      },
+      {
+        "path": "PlayerCharacterData/Seele/hash.json",
+        "sha": "1d0b44880590edc862ea5bd7af296d66cf2a14e9"
+      },
+      {
+        "path": "PlayerCharacterData/Serval/hash.json",
+        "sha": "b3a4192e7ad8db3ee4511ae3b325d6058f334859"
+      },
+      {
+        "path": "PlayerCharacterData/SilverWolf/hash.json",
+        "sha": "8df00b6b862670b1f8017ad8f4fd816e9893b28d"
+      },
+      {
+        "path": "PlayerCharacterData/Sparkle/hash.json",
+        "sha": "b40052b41779933d25805a9094950c446eb7b256"
+      },
+      {
+        "path": "PlayerCharacterData/Stelle/hash.json",
+        "sha": "5d4ebe251b1ce1f846bbec2302cdd5e7b4402650"
+      },
+      {
+        "path": "PlayerCharacterData/Sunday/hash.json",
+        "sha": "66a842fc7ec61e32c78a60a1e3f61e33ceab2202"
+      },
+      {
+        "path": "PlayerCharacterData/Sushang/hash.json",
+        "sha": "fe6448cc6a0f470dd7fdac06bb4c676fb87f1c39"
+      },
+      {
+        "path": "PlayerCharacterData/TheDahlia/hash.json",
+        "sha": "8f8c2b99ddd70e672b63152e7a22a9fd20f07f10"
+      },
+      {
+        "path": "PlayerCharacterData/TheHerta/hash.json",
+        "sha": "e24b66bfe2f63ab0c3e11f63d0bd31b724b40e09"
+      },
+      {
+        "path": "PlayerCharacterData/Tingyun/hash.json",
+        "sha": "d0fb39864de85b2b206a28460413ebd9c852d182"
+      },
+      {
+        "path": "PlayerCharacterData/Topaz/hash.json",
+        "sha": "a2699064fe04fd884f8a16d2219c2393ad9fa600"
+      },
+      {
+        "path": "PlayerCharacterData/Tribbie/hash.json",
+        "sha": "ef991737e5c1acac53ea0a8af266026e1db50764"
+      },
+      {
+        "path": "PlayerCharacterData/Welt/hash.json",
+        "sha": "703edfc150595dbae4328eb836cd21adf2754fe4"
+      },
+      {
+        "path": "PlayerCharacterData/Xueyi/hash.json",
+        "sha": "bbabe7d23f45e0b66f63581d9898c17c418de5cb"
+      },
+      {
+        "path": "PlayerCharacterData/Yanqing/hash.json",
+        "sha": "a0636d04ee6445527cc9e2295ff7b0112087d5e2"
+      },
+      {
+        "path": "PlayerCharacterData/Yukong/hash.json",
+        "sha": "ab65de54c1f8cb8374729cf808d8fded3a506af9"
+      },
+      {
+        "path": "PlayerCharacterData/Yunli/hash.json",
+        "sha": "9e7d76a0498f99ea553b7b13d626aa85cce23899"
+      }
+    ]
+  },
+  "zzmi": {
+    "repository": "leotorrez/ZZ-Model-Importer-assets",
+    "commit": "20d01be",
+    "files": [
+      {
+        "path": "PlayerCharacterData/Alice/hash.json",
+        "sha": "ecbe64e0c1df6d761eebb37654cd4a64f4d5b932"
+      },
+      {
+        "path": "PlayerCharacterData/AliceSummer/hash.json",
+        "sha": "a24f6aa4d5a1820818c782d647465364d1c88443"
+      },
+      {
+        "path": "PlayerCharacterData/Anby/hash.json",
+        "sha": "cf00038c3b457444c79b52569fdade153bf4b21e"
+      },
+      {
+        "path": "PlayerCharacterData/Anton/hash.json",
+        "sha": "520c5ad5b308ba227a21bf9ec280e04ba73cce9a"
+      },
+      {
+        "path": "PlayerCharacterData/Aria/hash.json",
+        "sha": "894c1c2de8593dbe67854783c7a98e35a11559f8"
+      },
+      {
+        "path": "PlayerCharacterData/AriaDiscordant/hash.json",
+        "sha": "6d680f4be0eca9969b64d1323d89a9dd99d2c653"
+      },
+      {
+        "path": "PlayerCharacterData/AriaKfc/hash.json",
+        "sha": "fb48da3b93640071e246703ec05005fda2404621"
+      },
+      {
+        "path": "PlayerCharacterData/AriaRobot/hash.json",
+        "sha": "aa07ec8d0e4ce37b94346417caee455127aed48f"
+      },
+      {
+        "path": "PlayerCharacterData/AriaRobotDiscordant/hash.json",
+        "sha": "b19471005790022f42b08d658d4eabd852235072"
+      },
+      {
+        "path": "PlayerCharacterData/Astra/hash.json",
+        "sha": "052c051dc5701b631c71a671b57c056ba8178fd8"
+      },
+      {
+        "path": "PlayerCharacterData/AstraChandelier/hash.json",
+        "sha": "a403499e31167100acb67fa75655d65866d9fdf9"
+      },
+      {
+        "path": "PlayerCharacterData/Banyue/hash.json",
+        "sha": "8a4314be70df79a186b14b4cf2ae6c57085dc291"
+      },
+      {
+        "path": "PlayerCharacterData/Belle/hash.json",
+        "sha": "ca6376cb3d499d5780ad4141b364734a2098f58d"
+      },
+      {
+        "path": "PlayerCharacterData/BelleBrilliance/hash.json",
+        "sha": "c8eadb963f7dd9d97b914bd2b4d15849a9a4be0a"
+      },
+      {
+        "path": "PlayerCharacterData/BelleSummer/hash.json",
+        "sha": "b58fd78b062b964ab399864ca6391dad6cc2d303"
+      },
+      {
+        "path": "PlayerCharacterData/BelleSunlight/hash.json",
+        "sha": "30ed6a78b41b6dcc15ccda8a6f4997ff14cca955"
+      },
+      {
+        "path": "PlayerCharacterData/Ben/hash.json",
+        "sha": "64ab873f79433c81220cd089c086e91e7bfdab6c"
+      },
+      {
+        "path": "PlayerCharacterData/Billy/hash.json",
+        "sha": "22f25711b5231f7c4d711eeabc862727bb3a9141"
+      },
+      {
+        "path": "PlayerCharacterData/BillyStarlight/hash.json",
+        "sha": "dcea7c764811357a955618520bd50cb041220d56"
+      },
+      {
+        "path": "PlayerCharacterData/Burnice/hash.json",
+        "sha": "8817b77f099b761417c17851b5e10d51f3c6e26a"
+      },
+      {
+        "path": "PlayerCharacterData/Caesar/hash.json",
+        "sha": "f6508ff5872cf9934f2b470ebaa8ea1724c12797"
+      },
+      {
+        "path": "PlayerCharacterData/Cissia/hash.json",
+        "sha": "1e48f614e69d8cfb9eb21efdf17e083bbc494db6"
+      },
+      {
+        "path": "PlayerCharacterData/Claret/hash.json",
+        "sha": "cdbbc41476f61148afcd7a1534fdb70fd99d2dd4"
+      },
+      {
+        "path": "PlayerCharacterData/Corin/hash.json",
+        "sha": "944c022d362258232b2d171896ab9ba7509c573d"
+      },
+      {
+        "path": "PlayerCharacterData/Dialyn/hash.json",
+        "sha": "6dd9b1ff7e6359ff68edf874697911c158ab5aea"
+      },
+      {
+        "path": "PlayerCharacterData/Ellen/hash.json",
+        "sha": "6c1b781658b92ea59ac6ba8ae333cdcd065bbc04"
+      },
+      {
+        "path": "PlayerCharacterData/EllenCampus/hash.json",
+        "sha": "ab7dc45421aa74a6424bdc3984dbe74c5f1e3c2e"
+      },
+      {
+        "path": "PlayerCharacterData/Evelyn/hash.json",
+        "sha": "17363d07639731bb9991bfd16c952d6593826bd6"
+      },
+      {
+        "path": "PlayerCharacterData/Grace/hash.json",
+        "sha": "452f8a82cb10bf45c480c311bd0c00ae29b88b40"
+      },
+      {
+        "path": "PlayerCharacterData/Harumasa/hash.json",
+        "sha": "dac3b9f1b8732b5f8c0e02981cc80c9bda2dce87"
+      },
+      {
+        "path": "PlayerCharacterData/Hugo/hash.json",
+        "sha": "4c78c334cfd463f22d57c5a7b9c86405bb11b464"
+      },
+      {
+        "path": "PlayerCharacterData/Jane/hash.json",
+        "sha": "ae8c5af322128446a9b97c00c96b66991df8b023"
+      },
+      {
+        "path": "PlayerCharacterData/JaneSummer/hash.json",
+        "sha": "c5414b3c601ec373ab85ac9a45df0b3d8d0c14e8"
+      },
+      {
+        "path": "PlayerCharacterData/JuFufu/hash.json",
+        "sha": "71e6c47da4ac049f271536009ef2893e33a57a33"
+      },
+      {
+        "path": "PlayerCharacterData/Koleda/hash.json",
+        "sha": "8ab9954e372498b467a80caf2e69ded9f98a9aa1"
+      },
+      {
+        "path": "PlayerCharacterData/Lighter/hash.json",
+        "sha": "975ecb61630011dee580d51a0297a3281d42579c"
+      },
+      {
+        "path": "PlayerCharacterData/Lucia/hash.json",
+        "sha": "3275fd77729ea9560988330f978d9a373b73be62"
+      },
+      {
+        "path": "PlayerCharacterData/Lucy/hash.json",
+        "sha": "76383598a036d69b5afd7001f86db87334281b9a"
+      },
+      {
+        "path": "PlayerCharacterData/LucySummer/hash.json",
+        "sha": "0eec3896079010071b58dbffd697422c46ba0f9b"
+      },
+      {
+        "path": "PlayerCharacterData/Lycaon/hash.json",
+        "sha": "206a28011a82060e9e1e36e652ca6250672e7d1e"
+      },
+      {
+        "path": "PlayerCharacterData/Manato/hash.json",
+        "sha": "f040d2711912a3786c938201f6e19da208baaca9"
+      },
+      {
+        "path": "PlayerCharacterData/ManatoWhite/hash.json",
+        "sha": "8f6b48b0a70ca3492c4279dc68f64672d6cf3a80"
+      },
+      {
+        "path": "PlayerCharacterData/Miyabi/hash.json",
+        "sha": "b7af4579378d78971e2414403d6c18c3ac8b5be8"
+      },
+      {
+        "path": "PlayerCharacterData/MiyabiBlossom/hash.json",
+        "sha": "222899e34519265dc459fa451d4b0bd04c22bf39"
+      },
+      {
+        "path": "PlayerCharacterData/NangongYu/hash.json",
+        "sha": "279f79d5c0ba47425a301d9f931ff8fc27b1c90a"
+      },
+      {
+        "path": "PlayerCharacterData/NangongYuKfc/hash.json",
+        "sha": "2afdca41085093fffcee61fd98b29b33206b4c68"
+      },
+      {
+        "path": "PlayerCharacterData/NangongYuRapsody/hash.json",
+        "sha": "23927061a528318c01b24ca7c1024de4210423fc"
+      },
+      {
+        "path": "PlayerCharacterData/Nekomata/hash.json",
+        "sha": "7503a53e11ca4b9821fb605f55bf5c23b2d43ea6"
+      },
+      {
+        "path": "PlayerCharacterData/Nicole/hash.json",
+        "sha": "a40e15034c95af4c8a4744f61e1a12e6d99c9e46"
+      },
+      {
+        "path": "PlayerCharacterData/NicoleCutie/hash.json",
+        "sha": "6882d0b1ffd296cfd60beb1bd273079c0a2add23"
+      },
+      {
+        "path": "PlayerCharacterData/Norma/hash.json",
+        "sha": "c017a7d831d880a174c98be4c9907ad2ace3c792"
+      },
+      {
+        "path": "PlayerCharacterData/Orphie/hash.json",
+        "sha": "c54e6b9e7d6f218eed8c853c4f5637bb45868879"
+      },
+      {
+        "path": "PlayerCharacterData/PanYinhu/hash.json",
+        "sha": "74160528f39ab2829abf771f1a6c3b32781cdca0"
+      },
+      {
+        "path": "PlayerCharacterData/PanYinhuJewel/hash.json",
+        "sha": "cd6bcd8419d8126484767b2dee48e3c3dbbe5ff9"
+      },
+      {
+        "path": "PlayerCharacterData/Piper/hash.json",
+        "sha": "eea250f44707577efda57c26d523f375aa607d37"
+      },
+      {
+        "path": "PlayerCharacterData/Promeia/hash.json",
+        "sha": "9aa4491bc83aa15dfc9747e1e8fdafc089445d4e"
+      },
+      {
+        "path": "PlayerCharacterData/Pulchra/hash.json",
+        "sha": "d8150dfbf360f9624c38ba61cc79fbdbda96e4bd"
+      },
+      {
+        "path": "PlayerCharacterData/Pyrois/hash.json",
+        "sha": "57aa43c02a4ba43035e7b2d77d90cda02585151e"
+      },
+      {
+        "path": "PlayerCharacterData/Qingyi/hash.json",
+        "sha": "acffb345c9e4706cd33bb5bc46972ab170a49f74"
+      },
+      {
+        "path": "PlayerCharacterData/Remielle/hash.json",
+        "sha": "0dc6ce71f0038a2eec013c04b4ce35b79c4c9e7d"
+      },
+      {
+        "path": "PlayerCharacterData/RemielleMoonlight/hash.json",
+        "sha": "2a3dbb471386d11e91af6904c75c040a71265c11"
+      },
+      {
+        "path": "PlayerCharacterData/RemielleSummer/hash.json",
+        "sha": "217ecf027e749baa7080800a0ca94000b9fbdacb"
+      },
+      {
+        "path": "PlayerCharacterData/Rina/hash.json",
+        "sha": "7e25e2d1620e58183c45848a1b81998c5d01e7ca"
+      },
+      {
+        "path": "PlayerCharacterData/Seed/hash.json",
+        "sha": "9febc5518010e86282dc42ceaa466c4b18e2ef4a"
+      },
+      {
+        "path": "PlayerCharacterData/Seth/hash.json",
+        "sha": "6a0cee7f1dd9cba79f7f8e2ba9552ec6b213f6b0"
+      },
+      {
+        "path": "PlayerCharacterData/Sigrid/hash.json",
+        "sha": "088af27e7fbbd91d656f7fc6ac2ca77f34568735"
+      },
+      {
+        "path": "PlayerCharacterData/SigridSummer/hash.json",
+        "sha": "c482f1c7513cfe50d145b33bddafcf27056244f6"
+      },
+      {
+        "path": "PlayerCharacterData/Soldier0/hash.json",
+        "sha": "d377edac310d27cb8f24294961cf5473845a3dc9"
+      },
+      {
+        "path": "PlayerCharacterData/Soldier11/hash.json",
+        "sha": "52eb2b5132e6b74d77d4cd26de9c5c75bb97ff76"
+      },
+      {
+        "path": "PlayerCharacterData/Soukaku/hash.json",
+        "sha": "9654551c14574486bb35d579277d9ce68f44ea2a"
+      },
+      {
+        "path": "PlayerCharacterData/Sunna/hash.json",
+        "sha": "d4c4897f9beafbb5cd78f24bf7be1dbb971825c3"
+      },
+      {
+        "path": "PlayerCharacterData/SunnaKfc/hash.json",
+        "sha": "5067b0e8b8e77f8d3ec69327eeb566ce1f109331"
+      },
+      {
+        "path": "PlayerCharacterData/SunnaMaid/hash.json",
+        "sha": "8da2c684ede472a4dd59ed13157c1914230fcc1a"
+      },
+      {
+        "path": "PlayerCharacterData/Trigger/hash.json",
+        "sha": "ac7cd87a7546ff50ce2fd8fbf84cec3c355751d8"
+      },
+      {
+        "path": "PlayerCharacterData/Velina/hash.json",
+        "sha": "3df90b561ac632c225c1c3349b30ca2942754d67"
+      },
+      {
+        "path": "PlayerCharacterData/VelinaLeisure/hash.json",
+        "sha": "39e948dd3088757346f147455e8409478d88ec09"
+      },
+      {
+        "path": "PlayerCharacterData/Vivian/hash.json",
+        "sha": "f8627c7159c70a2ddb718f2171add13174246261"
+      },
+      {
+        "path": "PlayerCharacterData/VivianSummer/hash.json",
+        "sha": "87770ef0394788ceed3da212de1511189c6db462"
+      },
+      {
+        "path": "PlayerCharacterData/Wise/hash.json",
+        "sha": "658116a475b7662900d293549c2b002d963f64cd"
+      },
+      {
+        "path": "PlayerCharacterData/WiseCrane/hash.json",
+        "sha": "82bc0c7dc18b568c4e0ef53f9c8b7c4df1793815"
+      },
+      {
+        "path": "PlayerCharacterData/WiseSkies/hash.json",
+        "sha": "10c2a4fe91c7fe9492a0f33cdf6398b71f705713"
+      },
+      {
+        "path": "PlayerCharacterData/WiseSummer/hash.json",
+        "sha": "768bcc2f55d06e28ba64e6bccbbd87c468a46fa5"
+      },
+      {
+        "path": "PlayerCharacterData/Yanagi/hash.json",
+        "sha": "93584a161420938fc2797bc58f54a9b8582d564b"
+      },
+      {
+        "path": "PlayerCharacterData/YeShunguang/hash.json",
+        "sha": "785e7ac4937b1078b71328021181d98fbe4af594"
+      },
+      {
+        "path": "PlayerCharacterData/YeShunguangDawnlight/hash.json",
+        "sha": "a234cd784f14f41c72f078a43f7474ea50f0ebb7"
+      },
+      {
+        "path": "PlayerCharacterData/Yidhari/hash.json",
+        "sha": "d17ebd7a48da2e57bd67a62bd9b9fe00a8a153be"
+      },
+      {
+        "path": "PlayerCharacterData/Yixuan/hash.json",
+        "sha": "a0c8dabd5230d233de85f6e20b9dee2295874193"
+      },
+      {
+        "path": "PlayerCharacterData/YixuanTrailsOfInk/hash.json",
+        "sha": "0774f593b7f92a09fdf937d9a0db8987b367a06c"
+      },
+      {
+        "path": "PlayerCharacterData/Yuzuha/hash.json",
+        "sha": "cb86e4358c56c8e442883c00d3dcff72390c0163"
+      },
+      {
+        "path": "PlayerCharacterData/YuzuhaSummer/hash.json",
+        "sha": "2b5bbfdff35bc7ad43cd75f12f66a1c6f720ec51"
+      },
+      {
+        "path": "PlayerCharacterData/Zhao/hash.json",
+        "sha": "a6d92ec36e0d61757e78a5f28d61f85e8a47912b"
+      },
+      {
+        "path": "PlayerCharacterData/ZhuYuan/hash.json",
+        "sha": "2d4c33f379d1db3cbd605438c62c3b99f08963d2"
+      }
+    ]
+  },
+  "wwmi": {
+    "repository": "SpectrumQT/WWMI-Assets",
+    "commit": "eff456b",
+    "files": [
+      {
+        "path": "MiscellaneousData/BrantCompass/Metadata.json",
+        "sha": "f9d77cb3afeffad08f73ba918342f5a916745a0c"
+      },
+      {
+        "path": "MiscellaneousData/BrantCompass/TextureUsage.json",
+        "sha": "c8783a84a4603978066999e4f25e0d6815a03212"
+      },
+      {
+        "path": "MiscellaneousData/CantarellaUmbrella/Metadata.json",
+        "sha": "b5c0ddd65580d88728ab269d62c50fbc66f289fd"
+      },
+      {
+        "path": "MiscellaneousData/CantarellaUmbrella/TextureUsage.json",
+        "sha": "3f7889f2e8eef8192d1bf1d7a57da8e5126d866a"
+      },
+      {
+        "path": "MiscellaneousData/CarlottaCrystall/Metadata.json",
+        "sha": "71acea15de44492a80e6ef9201af712f23b785c6"
+      },
+      {
+        "path": "MiscellaneousData/CarlottaCrystall/TextureUsage.json",
+        "sha": "5d214c852c03395dcf398ebee8fe9bf57b907e09"
+      },
+      {
+        "path": "MiscellaneousData/CarlottaCrystallShards/Metadata.json",
+        "sha": "9e5e747d0878c722e16d7e82e08a7eb265a0888c"
+      },
+      {
+        "path": "MiscellaneousData/CarlottaCrystallShards/TextureUsage.json",
+        "sha": "7651b3f4c1847138f98b311d5082f12d83ebaa46"
+      },
+      {
+        "path": "MiscellaneousData/EncorePuppet/Metadata.json",
+        "sha": "922ad42ea68e50397d65b3fb3dbc4b3e8fc6b26e"
+      },
+      {
+        "path": "MiscellaneousData/EncorePuppet/TextureUsage.json",
+        "sha": "f530ef4febe6eb6d13a387252162f20fa9a271a8"
+      },
+      {
+        "path": "MiscellaneousData/GalbrenaBlakeBloom/Metadata.json",
+        "sha": "1e08c676d49566b2ed6b2482ed801effd7660c94"
+      },
+      {
+        "path": "MiscellaneousData/GalbrenaBlakeBloom/TextureUsage.json",
+        "sha": "fb6c346883e47b96d2e92e3942c00331f233ff8b"
+      },
+      {
+        "path": "MiscellaneousData/GalbrenaSpirit/Metadata.json",
+        "sha": "fcd15f5e139100a2f95ce9351f405b077750b935"
+      },
+      {
+        "path": "MiscellaneousData/GalbrenaSpirit/TextureUsage.json",
+        "sha": "6ed4ab61c580abc90843f0160a4f4285b4f2d82c"
+      },
+      {
+        "path": "MiscellaneousData/LumiPuppet/Metadata.json",
+        "sha": "4f43b1323615e13a8e64535a142a78b9383f16da"
+      },
+      {
+        "path": "MiscellaneousData/LumiPuppet/TextureUsage.json",
+        "sha": "9b8cce8f723313e718efa0e9059fd9a1efb1c423"
+      },
+      {
+        "path": "MiscellaneousData/RocciaSupplyChest/Metadata.json",
+        "sha": "61af54e93a3295a55b17503bbb6adcc41905e7a4"
+      },
+      {
+        "path": "MiscellaneousData/RocciaSupplyChest/TextureUsage.json",
+        "sha": "ca36c5c05720f27062ed472302475e9e0d8d6d20"
+      },
+      {
+        "path": "MiscellaneousData/RoverEchoTerminal/Metadata.json",
+        "sha": "75f1524dcbf5b197ef4ffe8306f2cd65cc6e107e"
+      },
+      {
+        "path": "MiscellaneousData/RoverEchoTerminal/TextureUsage.json",
+        "sha": "e5d40f094d55f27d93872e76004a5798a85afc4d"
+      },
+      {
+        "path": "MiscellaneousData/RoverMask/Metadata.json",
+        "sha": "86dcaabe4fecf241bd3a8922e07350b394b3f58c"
+      },
+      {
+        "path": "MiscellaneousData/RoverMask/TextureUsage.json",
+        "sha": "9a0ec3a2763e2016a5083f900fbfcc4995cff964"
+      },
+      {
+        "path": "MiscellaneousData/ShorekeeperButterfly/Metadata.json",
+        "sha": "4e15428466b0aac41196a35b64e68afebd656510"
+      },
+      {
+        "path": "MiscellaneousData/ShorekeeperButterfly/TextureUsage.json",
+        "sha": "3841e38b3f55e9338a41b3b0e23d862b6719500a"
+      },
+      {
+        "path": "PlayerCharacterData/Aalto/Metadata.json",
+        "sha": "dac71b34a210e03a72fc6803425d720079448f83"
+      },
+      {
+        "path": "PlayerCharacterData/Aalto/TextureUsage.json",
+        "sha": "1f06f6c3949a378f6417b699550b968253c47d95"
+      },
+      {
+        "path": "PlayerCharacterData/Augusta/Metadata.json",
+        "sha": "b76bd2b9c48732e5e63360a543d3b0257e7c5a55"
+      },
+      {
+        "path": "PlayerCharacterData/Augusta/TextureUsage.json",
+        "sha": "66c1121028d84247f594f37dad785979f1bca49e"
+      },
+      {
+        "path": "PlayerCharacterData/AugustaHelm/Metadata.json",
+        "sha": "dd0441411b13b7b7c1021d52dfe83ebf6a90d440"
+      },
+      {
+        "path": "PlayerCharacterData/AugustaHelm/TextureUsage.json",
+        "sha": "bf1a6c8fd1e27015d3f8bef6dee16806eec2dd3f"
+      },
+      {
+        "path": "PlayerCharacterData/Baizhi/Metadata.json",
+        "sha": "44831f29c7ca1804ab4fd257b1850d3237b80997"
+      },
+      {
+        "path": "PlayerCharacterData/Baizhi/TextureUsage.json",
+        "sha": "02130de7f43bdd4e79e090d6de18f166ff748152"
+      },
+      {
+        "path": "PlayerCharacterData/Brant/Metadata.json",
+        "sha": "23e2d6343128703c7d3d6a3606ae2e5ca1e9c4a1"
+      },
+      {
+        "path": "PlayerCharacterData/Brant/TextureUsage.json",
+        "sha": "76bc0e0ac2bc3f026a85a5edc530ca5462ba2ece"
+      },
+      {
+        "path": "PlayerCharacterData/CalcharoBody/Metadata.json",
+        "sha": "1d10528c03add94ec75fd5740c8bbcd11646ac21"
+      },
+      {
+        "path": "PlayerCharacterData/CalcharoBody/TextureUsage.json",
+        "sha": "7a1d946fa5003146c8fe3846e019d9052c776249"
+      },
+      {
+        "path": "PlayerCharacterData/CalcharoTorso/Metadata.json",
+        "sha": "f4438fb091806e61d2abe9f472bef6880e6cde77"
+      },
+      {
+        "path": "PlayerCharacterData/CalcharoTorso/TextureUsage.json",
+        "sha": "d0788b4b725e342b7452ee8ac3da76471a4a92b4"
+      },
+      {
+        "path": "PlayerCharacterData/Camellya/Metadata.json",
+        "sha": "13b36f063eebc5fe72389c28ae5af4c11b55498c"
+      },
+      {
+        "path": "PlayerCharacterData/Camellya/TextureUsage.json",
+        "sha": "40c33d43e3ba14dae7de03a99b7a1a9a4c8ee8d7"
+      },
+      {
+        "path": "PlayerCharacterData/Cantarella/Metadata.json",
+        "sha": "9dc5fa3fbbabe0a2a058f69982454eb6448cf219"
+      },
+      {
+        "path": "PlayerCharacterData/Cantarella/TextureUsage.json",
+        "sha": "a94c1795180ef6cac522e3c2d6dd7c9a2f4083d5"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaBody/Metadata.json",
+        "sha": "a9cc979a02d1499066ef30ab3f022bd188b65dab"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaBody/TextureUsage.json",
+        "sha": "f084b0107ad78d0b17d6b4307f588c01ce132e57"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaHairCrystal/Metadata.json",
+        "sha": "3e921841ba3d5c1b2ede8487cecde6c5ea867dcf"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaHairCrystal/TextureUsage.json",
+        "sha": "cd4b70ef426dbd6f19ff240076485f27bba5dfba"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaHairNormal/Metadata.json",
+        "sha": "ebdf1bf23ba8965253fb4f61cd271d7e787262f1"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaHairNormal/TextureUsage.json",
+        "sha": "a20268e01f6dab602a974ede1a99750b4e4c325b"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaSkin1Body/Metadata.json",
+        "sha": "c121343190e9c8d17ea07e19b597e029823e5a4f"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaSkin1Body/TextureUsage.json",
+        "sha": "a50b173348cf5b7dc073c13de05c636ad51a405f"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaSkin1HairNormal/Metadata.json",
+        "sha": "283a0006e04384d8ccccbbc16832dc350e27422f"
+      },
+      {
+        "path": "PlayerCharacterData/CarlottaSkin1HairNormal/TextureUsage.json",
+        "sha": "e8d41cc135db6d564af34adeff29dd5e56beb321"
+      },
+      {
+        "path": "PlayerCharacterData/Cartethyia/Metadata.json",
+        "sha": "411115188f9f9c0edecd720f4eb05dfb08e9e644"
+      },
+      {
+        "path": "PlayerCharacterData/Cartethyia/TextureUsage.json",
+        "sha": "de9dfe95940bcf43f5f30cd7f4c274becfade48c"
+      },
+      {
+        "path": "PlayerCharacterData/CartethyiaFleurdelys/Metadata.json",
+        "sha": "0175484fba9fe2ba15f6b4546222d9af09a55787"
+      },
+      {
+        "path": "PlayerCharacterData/CartethyiaFleurdelys/TextureUsage.json",
+        "sha": "7a176945061816c056c55a70404681eac368ae3b"
+      },
+      {
+        "path": "PlayerCharacterData/Changli/Metadata.json",
+        "sha": "af2907b68a4791f4245331f47fcaddca0dbfed69"
+      },
+      {
+        "path": "PlayerCharacterData/Changli/TextureUsage.json",
+        "sha": "a8fd3d74ee5ea1b451ddc2db66770cc7b4a7b13c"
+      },
+      {
+        "path": "PlayerCharacterData/ChangliSkin1/Metadata.json",
+        "sha": "23399f2d5a536dbef4741c9500ab63b7eed074f6"
+      },
+      {
+        "path": "PlayerCharacterData/ChangliSkin1/TextureUsage.json",
+        "sha": "bec837e857c337a1ab23d488e6cedb3342143c6f"
+      },
+      {
+        "path": "PlayerCharacterData/Chixia/Metadata.json",
+        "sha": "bbea519d9071774ad04cbf890cf834c14683783b"
+      },
+      {
+        "path": "PlayerCharacterData/Chixia/TextureUsage.json",
+        "sha": "3e1076005706370e681c984d12728df67ba9399c"
+      },
+      {
+        "path": "PlayerCharacterData/Ciaccona/Metadata.json",
+        "sha": "cd9812f81b95014cc645959cca67713c40a015ed"
+      },
+      {
+        "path": "PlayerCharacterData/Ciaccona/TextureUsage.json",
+        "sha": "9311e97adb74ddc70064869d72ed366eeab4d5de"
+      },
+      {
+        "path": "PlayerCharacterData/Danjin/Metadata.json",
+        "sha": "d95c606f9812e43f8cf6b4beeb03e0329cfab94a"
+      },
+      {
+        "path": "PlayerCharacterData/Danjin/TextureUsage.json",
+        "sha": "07feabddcd07fe1f20d4e8fc16183ecb398259f7"
+      },
+      {
+        "path": "PlayerCharacterData/Encore/Metadata.json",
+        "sha": "c26067871e394c03906bb466362527daf5a874cf"
+      },
+      {
+        "path": "PlayerCharacterData/Encore/TextureUsage.json",
+        "sha": "2acc8e358edc006d0b48ee67d0680fb0059d2982"
+      },
+      {
+        "path": "PlayerCharacterData/Galbrena/Metadata.json",
+        "sha": "749161ada8079a763397ab04df4820f190e7df0c"
+      },
+      {
+        "path": "PlayerCharacterData/Galbrena/TextureUsage.json",
+        "sha": "39bd77acca3e22b46a9f13fbc01c457d80e5abf2"
+      },
+      {
+        "path": "PlayerCharacterData/Iuno/Metadata.json",
+        "sha": "e4dcf544be67aee6264c192ffeb7a913026aeca0"
+      },
+      {
+        "path": "PlayerCharacterData/Iuno/TextureUsage.json",
+        "sha": "a1a1cd7ab6e0ea0bfc9a76039f22cf90085c4e72"
+      },
+      {
+        "path": "PlayerCharacterData/Jianxin/Metadata.json",
+        "sha": "e03501ef4de5b81b08b609def5121abf92ca854d"
+      },
+      {
+        "path": "PlayerCharacterData/Jianxin/TextureUsage.json",
+        "sha": "d9b6641395e464caa7bf4c7d702a6f38207c7fb2"
+      },
+      {
+        "path": "PlayerCharacterData/Jinshi/Metadata.json",
+        "sha": "75243e512a7aa739896c1c574c2543c709a310c6"
+      },
+      {
+        "path": "PlayerCharacterData/Jinshi/TextureUsage.json",
+        "sha": "873d74b522893ee17fe38d5afc6f8ac24176fde5"
+      },
+      {
+        "path": "PlayerCharacterData/JinshiSkin1/Metadata.json",
+        "sha": "c23cf6bcb55430a74ce6cbeff9a9737889a0f698"
+      },
+      {
+        "path": "PlayerCharacterData/JinshiSkin1/TextureUsage.json",
+        "sha": "bd89d42b00a0ccc9b3217cd119b3359f9b9bf02e"
+      },
+      {
+        "path": "PlayerCharacterData/Jiyan/Metadata.json",
+        "sha": "c0c10f8cf8185f3faa00066c38db6083655e8b13"
+      },
+      {
+        "path": "PlayerCharacterData/Jiyan/TextureUsage.json",
+        "sha": "d019fb3ab8f8e215611bc071a10bb4a4a1e3adbe"
+      },
+      {
+        "path": "PlayerCharacterData/Lingyang/Metadata.json",
+        "sha": "871bd618d53e0006d65075916c7fb5111db27b45"
+      },
+      {
+        "path": "PlayerCharacterData/Lingyang/TextureUsage.json",
+        "sha": "dcbaad90d48b1450d9d482f8d23854092775e27e"
+      },
+      {
+        "path": "PlayerCharacterData/Lumi/Metadata.json",
+        "sha": "ae47270377bd3c1caa09d8c5f9a8f614fd6e7ed5"
+      },
+      {
+        "path": "PlayerCharacterData/Lumi/TextureUsage.json",
+        "sha": "6f527a94bafa16c905f0bff49d1e4192454e6b22"
+      },
+      {
+        "path": "PlayerCharacterData/LupaBody/Metadata.json",
+        "sha": "8287a438343d0b7452bb47356964300c16faac47"
+      },
+      {
+        "path": "PlayerCharacterData/LupaBody/TextureUsage.json",
+        "sha": "1d4d6169e450d5119c1bec75090a8c0d9835e600"
+      },
+      {
+        "path": "PlayerCharacterData/LupaTail/Metadata.json",
+        "sha": "bdc454ae066df6853135da6fc32fd0f2604b7900"
+      },
+      {
+        "path": "PlayerCharacterData/LupaTail/TextureUsage.json",
+        "sha": "8ef68d830aafe725fce01c35b63b393f11614a9c"
+      },
+      {
+        "path": "PlayerCharacterData/Mortefi/Metadata.json",
+        "sha": "63cabe080e973264a4aff809777a522acff61d4a"
+      },
+      {
+        "path": "PlayerCharacterData/Mortefi/TextureUsage.json",
+        "sha": "1205088aa91a19f05a4ff75dc33873efad8b3e0e"
+      },
+      {
+        "path": "PlayerCharacterData/Phoebe/Metadata.json",
+        "sha": "73a9262382792d3aefc42dd6501ce16cfdd6a32d"
+      },
+      {
+        "path": "PlayerCharacterData/Phoebe/TextureUsage.json",
+        "sha": "3eeeeda4887bdccbb354c6ba97da2952f50986e9"
+      },
+      {
+        "path": "PlayerCharacterData/Phrolova/Metadata.json",
+        "sha": "561bc326be2283accd5dbbed1a64fdf7e721bd6c"
+      },
+      {
+        "path": "PlayerCharacterData/Phrolova/TextureUsage.json",
+        "sha": "8b7f4b7e62674cb767eb1ede12aeaa8e98057549"
+      },
+      {
+        "path": "PlayerCharacterData/Roccia/Metadata.json",
+        "sha": "c997e8fdc3541ca0ba4c43473a957d9ccd0db410"
+      },
+      {
+        "path": "PlayerCharacterData/Roccia/TextureUsage.json",
+        "sha": "5af6ba8360a9fa31e5b9d6ac90ebb42014c1e0d0"
+      },
+      {
+        "path": "PlayerCharacterData/RoverFemale/Metadata.json",
+        "sha": "87e9fa923418a8ca6bd34dc6cc2c7a11a48cb485"
+      },
+      {
+        "path": "PlayerCharacterData/RoverFemale/TextureUsage.json",
+        "sha": "5893375481454f45f89b2ba6d83ddd469ee9ee89"
+      },
+      {
+        "path": "PlayerCharacterData/RoverMale/Metadata.json",
+        "sha": "fb242a402f47a4d025a7c37b8d8712ac07261287"
+      },
+      {
+        "path": "PlayerCharacterData/RoverMale/TextureUsage.json",
+        "sha": "95b4b2f7b0c2c394bae6edeea5c8ad7ad6b3f0cc"
+      },
+      {
+        "path": "PlayerCharacterData/Sanhua/Metadata.json",
+        "sha": "854704236ff963fa26d3260290e2ab1d89f01ff3"
+      },
+      {
+        "path": "PlayerCharacterData/Sanhua/TextureUsage.json",
+        "sha": "a5c3142ee60c5b8fca96683bb936ea0193e16396"
+      },
+      {
+        "path": "PlayerCharacterData/SanhuaSkin1/Metadata.json",
+        "sha": "95efa28cb624dec1dc60b6e493f4a3ea9286a336"
+      },
+      {
+        "path": "PlayerCharacterData/SanhuaSkin1/TextureUsage.json",
+        "sha": "9d950d633a3e49f0a88310595d6ba7c8341175df"
+      },
+      {
+        "path": "PlayerCharacterData/Shorekeeper/Metadata.json",
+        "sha": "f2b299a925ea4507e45720bef6f5b31fdcf3f7ce"
+      },
+      {
+        "path": "PlayerCharacterData/Shorekeeper/TextureUsage.json",
+        "sha": "4cca3864447e8d09228641fceadfe945d16c937f"
+      },
+      {
+        "path": "PlayerCharacterData/Taoqi/Metadata.json",
+        "sha": "f5ed832656b191f5edddd9a1f0428d90a58b2863"
+      },
+      {
+        "path": "PlayerCharacterData/Taoqi/TextureUsage.json",
+        "sha": "5b010f6211c5303baa67ebc05ed8f18c6123ec78"
+      },
+      {
+        "path": "PlayerCharacterData/Verina/Metadata.json",
+        "sha": "92cbe5d8ee25d10300ed1fabbf6d8f7cebd6d26f"
+      },
+      {
+        "path": "PlayerCharacterData/Verina/TextureUsage.json",
+        "sha": "b9038c0d08ae994853417848b2ba9d045284d9c2"
+      },
+      {
+        "path": "PlayerCharacterData/XiangliYao/Metadata.json",
+        "sha": "d4584095ea1244dafe848da1ba2d5bff9a75cbc0"
+      },
+      {
+        "path": "PlayerCharacterData/XiangliYao/TextureUsage.json",
+        "sha": "21cd2acd73836f55b350be125a03d95a51257e4d"
+      },
+      {
+        "path": "PlayerCharacterData/Yangyang/Metadata.json",
+        "sha": "3c93ef6fbaa1aab7465c771b3a2b9987428ae2a0"
+      },
+      {
+        "path": "PlayerCharacterData/Yangyang/TextureUsage.json",
+        "sha": "9ebaae241ff479d6b2e5e085896ccd9930e0f07f"
+      },
+      {
+        "path": "PlayerCharacterData/Yinlin/Metadata.json",
+        "sha": "3f146a3b5928184bdb50dba7a184ae848ec1290e"
+      },
+      {
+        "path": "PlayerCharacterData/Yinlin/TextureUsage.json",
+        "sha": "1dd441875fb1f8176d7ed70b1eb008d2fda5dc4c"
+      },
+      {
+        "path": "PlayerCharacterData/Youhu/Metadata.json",
+        "sha": "a9d5115e323ce796de664343c6b876bb5f45209b"
+      },
+      {
+        "path": "PlayerCharacterData/Youhu/TextureUsage.json",
+        "sha": "0764ab7c4123eba1491c9fdd2acc154bec746e7f"
+      },
+      {
+        "path": "PlayerCharacterData/Yuanwu/Metadata.json",
+        "sha": "5c87f2aa8d3bca69d6a1d471bfbfb71f9935941c"
+      },
+      {
+        "path": "PlayerCharacterData/Yuanwu/TextureUsage.json",
+        "sha": "66a09463410ba8ba23b32911221a9910178f0029"
+      },
+      {
+        "path": "PlayerCharacterData/ZaniArchive/Metadata.json",
+        "sha": "f9881d3d5a1706f13a277727bb05c4b6af1573ce"
+      },
+      {
+        "path": "PlayerCharacterData/ZaniArchive/TextureUsage.json",
+        "sha": "35a61b3c1bc5bd254ed1f7ad22dee95ec40c588e"
+      },
+      {
+        "path": "PlayerCharacterData/Zhezhi/Metadata.json",
+        "sha": "8ba9d47c384031ea029a4c41c10cd4e6db86b7c9"
+      },
+      {
+        "path": "PlayerCharacterData/Zhezhi/TextureUsage.json",
+        "sha": "f2041884dca9f611c0f5fc0bfaae6e9543cb4f00"
+      },
+      {
+        "path": "WeaponData/AugustaSword/Metadata.json",
+        "sha": "69d693b42502ba961e6f9d59a0092131550d4b80"
+      },
+      {
+        "path": "WeaponData/AugustaSword/TextureUsage.json",
+        "sha": "f913c9d644696dfd36ecfddcfb95e41a875b9473"
+      },
+      {
+        "path": "WeaponData/CartethyiaLiberationSword/Metadata.json",
+        "sha": "af67b81a8162517fbf55c50159f7e02da0020e66"
+      },
+      {
+        "path": "WeaponData/CartethyiaLiberationSword/TextureUsage.json",
+        "sha": "78fe1180f2c91258478f2bfdcec9a7995ef39d08"
+      },
+      {
+        "path": "WeaponData/CiacconaStaff/Metadata.json",
+        "sha": "740cf6cf94da1969ab0826e5c3c6d20d4c6b130f"
+      },
+      {
+        "path": "WeaponData/CiacconaStaff/TextureUsage.json",
+        "sha": "39edbeb5579d9dd9fb4ce002ab84912e5ea6791c"
+      },
+      {
+        "path": "WeaponData/IunoDisc/Metadata.json",
+        "sha": "8bd31a6474eb8fa34249b30f32157cd73cb57925"
+      },
+      {
+        "path": "WeaponData/IunoDisc/TextureUsage.json",
+        "sha": "bb4724db55356ba2fe4da10a370b5ec982fc4f47"
+      },
+      {
+        "path": "WeaponData/LupaSpear/Metadata.json",
+        "sha": "2e4414ea9f6e0a0c651cfc28ce871ab0930783f5"
+      },
+      {
+        "path": "WeaponData/LupaSpear/TextureUsage.json",
+        "sha": "80d93615b4e130a64486d95284ede8814ffb4691"
+      },
+      {
+        "path": "WeaponData/PhoebeStaff/Metadata.json",
+        "sha": "a37c7c63c3791131eb43ab9aea7c5a6e91fbe23e"
+      },
+      {
+        "path": "WeaponData/PhoebeStaff/TextureUsage.json",
+        "sha": "ce40ce9285cbbdc98d34fb5e152f49872721fa43"
+      },
+      {
+        "path": "WeaponData/PhrolovaWand/Metadata.json",
+        "sha": "8a0a08cd10bba5bb6ba7b855c31c470b0eb8c24d"
+      },
+      {
+        "path": "WeaponData/PhrolovaWand/TextureUsage.json",
+        "sha": "0009c587b4c87eb2340de8e2b26388222a7328c3"
+      },
+      {
+        "path": "WeaponData/ZaniShield/Metadata.json",
+        "sha": "811a50b449ff03a2aea1ad3cf8045bd28e7f44ca"
+      },
+      {
+        "path": "WeaponData/ZaniShield/TextureUsage.json",
+        "sha": "ea8d5ee7fb4889488671b7cb2d220d49ba80f899"
+      }
+    ]
+  }
+}

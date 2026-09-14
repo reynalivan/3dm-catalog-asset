@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    {
+      "game": "gimi",
+      "path_prefix": "PlayerCharacterData/Arlecchino/",
+      "canonical_id": "Arlecchino",
+      "variant": "Default"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "format_version": 2,
+  "generated_at": "2026-09-14T11:27:34.871Z",
+  "entries": [
+    {
+      "game": "gimi",
+      "canonical_id": "Arlecchino",
+      "runtime_targets": [
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "draw_vb",
+          "hash": "44e3487a",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "position_vb",
+          "hash": "6895f405",
+          "slot": "vb0",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "shader",
+          "hash": "653c63ba4a73ca8b",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "05f2366f",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "05f2366f",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "355466c1",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "53cb2c4c",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "83096447",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "83096447",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "a44625da",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "dc7d00e7",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "texture",
+          "hash": "dc7d00e7",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "vertex_buffer",
+          "hash": "8b17a419",
+          "slot": "vb2",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        },
+        {
+          "variant": "Default",
+          "component": null,
+          "resource_kind": "vertex_buffer",
+          "hash": "e211de60",
+          "slot": "vb1",
+          "provenance": {
+            "source_repo": "SilentNightSound/GI-Model-Importer-Assets",
+            "commit": "2039d16",
+            "path": "PlayerCharacterData/Arlecchino/hash.json"
+          }
+        }
+      ]
+    }
+  ]
+}

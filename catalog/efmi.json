@@ -9,7 +9,8 @@
       "metadata": {
         "rarity": "6-Star",
         "class": "Caster"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Ember",
@@ -20,29 +21,38 @@
       "metadata": {
         "rarity": "6-Star",
         "class": "Guard"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Endministrator",
       "hash_db": {},
-      "tags": ["Admin", "Player Character"],
+      "tags": [
+        "Admin",
+        "Player Character"
+      ],
       "object_type": "Character",
       "custom_skins": [],
       "metadata": {
         "rarity": "6-Star",
         "class": "Vanguard"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Chen Qianyu",
       "hash_db": {},
-      "tags": ["Chen", "Qianyu"],
+      "tags": [
+        "Chen",
+        "Qianyu"
+      ],
       "object_type": "Character",
       "custom_skins": [],
       "metadata": {
         "rarity": "5-Star",
         "class": "Guard"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Ilya",
@@ -53,7 +63,8 @@
       "metadata": {
         "rarity": "5-Star",
         "class": "Sniper"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Neon",
@@ -64,73 +75,101 @@
       "metadata": {
         "rarity": "5-Star",
         "class": "Defender"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Standard Assault Rifle",
       "hash_db": {},
-      "tags": ["AR", "Assault Rifle"],
+      "tags": [
+        "AR",
+        "Assault Rifle"
+      ],
       "object_type": "Weapon",
       "custom_skins": [],
       "metadata": {
         "rarity": "4-Star"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Tactical Blade",
       "hash_db": {},
-      "tags": ["Blade", "Sword"],
+      "tags": [
+        "Blade",
+        "Sword"
+      ],
       "object_type": "Weapon",
       "custom_skins": [],
       "metadata": {
         "rarity": "5-Star"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Heavy Shield",
       "hash_db": {},
-      "tags": ["Shield"],
+      "tags": [
+        "Shield"
+      ],
       "object_type": "Weapon",
       "custom_skins": [],
       "metadata": {
         "rarity": "5-Star"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Deployment UI",
       "hash_db": {},
-      "tags": ["Deploy Screen", "Placement"],
+      "tags": [
+        "Deploy Screen",
+        "Placement"
+      ],
       "object_type": "UI",
       "custom_skins": [],
-      "metadata": {}
+      "metadata": {},
+      "runtime_targets": []
     },
     {
       "name": "Resource Bar",
       "hash_db": {},
-      "tags": ["DP Bar", "Cost Bar"],
+      "tags": [
+        "DP Bar",
+        "Cost Bar"
+      ],
       "object_type": "UI",
       "custom_skins": [],
-      "metadata": {}
+      "metadata": {},
+      "runtime_targets": []
     },
     {
       "name": "Originium Slug",
       "hash_db": {},
-      "tags": ["Slug", "Basic Enemy"],
+      "tags": [
+        "Slug",
+        "Basic Enemy"
+      ],
       "object_type": "Other",
       "custom_skins": [],
       "metadata": {
         "sub_category": "Enemy"
-      }
+      },
+      "runtime_targets": []
     },
     {
       "name": "Drone",
       "hash_db": {},
-      "tags": ["Attack Drone", "Flying Enemy"],
+      "tags": [
+        "Attack Drone",
+        "Flying Enemy"
+      ],
       "object_type": "Other",
       "custom_skins": [],
       "metadata": {
         "sub_category": "Enemy"
-      }
+      },
+      "runtime_targets": []
     }
   ],
   "hash_db": {}

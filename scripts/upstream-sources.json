@@ -1,0 +1,22 @@
+{
+  "gimi": {
+    "repository": "SilentNightSound/GI-Model-Importer-Assets",
+    "commit": "2039d16",
+    "metadataPatterns": ["PlayerCharacterData/**/hash.json"]
+  },
+  "srmi": {
+    "repository": "SilentNightSound/SR-Model-Importer-Assets",
+    "commit": "eff6cdf",
+    "metadataPatterns": ["PlayerCharacterData/**/hash.json"]
+  },
+  "zzmi": {
+    "repository": "leotorrez/ZZ-Model-Importer-assets",
+    "commit": "20d01be",
+    "metadataPatterns": ["PlayerCharacterData/**/hash.json"]
+  },
+  "wwmi": {
+    "repository": "SpectrumQT/WWMI-Assets",
+    "commit": "eff456b",
+    "metadataPatterns": ["**/Metadata.json", "**/TextureUsage.json"]
+  }
+}
