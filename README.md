@@ -6,6 +6,8 @@ This is the catalog data used by [EMMM](https://github.com/reynalivan/EMMM2) to 
 
 The pack covers GIMI, SRMI, ZZMI, WWMI, and EFMI. Coverage varies by entry: an identity may have a name without a verified hash, image, or runtime target. In particular, newly added EFMI operator names support name-based suggestions until further data is verified. EMMM shows classification suggestions for review before placing a mod.
 
+This catalog and EMMM are independent third-party projects. Neither is affiliated with, endorsed by, or sponsored by any game, game developer, publisher, or platform mentioned here.
+
 ## What the catalog adds
 
 - **Better matching:** Known hashes, names, and aliases give EMMM evidence for its Mod Inbox classification alongside the downloaded folder name.
