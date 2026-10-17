@@ -1,14 +1,23 @@
-# 3DM Catalog Asset
+# 3DM Catalog Asset for EMMM
 
-Catalog source for EMMM. It contains canonical identities, aliases, hashes,
-metadata, validated runtime targets for KeyViewer, and bounded avatar assets.
-It contains no executable code, plugin, DLL, or automatic upstream sync.
-**This catalog is not the EMMM mod manager or a mod.** Get EMMM from
-[the EMMM2 repository](https://github.com/reynalivan/EMMM2).
+This is the catalog data used by [EMMM](https://github.com/reynalivan/EMMM2) to help identify and organize 3DMigoto mods. It adds known identities, aliases, INI hashes, available character and equipment metadata, thumbnail assets, and reviewed runtime targets for the optional in-game KeyViewer.
+
+**This repository does not contain the EMMM mod manager, game mods, an installer, or a 3DMigoto plugin.** Download the manager from [EMMM2](https://github.com/reynalivan/EMMM2) and the catalog pack from [catalog releases](https://github.com/reynalivan/3dm-catalog-asset/releases/latest).
+
+The pack covers GIMI, SRMI, ZZMI, WWMI, and EFMI. Coverage varies by entry: an identity may have a name without a verified hash, image, or runtime target. In particular, newly added EFMI operator names support name-based suggestions until further data is verified. EMMM shows classification suggestions for review before placing a mod.
+
+## What the catalog adds
+
+- **Better matching:** Known hashes, names, and aliases give EMMM evidence for its Mod Inbox classification alongside the downloaded folder name.
+- **More useful browsing:** Available metadata and thumbnails help distinguish objects and support relevant filters in EMMM.
+- **In-game controls where supported:** Reviewed runtime targets help KeyViewer associate active mods with their displayed bindings. Entries without those targets remain usable in the catalog.
+- **Verifiable updates:** Official releases provide a signed `catalog-pack.zip` that EMMM checks before installation.
+
+The pack is data only. It contains no executable code or automatic upstream sync.
 
 ## Install the catalog in EMMM
 
-1. Install and open EMMM.
+1. Get EMMM from [its repository](https://github.com/reynalivan/EMMM2) and open the app.
 2. In EMMM, open **Settings > Catalog Assets**.
 3. Under **Install from ZIP**, choose **Choose ZIP** and select the downloaded
    `catalog-pack.zip`. Review the version, publisher, supported games, and
@@ -18,6 +27,8 @@ Do not extract `catalog-pack.zip` into your Mods folder. The original ZIP
 stays where you saved it. Installing a pack replaces the active catalog only
 after you confirm the review screen. EMMM can also check the official GitHub
 release channel for catalog updates from the same Settings page.
+
+If you downloaded a GameBanana ZIP, extract that outer ZIP first and select the inner `catalog-pack.zip` in EMMM. The GameBanana ZIP does not include the manager.
 
 ## Roster, equipment, and thumbnail metadata
 
