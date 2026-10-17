@@ -768,7 +768,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d0/Resonator_Jingran.png/revision/latest/",
         "thumbnail_width": 256,
-        "thumbnail_height": 256
+        "thumbnail_height": 256,
+        "class": "Natural"
       },
       "thumbnail_path": "assets/wwmi/characters/jingran.webp"
     },
@@ -2257,6 +2258,34 @@
         "thumbnail_height": 256
       },
       "thumbnail_path": "assets/wwmi/weapons/bloodpactspledge.webp"
+    },
+    {
+      "name": "Blooming Jadehaven",
+      "hash_db": {},
+      "tags": [
+        "Blooming Jadehaven"
+      ],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "equipment_kind": "Weapon",
+        "rarity": "S-Rank",
+        "weapon_type": "Rectifier",
+        "secondary_stat": "Crit. Rate",
+        "acquisition_method": "Weapon Event Convenes",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Weapon Blooming Jadehaven.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/wutheringwaves/images/d/dd/Weapon_Blooming_Jadehaven.png/revision/latest/",
+        "thumbnail_source_page": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+        "thumbnail_asset_path": "assets/wwmi/weapons/bloomingjadehaven.webp",
+        "thumbnail_asset_sha256": "46594ef15b0f4f8c905ab57c044bb65a20ccdd52aeeb9e74ce12d0eb1853df50",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/wutheringwaves/images/d/dd/Weapon_Blooming_Jadehaven.png/revision/latest/",
+        "thumbnail_width": 256,
+        "thumbnail_height": 256
+      },
+      "thumbnail_path": "assets/wwmi/weapons/bloomingjadehaven.webp"
     },
     {
       "name": "Boson Astrolabe",
@@ -5112,6 +5141,33 @@
         "thumbnail_height": 256
       },
       "thumbnail_path": "assets/wwmi/weapons/unflickeringvalor.webp"
+    },
+    {
+      "name": "Unspoken Rue",
+      "hash_db": {},
+      "tags": [
+        "Unspoken Rue"
+      ],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "equipment_kind": "Weapon",
+        "rarity": "S-Rank",
+        "weapon_type": "Sword",
+        "acquisition_method": "Weapon Event Convenes",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Weapon Unspoken Rue.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Weapon_Unspoken_Rue.png/revision/latest/",
+        "thumbnail_source_page": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+        "thumbnail_asset_path": "assets/wwmi/weapons/unspokenrue.webp",
+        "thumbnail_asset_sha256": "b3b6a64f2e785494355084de0331848e75a94bee114e88acbea5ac5a835857c4",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Weapon_Unspoken_Rue.png/revision/latest/",
+        "thumbnail_width": 256,
+        "thumbnail_height": 256
+      },
+      "thumbnail_path": "assets/wwmi/weapons/unspokenrue.webp"
     },
     {
       "name": "Variation",

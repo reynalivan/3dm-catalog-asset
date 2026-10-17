@@ -2352,6 +2352,37 @@
       "thumbnail_path": "assets/srmi/characters/natasha.webp"
     },
     {
+      "name": "Pearl",
+      "hash_db": {},
+      "tags": [
+        "Pearl"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "rarity": "S-Rank",
+        "path": "Elation",
+        "element": "Ice",
+        "release_version": "4.6",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Character Pearl Icon.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Character_Pearl_Icon.png/revision/latest/",
+        "thumbnail_source_page": "https://honkai-star-rail.fandom.com/wiki/Character/List",
+        "release_date": "2026-09-28",
+        "faction": "Interastral Peace Corporation",
+        "world": "Planarcadia",
+        "signature_light_cone": "Colors for Tomorrow",
+        "thumbnail_asset_path": "assets/srmi/characters/pearl.webp",
+        "thumbnail_asset_sha256": "0f17823e970e1dfa2aaebc1b28ae3a38b7ceb73bfb9281184eafa8a280e972a3",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Character_Pearl_Icon.png/revision/latest/",
+        "thumbnail_width": 160,
+        "thumbnail_height": 160
+      },
+      "thumbnail_path": "assets/srmi/characters/pearl.webp"
+    },
+    {
       "name": "Pela",
       "hash_db": {
         "Default": [
@@ -4295,6 +4326,35 @@
         "thumbnail_height": 408
       },
       "thumbnail_path": "assets/srmi/weapons/collapsingsky.webp"
+    },
+    {
+      "name": "Colors for Tomorrow",
+      "hash_db": {},
+      "tags": [
+        "Colors for Tomorrow"
+      ],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "equipment_kind": "Light Cone",
+        "rarity": "S-Rank",
+        "path": "Elation",
+        "stats": "HP: 48~1,058 ATK: 21~476 DEF: 27~595",
+        "passive_name": "Ink Splash",
+        "featured_characters": "Pearl",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Light Cone Colors for Tomorrow.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Light_Cone_Colors_for_Tomorrow.png/revision/latest/",
+        "thumbnail_source_page": "https://honkai-star-rail.fandom.com/wiki/Light_Cone/List",
+        "thumbnail_asset_path": "assets/srmi/weapons/colorsfortomorrow.webp",
+        "thumbnail_asset_sha256": "8693424a4fd5774013c0d60fe9281d90b1327336474b8059a92f4dae1ab61c65",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Light_Cone_Colors_for_Tomorrow.png/revision/latest/",
+        "thumbnail_width": 348,
+        "thumbnail_height": 408
+      },
+      "thumbnail_path": "assets/srmi/weapons/colorsfortomorrow.webp"
     },
     {
       "name": "Concert for Two",
@@ -7306,7 +7366,7 @@
         "equipment_kind": "Light Cone",
         "rarity": "S-Rank",
         "path": "Elation",
-        "stats": "HP: Unknown ATK: Unknown DEF: Unknown",
+        "stats": "HP: 43~952 ATK: 26~582 DEF: 24~529",
         "passive_name": "Waveriding",
         "featured_characters": "Aventurine • Waveflair",
         "thumbnail_provider": "fandom",

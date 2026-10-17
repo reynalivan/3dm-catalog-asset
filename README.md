@@ -3,6 +3,21 @@
 Catalog source for EMMM. It contains canonical identities, aliases, hashes,
 metadata, validated runtime targets for KeyViewer, and bounded avatar assets.
 It contains no executable code, plugin, DLL, or automatic upstream sync.
+**This catalog is not the EMMM mod manager or a mod.** Get EMMM from
+[the EMMM2 repository](https://github.com/reynalivan/EMMM2).
+
+## Install the catalog in EMMM
+
+1. Install and open EMMM.
+2. In EMMM, open **Settings > Catalog Assets**.
+3. Under **Install from ZIP**, choose **Choose ZIP** and select the downloaded
+   `catalog-pack.zip`. Review the version, publisher, supported games, and
+   entry count, then select **Install pack**.
+
+Do not extract `catalog-pack.zip` into your Mods folder. The original ZIP
+stays where you saved it. Installing a pack replaces the active catalog only
+after you confirm the review screen. EMMM can also check the official GitHub
+release channel for catalog updates from the same Settings page.
 
 ## Roster, equipment, and thumbnail metadata
 
@@ -29,6 +44,11 @@ records its relative path and SHA-256. The downloader removes Fandom's resize
 parameters, requires a minimum 150 × 150 px image, bounds it to 2 MiB, accepts
 PNG/JPEG/WebP/GIF, and includes it in a signed release. Run `avatars` to retry
 only missing or changed avatar assets.
+
+EFMI is not covered by that four-game sync script. Its current operator names
+are checked against the [official operator roster](https://endfield.gryphline.com/en-us/operator)
+and added only as name-based catalog entries until hashes, metadata, or images
+can be verified. Existing historical entries remain in the catalog.
 
 ```powershell
 node ./scripts/sync-wiki-catalog.mjs avatars
@@ -137,6 +157,9 @@ From PowerShell, build a release with:
 ```powershell
 ./scripts/New-CatalogRelease.ps1 -Version 1.2.0
 ```
+
+Add `-VersionedOutput` to write `dist/<version>/catalog-pack.zip` and
+`dist/<version>/catalog-pack.sig` while preserving earlier local builds.
 
 The command validates the manifest schema, creates `dist/catalog-pack.zip`,
 and writes `dist/catalog-pack.sig`. Inspect the ZIP contents before uploading

@@ -1,28 +1,28 @@
 {
   "id": "3dm-catalog-asset",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "Catalog maintainer",
   "source": "https://github.com/reynalivan/3dm-catalog-asset",
   "catalogs": {
     "efmi": {
       "path": "catalog/efmi.json",
-      "sha256": "404fc2815cd4fee21368d3724f2caf676386468f57c5064725104329225f0d4d"
+      "sha256": "f6cc8dd2f8252264aee31d07784a1aa3465ee06906ba0680da1279750d844c5e"
     },
     "gimi": {
       "path": "catalog/gimi.json",
-      "sha256": "e6b9f651b3a25ce3e4c1b1477df0258d501f41a7370f1146e504cd55f41918b0"
+      "sha256": "746df158bcb47306b9ec51d725d48e85a2cfa3b9e3e9387588144e5a873cb8a2"
     },
     "srmi": {
       "path": "catalog/srmi.json",
-      "sha256": "3730305d07c452acace1a7a7e11f366fb034154219a159e4dc9bf8c33d38a997"
+      "sha256": "d5e630b34ba02c0aa93267cb70d1bf72bf0e206c1e1c24c5526fa681b4d90bf0"
     },
     "wwmi": {
       "path": "catalog/wwmi.json",
-      "sha256": "5436718aa15d99a1321ca66f4971575789bc323d8a18e4ce729b8af08a560242"
+      "sha256": "9feba831c003185f8963c2c77387e96983a3d690345c78d8aba94ba62deef075"
     },
     "zzmi": {
       "path": "catalog/zzmi.json",
-      "sha256": "e457954cfa6ffca29a946de079c5303113f72c49844118d6616e3a4f0c7dbfd4"
+      "sha256": "e0daea32d9f42ae1a9404f74a3cbb23a5486d871c5431f9ed24fd83bcf463716"
     }
   }
 }

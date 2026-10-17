@@ -170,6 +170,276 @@
         "sub_category": "Enemy"
       },
       "runtime_targets": []
+    },
+    {
+      "name": "Si",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Argent Flow",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Typhoeus",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Purrchena",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Arcane",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Liino",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Mi Fu",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Camille",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Zhuang Fangyi",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Tangtang",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Rossi",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Laevatain",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Yvonne",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Gilberta",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Ardelia",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Last Rite",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Lifeng",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Pogranichnik",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Alesh",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Arclight",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Avywenna",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Da Pan",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Snowshine",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Wulfgard",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Xaihi",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Akekuri",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Antal",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Catcher",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Estella",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
+    },
+    {
+      "name": "Fluorite",
+      "hash_db": {},
+      "tags": [],
+      "object_type": "Character",
+      "custom_skins": [],
+      "metadata": {},
+      "runtime_targets": []
     }
   ],
   "hash_db": {}

@@ -4645,6 +4645,64 @@
       "thumbnail_path": "assets/gimi/characters/venti.webp"
     },
     {
+      "name": "Vesna",
+      "hash_db": {},
+      "tags": [
+        "Vesna"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "release_date": "2026-09-23",
+        "rarity": "S-Rank",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Snezhnaya",
+        "release_version": "7.1",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Vesna Icon.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Vesna_Icon.png/revision/latest/",
+        "thumbnail_source_page": "https://genshin-impact.fandom.com/wiki/Character/List",
+        "thumbnail_asset_path": "assets/gimi/characters/vesna.webp",
+        "thumbnail_asset_sha256": "53bba59d56b4564093691c29820318db456f6895ce8e518541f137c3ff35c8dd",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Vesna_Icon.png/revision/latest/",
+        "thumbnail_width": 256,
+        "thumbnail_height": 256
+      },
+      "thumbnail_path": "assets/gimi/characters/vesna.webp"
+    },
+    {
+      "name": "Vodyanitsa",
+      "hash_db": {},
+      "tags": [
+        "Vodyanitsa"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "release_date": "2026-09-23",
+        "rarity": "S-Rank",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Snezhnaya",
+        "release_version": "7.1",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Vodyanitsa Icon.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Vodyanitsa_Icon.png/revision/latest/",
+        "thumbnail_source_page": "https://genshin-impact.fandom.com/wiki/Character/List",
+        "thumbnail_asset_path": "assets/gimi/characters/vodyanitsa.webp",
+        "thumbnail_asset_sha256": "0c94fa478773084d5396f2146fcbaf1bf48a1e23d1f47e01e5cb5f7d3cb2800e",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Vodyanitsa_Icon.png/revision/latest/",
+        "thumbnail_width": 256,
+        "thumbnail_height": 256
+      },
+      "thumbnail_path": "assets/gimi/characters/vodyanitsa.webp"
+    },
+    {
       "name": "Wanderer",
       "hash_db": {
         "Default": [
@@ -6065,8 +6123,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Sword",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "674 (48)",
+        "secondary_stat": "CRIT DMG 44.1% (9.6%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon Beyond the Chrysalis.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Weapon_Beyond_the_Chrysalis.png/revision/latest/",
@@ -6076,7 +6134,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Weapon_Beyond_the_Chrysalis.png/revision/latest/",
         "thumbnail_width": 688,
-        "thumbnail_height": 688
+        "thumbnail_height": 688,
+        "passive_name": "Dance of Wings Unbound"
       },
       "thumbnail_path": "assets/gimi/weapons/beyondthechrysalis.webp"
     },
@@ -6383,8 +6442,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Bow",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "510 (42)",
+        "secondary_stat": "CRIT Rate 27.6% (6%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon Breezeborne Refrain.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Weapon_Breezeborne_Refrain.png/revision/latest/",
@@ -6394,7 +6453,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Weapon_Breezeborne_Refrain.png/revision/latest/",
         "thumbnail_width": 380,
-        "thumbnail_height": 380
+        "thumbnail_height": 380,
+        "passive_name": "Viper's Ballad"
       },
       "thumbnail_path": "assets/gimi/weapons/breezebornerefrain.webp"
     },
@@ -8410,8 +8470,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Catalyst",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "542 (44)",
+        "secondary_stat": "HP 66.2% (14.4%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon Hymn of the Maelstrom.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Weapon_Hymn_of_the_Maelstrom.png/revision/latest/",
@@ -8421,7 +8481,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Weapon_Hymn_of_the_Maelstrom.png/revision/latest/",
         "thumbnail_width": 383,
-        "thumbnail_height": 383
+        "thumbnail_height": 383,
+        "passive_name": "Rondo of Slumber"
       },
       "thumbnail_path": "assets/gimi/weapons/hymnofthemaelstrom.webp"
     },
@@ -9394,8 +9455,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Sword",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "510 (42)",
+        "secondary_stat": "CRIT DMG 55.1% (12%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon New Bough.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Weapon_New_Bough.png/revision/latest/",
@@ -9405,7 +9466,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Weapon_New_Bough.png/revision/latest/",
         "thumbnail_width": 602,
-        "thumbnail_height": 602
+        "thumbnail_height": 602,
+        "passive_name": "Wildgrowth"
       },
       "thumbnail_path": "assets/gimi/weapons/newbough.webp"
     },
@@ -10840,8 +10902,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Sword",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "510 (42)",
+        "secondary_stat": "ATK 41.3% (9%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon Silver Light.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Weapon_Silver_Light.png/revision/latest/",
@@ -10851,7 +10913,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Weapon_Silver_Light.png/revision/latest/",
         "thumbnail_width": 215,
-        "thumbnail_height": 215
+        "thumbnail_height": 215,
+        "passive_name": "Radiance on the Water"
       },
       "thumbnail_path": "assets/gimi/weapons/silverlight.webp"
     },
@@ -12693,8 +12756,8 @@
         "equipment_kind": "Weapon",
         "weapon_type": "Catalyst",
         "rarity": "S-Rank",
-        "base_atk": "Unknown",
-        "secondary_stat": "None",
+        "base_atk": "510 (42)",
+        "secondary_stat": "CRIT DMG 55.1% (12%)",
         "thumbnail_provider": "fandom",
         "thumbnail_file": "Weapon Winter's Heavy Heart.png",
         "thumbnail_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Weapon_Winter%27s_Heavy_Heart.png/revision/latest/",
@@ -12704,7 +12767,8 @@
         "thumbnail_asset_content_type": "image/webp",
         "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Weapon_Winter%27s_Heavy_Heart.png/revision/latest/",
         "thumbnail_width": 283,
-        "thumbnail_height": 283
+        "thumbnail_height": 283,
+        "passive_name": "Secrets of Frost"
       },
       "thumbnail_path": "assets/gimi/weapons/wintersheavyheart.webp"
     },

@@ -3,7 +3,8 @@ param(
     [Parameter(Mandatory)]
     [ValidatePattern('^\d+\.\d+\.\d+([-.][0-9A-Za-z.-]+)?$')]
     [string]$Version,
-    [string]$SigningKeyPath
+    [string]$SigningKeyPath,
+    [switch]$VersionedOutput
 )
 
 $ErrorActionPreference = 'Stop'
@@ -23,7 +24,7 @@ if (-not (Test-Path -LiteralPath $SigningKeyPath -PathType Leaf)) {
     throw "Signing key not found at '$SigningKeyPath'. It must remain outside Git."
 }
 
-$dist = Join-Path $root 'dist'
+$dist = if ($VersionedOutput) { Join-Path $root "dist/$Version" } else { Join-Path $root 'dist' }
 $stage = Join-Path $dist ('.stage-' + [guid]::NewGuid().ToString('N'))
 $zip = Join-Path $dist 'catalog-pack.zip'
 $signature = Join-Path $dist 'catalog-pack.sig'

@@ -1488,6 +1488,35 @@
       "thumbnail_path": "assets/zzmi/characters/remielledan.webp"
     },
     {
+      "name": "Roxy Ifrita Pryce",
+      "hash_db": {},
+      "tags": [
+        "Roxy Ifrita Pryce"
+      ],
+      "object_type": "Character",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "release_date": "2026-09-29",
+        "rarity": "S-Rank",
+        "element": "Wind",
+        "specialty": "Stun",
+        "attack_type": "Strike",
+        "faction": "Flint Workshop",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "Agent Roxy Ifrita Pryce Icon.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/db/Agent_Roxy_Ifrita_Pryce_Icon.png/revision/latest/",
+        "thumbnail_source_page": "https://zenless-zone-zero.fandom.com/wiki/Agent/List",
+        "thumbnail_asset_path": "assets/zzmi/characters/roxyifritapryce.webp",
+        "thumbnail_asset_sha256": "66c1ef791005683cbf02c55606a564c73a34a34ac4e37dab77ca60c0137ea81f",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/db/Agent_Roxy_Ifrita_Pryce_Icon.png/revision/latest/",
+        "thumbnail_width": 283,
+        "thumbnail_height": 307
+      },
+      "thumbnail_path": "assets/zzmi/characters/roxyifritapryce.webp"
+    },
+    {
       "name": "Seed",
       "hash_db": {},
       "tags": [
@@ -3084,6 +3113,37 @@
         "thumbnail_height": 400
       },
       "thumbnail_path": "assets/zzmi/weapons/cordisgermina.webp"
+    },
+    {
+      "name": "Crimson Moon Casket",
+      "hash_db": {},
+      "tags": [
+        "Crimson Moon Casket"
+      ],
+      "object_type": "Weapon",
+      "custom_skins": [],
+      "runtime_targets": [],
+      "metadata": {
+        "equipment_kind": "W-Engine",
+        "rarity": "S-Rank",
+        "specialty": "Stun",
+        "attribute": "—",
+        "exclusive": "Roxy Ifrita Pryce, Roxy Ifrita Pryce",
+        "base_stat": "Base ATK 48",
+        "advanced_stat": "Energy Regen: 24",
+        "release_version": "3.2",
+        "thumbnail_provider": "fandom",
+        "thumbnail_file": "W-Engine Crimson Moon Casket.png",
+        "thumbnail_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9f/W-Engine_Crimson_Moon_Casket.png/revision/latest/",
+        "thumbnail_source_page": "https://zenless-zone-zero.fandom.com/wiki/W-Engine/List",
+        "thumbnail_asset_path": "assets/zzmi/weapons/crimsonmooncasket.webp",
+        "thumbnail_asset_sha256": "c8c2d0caff75849c9f40e2c0462df382d9f11e5c08713d42e3c3bb17e1585cf4",
+        "thumbnail_asset_content_type": "image/webp",
+        "thumbnail_asset_source_url": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9f/W-Engine_Crimson_Moon_Casket.png/revision/latest/",
+        "thumbnail_width": 400,
+        "thumbnail_height": 400
+      },
+      "thumbnail_path": "assets/zzmi/weapons/crimsonmooncasket.webp"
     },
     {
       "name": "Crimson Thirst",
